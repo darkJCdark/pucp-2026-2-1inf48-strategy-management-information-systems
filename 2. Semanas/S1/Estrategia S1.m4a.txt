@@ -1,6 +1,1014 @@
-¿Morales? ¿Tesis 1? ¿Tesis 2? ¿Tesis 2? Punto 1. Adelante. Está llamando. Hola, chicos, ¿cómo están? Tal como les mencionaba, mi nombre es Luis Morales. Conozco a algunos, pero de manera virtual. Soy profesor del curso de Estrategia y vengo siendo profesor aquí hace un año, más o menos; año y medio creo que he estado. Contento de poder ayudarlos en esta última etapa. Creo que ya esto es su último curso, creo, ¿no? ¿Sí? ¿Han terminado el Tesis 2 y están más tranquilos? Vamos. Y luego hay otra que es porque le dejan una tarea y luego el profesor les tiene que trabajar. ¿Cuál?
-
-DP1. Un curso que le dejan un. DP1. Un proyecto. DP2. DP2. DP2. DP1. Porque el ciclo pasado la segunda vez que dijo el profesor: "El ciclo pasado tenían cruce con ese curso y Tesis 2 y este curso". Con cruce me refiero a que por la carga de trabajo que tenían. Ahora les voy a comentar un poquito más sobre el curso y todo lo que vamos a hacer, etcétera. Vamos a cambiar la dinámica correspondiente al ciclo pasado a una nueva dinámica este ciclo. Así que ahora van a trabajar un poquito más de lo esperado. Lo importante, lo que sí es lo importante, es que asistan a clase. Es una parte importante porque acá interactuamos en algunas cosas. Van a tener sus prácticas también, van a tener su propia práctica. Y bueno, ya vamos a ver el examen final. Bien. He incrementado, no sé qué ha pasado, que se incrementaron cuatro horarios. Ahorita en mi clase tengo 35, si no me equivoco. Sí, son 35. Para que puedan ser más dinámicos, de estar ayudando, porque ya es la última hora, se cree y se van a dormir. Así que vamos a ver cómo trabajamos eso. Bueno, soy profesor del curso, profesor aquí en la Católica desde hace más o menos un año y algo, pero ya he sido profesor creo que cuando ustedes estaban en el colegio acá.
-
-De ahí me fui a la San Ignacio, y de ahí pandemia, y he regresado a la Católica. La Católica es mi alma mater, y yo soy también ingeniero informático, como ustedes lo van a usar. He estado también, tengo un máster, un MBA en Farm School, que es de ASU, Arizona State University. Espero poder ayudarlos en este proceso, porque Estrategia ahorita lo que vamos a ver, el curso se llama Estrategia y Gestión de Sistemas de Información. ¿Cómo se come eso? Hay un componente que es Sistemas de Información. Ustedes han visto Sistemas de Información, ¿no? Sí, Sistemas de Información, Análisis, Gestión, etcétera. Han analizado cómo los datos se mueven de un lado a otro. Y ahora lo que necesitamos, y ya han hecho trabajos ustedes, ha sido sobre gestión. Entonces, ¿cómo gestionar esta información? Por ejemplo, si yo ahorita quiero saber cuál es la ruta más corta para ir de acá a Plaza San Miguel, tienen la información, tienen los datos, que se van a convertir en información a través de un sistema.
-
+00:00 Speaker 1: Morales, tesis 1, tesis 2.
+01:00 Speaker 2: virtual.
+01:01 Speaker 1: Soy profesor del curso de estrategia
+01:04 Speaker 2: y vengo haciendo un profesor de aquí hace un año, más o menos un año en lo que he estado. Así que,
+01:13 Speaker 1: contento de poder ayudarlos en esta última etapa. Creo que ya todos estos últimos
+01:19 Speaker 2: cursos, creo, ¿no? Sí.
+01:22 Speaker 1: Este es un tecido que está muy feliz. Vamos. que le dejan una tarea y luego se
+01:32 Speaker 2: va a hacer el profesor que tiene que ir a trabajar.
+01:38 Speaker 1: Un curso que le dejan un proyecto. Porque el
+01:51 Speaker 2: siglo pasado, la segunda vez que
+01:54 Speaker 1: he visto el curso A, el siglo pasado tenía un cruce con ese curso y este curso.
+02:03 Speaker 2: Cruce me refiero
+02:04 Speaker 1: a que con la carga de trabajo. Ahora tengo que comentar un poquito más sobre el curso y todo lo que vamos a hacer, etc.
+02:14 Speaker 2: Vamos a cambiar la dinámica correspondiente del ciclo pasado. Vamos a cambiar la dinámica de este ciclo.
+02:20 Speaker 1: Ahora vamos a tomar un poquito más desesperado.
+02:25 Speaker 2: Lo importante
+02:26 Speaker 1: es que existan a clase. Es una parte importante que
+02:31 Speaker 2: es... Porque acá interactuamos con algunas cosas, van a
+02:36 Speaker 1: tener sus prácticas también, van a tener sus prácticas. Y
+02:40 Speaker 2: van a llegar a subir el examen final. Bien.
+02:45 Speaker 1: He incrementado, no sé qué ha pasado, que se incrementa en cuatro horarios. Ahorita en mi clase tengo 35,
+02:51 Speaker 2: si no me equivoco. Sí, son 35. Así que es el
+02:57 Speaker 1: tema más dinámico de ayudarlo porque ya es...
+03:03 Speaker 2: La última hora se inicia
+03:05 Speaker 1: y se van a dar
+03:07 Speaker 2: un mensaje.
+03:08 Speaker 1: Vamos a ver cómo trabajamos eso. Bueno, soy profesor
+03:12 Speaker 2: con el curso,
+03:14 Speaker 1: profesor aquí en la Católica, de hace más o menos un año y algo, pero ya he sido profesor,
+03:21 Speaker 2: porque cuando ustedes saben el colegio acá,
+03:25 Speaker 1: de ahí me fui a la San Ignacio,
+03:26 Speaker 2: de pandemia,
+03:29 Speaker 1: y he regresado a la Católica.
+03:32 Speaker 2: La Católica es mi alma mater,
+03:34 Speaker 1: y yo soy también ingeniero informático,
+03:37 Speaker 2: como ustedes lo van a usar. He estado también, tengo un master, un MBA, en el Farnborough School, que es de
+03:51 Speaker 1: ASU,
+03:53 Speaker 2: en Arizona State University.
+03:56 Speaker 1: Espero poder ayudarlos en este proceso, porque estrategia... Ahorita lo que vamos a ver, el curso se llama estrategia y gestión de sistemas de información. ¿Cómo se come eso?
+04:10 Speaker 2: Hay un componente que es sistemas de información. Ustedes han visto sistemas de información, ¿no? Sí, sistemas de
+04:19 Speaker 1: información, análisis, gestión, etc.
+04:22 Speaker 2: Han analizado cómo los datos se mueven de un lado a otro.
+04:29 Speaker 1: Y ahora lo que necesitamos, y ya han hecho trabajo ustedes, ha sido sobre gestión. Entonces, ¿cómo gestionar esta información? Por ejemplo, si yo ahorita quiero saber cuál es la ruta más corta para ir acá a Plaza San Miguel,
+04:53 Speaker 2: Tienen la información de estos datos,
+04:55 Speaker 1: que se van a convertir en información a través de un sistema, pero luego lo van a gestionar. La gestión va a ser, ok, ya conozco el algoritmo que va a ser esa edad, lo voy a guardar, la próxima vez que me dicen, lo voy a hacer así, y después, ¿qué pasa si no estoy acá? Si no estoy en dos olivos, entonces va a haber una nueva forma de cómo gestionar toda esta
+05:15 Speaker 2: información para poder que la información sea mucho más práctica. Y ahora viene un tercer componente. Estrategia.
+05:23 Speaker 1: ¿Ok? Ustedes han visto esto.
+05:26 Speaker 2: Ustedes han visto esto también en software. En software han visto el tema de gestión. Y
+05:33 Speaker 1: ahora vamos a ver el tema de estrategia.
+05:37 Speaker 2: ¿A
+05:38 Speaker 1: qué se refiere con este tema de estrategia?
+05:40 Speaker 2: ¿Cómo voy a hacer estrategia y gestionar todo el sistema de información? A ver, ideas.
+05:46 Speaker 1: ¿Qué es lo que esperan del curso?
+05:57 Speaker 2: Tal vez cómo se va a gestionar todos los sistemas de información desde la perspectiva de la alta dirección. Atención un poco más. ¿Qué es la expectativa de alta dirección? Obtener beneficios, lucrar. ¿Qué son las beneficios de alta dirección? Bueno, ellos esperan obtener más ganancias, me imagino, a fin de mes. ¿Es un ejemplo? Claro. ¿Qué es ese ejemplo? Toma allá, toma allá. ¿Ahí quiere ayudarlo? Sí.
+06:37 Speaker 1: ¿Qué es
+06:40 Speaker 2: la
+06:45 Speaker 1: misión de una empresa?
+06:48 Speaker 2: Misión, misión. ¿La misión? Misión. Objetivos. ¿Cómo las mides? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿La misión? ¿A través de...? Objetivos. ¿Cómo mides esas menos objetivos? Tesis 1. Indicadores. ¿Indicadores? KPIs. KPIs. Excelente. Listo.
+07:41 Speaker 1: Tú me echas un ejemplo como mano de KPIs. ¿Por qué quieres lograr con eso?
+07:47 Speaker 2: Que la empresa sea una referente en su sector. Monopolio, por supuesto. ¿Monopolio? O sea, estaba feliz, ¿no? PetroPerú, ¿cuál sirve su café?
+08:15 Speaker 1: ¿Qué es PetroPerú?
+08:18 Speaker 2: Una empresa de... Una empresa de hidrocarburos. Una empresa de hidrocarburos. ¿Pero qué hace, específicamente? Refinar. ¿Cómo? Refinar.
+08:32 Speaker 1: ¿Y después?
+08:39 Speaker 2: ¿Cuál es el objetivo? ¿Vender petróleo?
+08:48 Speaker 1: Por ejemplo, si el Perú necesita un millón de barriles...
+08:54 Speaker 2: ¿Petro Perú le tiene que brindar ese millón? Por eso, ¿qué tiene que hacer a Petro Perú? Entonces, ¿cuál es su meta?
+09:04 Speaker 1: ¡École! Buenazo,
+09:05 Speaker 2: abastecer. Chévere. Entonces,
+09:08 Speaker 1: Petro Perú es lo único que abastece. Su meta es, como dice el señor,
+09:14 Speaker 2: ser referente del mercado. ¡Es el único! ¿Por qué?
+09:36 Speaker 1: Entonces, si la oferta peruana es
+09:38 Speaker 2: corta, ¿qué tiene que hacer Petro Perú?
+09:43 Speaker 1: Importar. Y si tiene que importar, tiene que ver en el mundo dónde puede importar más barato, más cómodo,
+09:50 Speaker 2: mejor. Bien, ¿cuál es la meta de Pedro Perú? ¿Cuál es el objetivo de Pedro Perú? Abastecer la demanda
+10:06 Speaker 1: de petróleo. Hay
+10:12 Speaker 2: otro
+10:19 Speaker 1: punto importante, porque eso es un factor económico. ¿Y qué pasaría con el factor social? ¿El Perú no está feliz o no está feliz? ¿Qué ha pasado ahora último con el gobierno? ¿Qué quiere subsidiar? ¿Qué quiere subsidiar? ¿Qué quiere subsidiar? ¿Qué quiere subsidiar? ¿Qué quiere subsidiar?
+10:42 Speaker 2: ¿Qué quiere subsidiar?
+10:45 Speaker 1: ¿Solo transporte? ¿Solo transporte?
+10:48 Speaker 2: ¿Qué lees? Vamos,
+10:53 Speaker 1: ¿qué quiere subsidiar? ¡Googleen! Pregúntenle al chat. Quiere subsidiar no solamente petróleo, quiere subsidiar todo lo que es transporte. ¿No es cierto? ¿Por qué? Porque es un tema social. ¿Qué pasaría si es
+11:06 Speaker 2: que no está subsidiado el transporte?
+11:09 Speaker 1: ¿Dejaría de abastecer la
+11:12 Speaker 2: demanda? La
+11:14 Speaker 1: demanda sería suicida y el factor social que sería, ¿qué pasaría con el peruano? Ok. Y habría estallido social. ¿No cierto? Hay que reducir ese estallido social. Entonces tenemos que abastecer eso. Creo que es un PI. ¿No? Entonces le voy a hacer una encuesta a lo robado. Pero tal como está mencionando, uno de los puntos sería el precio.
+11:42 Speaker 2: ¿Cuál sería el precio? ¿Cuál? ¿Cuál sería el precio? Porque me tengo que abastecer. ¿Y dónde voy a sacar esa plata?
+11:51 Speaker 1: Regreso del Ministerio de Economía, Ministerio de Economía en el 2007.
+11:54 Speaker 2: Y este dinero. ¿Ya? Tengo que abastecer. Ahora, ¿por qué
+11:58 Speaker 1: no me abastece a mí que tengo cargo? ¿Por qué tiene que ser el camión? ¿Por
+12:02 Speaker 2: qué tiene que ser el transporte? Porque esos camiones son los responsables. Son la pieza central de la logística en el que hay para transportar.
+12:13 Speaker 1: Ya, chévere. ¿Tú usas Rappi?
+12:17 Speaker 2: ¿Usas Rappi? ¿No? ¿Qué usas? ¿Vas a delivery? ¿No? ¿Te vas al tambo? A
+12:33 Speaker 1: veces.
+12:33 Speaker 2: ¿Qué compras ahí? Snacks.
+12:39 Speaker 1: ¿Qué pasaría si mando el petróleo y el snack llegas y
+12:45 Speaker 2: no hay el snack que tú quieres? Buscas otro.
+13:05 Speaker 1: ¿Por qué subsidio el transporte? Estoy buscando otro KPI. ¿Por qué subsidio el transporte? Porque si yo no transporto los
+13:14 Speaker 2: productos, el
+13:18 Speaker 1: peruano no tiene en su mesa.
+13:20 Speaker 2: Y al no tener productos de programa en su mesa,
+13:22 Speaker 1: ¿qué puede pasar? Escasez. Entonces tengo que subsidiar ese transporte.
+13:26 Speaker 2: Luego, también, ¿por qué hago subsidio en transporte público? Porque si no, no se puede movilizar.
+13:33 Speaker 1: Todo eso hace que la economía se mueva. Porque si ustedes vienen acá, es para que puedan estudiar y
+13:41 Speaker 2: hacen que la economía del transporte
+13:43 Speaker 1: que vino tenga el dinero y pueda subsistir a sus hijos. Jala en la economía. Luego te puedes bajar en un tambo y encuentras un Slack a
+13:54 Speaker 2: tu gusto, justo porque ahorraste, porque viniste en un
+13:59 Speaker 1: transporte que te cobró menos.
+14:02 Speaker 2: ¡Listo! Por eso haces el subsidio. Entonces, por si tiene el siguiente
+14:04 Speaker 1: KPI, a través de eso, yo subsidio el 25%. ¿Qué espero con ese subsidio? ¿Por qué no es 20? ¿Por qué no es 15? ¿Qué esperas con su subsidio? Con
+14:15 Speaker 2: todo este ejemplo que hubiese dado.
+14:42 Speaker 2: Ahorrarlo.
+14:46 Speaker 1: Si yo subcie 25, espero,
+14:48 Speaker 2: del 25 a más, que suba el producto,
+14:53 Speaker 1: o por lo menos que no baje el 25. Ese es el siguiente KPIs. Entonces tendría tres KPIs, y esos son los KPIs,
+15:01 Speaker 2: y luego lo agarro y
+15:02 Speaker 1: lo publico en donde. Y así yo puedo decir a todo el mundo, la
+15:09 Speaker 2: demanda está, los
+15:12 Speaker 1: precios se han mantenido, la producción se ha mantenido, demás, y la
+15:17 Speaker 2: gente está contenta, no hay estadios sociales. No
+15:21 Speaker 1: hay estadios sociales, no hay estadios sociales por el tema del barrio. Serían tres cosas y tres indicadores que podría decir.
+15:30 Speaker 2: Bien.
+15:31 Speaker 1: Meta, KPIs, indicadores. Profe, ¿qué tiene que ver con gestión del sistema de información? Vamos. ¿Qué tiene que ver con todo lo que hemos dicho? ¿Hemos hablado algo de informática?
+15:45 Speaker 2: Información. Información hemos hablado. ¿Cómo capturas esa información? Un ejemplo. A partir de herramientas. ¿De herramientas? Como por ejemplo, Llenando un Excel, tal vez.
+16:23 Speaker 1: No, es que le he sacado el Instituto Nacional de Estadística.
+16:27 Speaker 2: Chévere.
+16:29 Speaker 1: ¿Por qué te bajas un Excel? ¿Por qué no te conectas de
+16:31 Speaker 2: frente a un API?
+16:34 Speaker 1: Cosa que nos olvidamos de que el libro manipula su Excel.
+16:40 Speaker 2: ¿Quién me da eso? Entonces,
+16:48 Speaker 1: esta información,
+16:49 Speaker 2: bajo qué sistemas la tengo que trabajar, y
+16:52 Speaker 1: luego tengo cómo gestiono todo ese sistema. ¿Para qué? Para obtener la estrategia. Entonces, este curso lo que se va a tratar es que ustedes puedan diseñar una estrategia
+17:04 Speaker 2: que ayude a que esto se funcione.
+17:18 Speaker 1: Preguntas por allá.
+17:23 Speaker 2: ¿Estás usando el monitor? ¿Estás usando el monitor?
+17:33 Speaker 1: ¿Preguntas?
+17:37 Speaker 2: Le he puesto a ustedes ese sílabo, si quieren
+17:40 Speaker 1: me pueden decir conmigo sobre de qué vamos a tratar
+17:50 Speaker 2: ¿Ya?
+17:51 Speaker 1: Ok, bueno. Este es un curso teórico práctico. Lo que tratamos es que sea más práctico que teórico. Tratamos, no solo
+18:00 Speaker 2: de ellos, sino de los demás profesores. Aquí estamos
+18:02 Speaker 1: tres, profesor Ortálaga, profesor Luis
+18:06 Speaker 2: Flores y Luis Sal. ¿De acuerdo?
+18:10 Speaker 1: Ambos estamos tratando de que, por
+18:12 Speaker 2: si acaso...
+18:20 Speaker 1: no es lo mismo que el ciclo pasado esto es un cambio de ciclo porque queremos hacer un enfoque más práctico y muchísimo más estratégico de lo
+18:30 Speaker 2: que puede ser así que
+18:31 Speaker 1: el feedback en clase sería genial
+18:35 Speaker 2: lo
+18:37 Speaker 1: que vamos a hacer ahí está
+18:40 Speaker 2: la descripción de las tareas de
+18:43 Speaker 1: cada semana
+18:46 Speaker 2: Vamos a hablar acerca de... Este es el programa.
+18:55 Speaker 1: Ahora estamos hablando de
+18:58 Speaker 2: todo el tema de entrenamiento estratégico que va a
+19:01 Speaker 1: dar en las manos con lo del curso. En las siguientes tres horas vamos a hablar del modelo de negocio y propuesta de valor.
+19:09 Speaker 2: Luego vamos a hablar de las
+19:11 Speaker 1: organizaciones externas y estrategias que les ayuden a poder identificar el océano rojo y el océano azul. a través de Formula de Balance Workout. Toda esta información es un poco para entender, o sea, los primeros
+19:28 Speaker 2: capítulos es un poco para poder entender de
+19:30 Speaker 1: dónde estamos nosotros posicionados dentro del negocio.
+19:34 Speaker 2: ¿Sí?
+19:37 Speaker 1: Los siguientes capítulos van a ayudar a poder organizarse. A partir del capítulo 6, van a ayudar a poder organizarse. Ok, ya tengo toda esta información, listo. ¿Cómo nos realizamos con todas estas aplicaciones o ese roadmap que podemos llegar?
+19:57 Speaker 2: ¿Cuáles van a ser mis habilitadores?
+20:02 Speaker 1: ¿Cuál sería el protocolo de los proyectos que serían? ¿Cómo nos vamos a organizar a
+20:05 Speaker 2: nivel de TI? ¿Cómo sería la parte cooperativa?
+20:09 Speaker 1: ¿Cómo sería la parte estratégica? ¿Qué es lo que está pasando en el mundo en
+20:14 Speaker 2: función de TI? ¿No? O sea, hoy un gerente TI, ¿qué le está pasando?
+20:26 Speaker 1: ¿Algo importante de acá? antes de hablar sobre las evaluaciones. ¿Qué cosa queremos nosotros lograr?
+20:50 Speaker 2: Ojo, nosotros queremos lograr que ustedes
+20:52 Speaker 1: puedan evaluar un modelo de negocio.
+20:55 Speaker 2: Lo que les acabo de decir. Identificar problemas y
+21:01 Speaker 1: los indicadores principales. Elaborar en función de estos problemas un business case.
+21:08 Speaker 2: ¿Para qué?
+21:09 Speaker 1: Para que este business case los ayude a poder sustentar cómo van a solucionar este problema y van a elaborar un plan estratégico de
+21:22 Speaker 2: todo
+21:24 Speaker 1: lo que ustedes han aprendido de sistemas. Cuando su compañero dijo, ok,
+21:32 Speaker 2: hacer Excel, ya. ¿Cuándo aprendieron ustedes Excel?
+21:35 Speaker 1: Desde que vinieron del colegio.
+21:38 Speaker 2: Ok, excelente.
+21:39 Speaker 1: Luego han aprendido algoritmos, luego han aprendido sistemas, y ahora es cómo uso ese
+21:47 Speaker 2: sistema, cómo esa
+21:50 Speaker 1: gestión ayuda a la estrategia de negocio. Entonces, esto es lo que nosotros queremos. Cuando ustedes terminen, el curso, van
+22:00 Speaker 2: a decir, profe, ya puedo ir al monolaboral pensando,
+22:06 Speaker 1: no solamente por el lado de TI, sino pensando también por el lado de negociar. Hacé ese match. ¿Ok? Ese es el propósito que queremos usar nosotros como profesores.
+22:16 Speaker 2: ¿Sí? ¿Aceptan el reto? ¿Te conocen? Algunos. A él. No, yo sé que tú me conoces. A él, a él, a él. Ok.
+22:38 Speaker 1: Ok. Esa es la forma de...
+22:51 Speaker 2: Fórmula. ¿Ya?
+22:52 Speaker 1: No la hemos cambiado. Sigue siendo el promedio de las prácticas es el 40%. De las 7 prácticas, ustedes pueden eliminar 2.
+23:02 Speaker 2: Las prácticas son los A2. De
+23:04 Speaker 1: esas 7, eliminan 2. Y esas 2, bueno, si hacen las 7, se eliminan las 2 más bajas.
+23:11 Speaker 2: Y se promedio el 40%.
+23:13 Speaker 1: El otro 60% es por un examen. ¿Ok? Este examen... van a tener parcial y final. ¿De qué se va a tratar el examen? El examen es de durante estas prácticas se le va a entregar a ustedes un caso y este caso lo van a llevar hasta el final.
+23:35 Speaker 2: ¿De acuerdo? Eso va a ser de que ustedes en
+23:38 Speaker 1: el examen parcial van
+23:40 Speaker 2: a sustentar el
+23:42 Speaker 1: parcial de ese caso, la mitad del caso.
+23:45 Speaker 2: Y en el examen final van a sustentar el caso
+23:50 Speaker 1: total. ¿Cuándo lo van a hacer? Lo van a
+23:56 Speaker 2: hacer justamente en el día
+23:58 Speaker 1: de evaluación. Son 35, van a tener que hacer 7 grupos, máximo de 5. Así que ya vayan pensando en ese caso de grupo. Lo van a decir en su primera práctica.
+24:13 Speaker 2: La siguiente, ¿no? Sí. Esa es su primera práctica
+24:18 Speaker 1: y ahí ya se va a juntar a grupos
+24:20 Speaker 2: y van a empezar a trabajar.
+24:22 Speaker 1: Las prácticas pueden ser entre teóricas o grupales, va a depender de las fechas y los temas. Pero la idea es que ustedes tomen un caso y comiencen a desarrollarlo en el examen parcial y respondan al
+24:38 Speaker 2: tema. Yo les pongo el examen final, la
+24:43 Speaker 1: exposición, y otra. Ahí es el
+24:46 Speaker 2: 60% de su curso, y el 40% de su curso. Por
+24:50 Speaker 1: eso es importante que vengan a clase,
+24:52 Speaker 2: porque en este examen,
+24:55 Speaker 1: las preguntas las voy a
+24:57 Speaker 2: hacer yo, y si
+24:59 Speaker 1: vengan a clase, más o menos se van a dar cuenta de las preguntas que vengan a hacer. ¿Ok? Inglés, exposición, etc. van a tener a su jefe de práctica que le van a ayudar en eso,
+25:12 Speaker 2: en
+25:15 Speaker 1: estigmatizar bien su caso, pues también estoy yo en clases y que también lo
+25:20 Speaker 2: pueden hacer en la escuela, pero
+25:23 Speaker 1: su jefe de práctica le va a ayudar. Tiene jefe de práctica que son exalumnos, así que tienen uno que, bueno,
+25:32 Speaker 2: los dos trabajan.
+25:34 Speaker 1: Dicho sea de paso, el siglo pasado tuvieron unas prácticas y se les mandó prácticas
+25:39 Speaker 2: preprofesionales, se les mandó a los alumnos, a todos.
+25:44 Speaker 1: Así que,
+25:45 Speaker 2: por ejemplo,
+25:47 Speaker 1: porque alguno de los jefes de práctica posiblemente tengan vacantes,
+25:53 Speaker 2: los conocen y pueden ayudarlos ahí.
+26:00 Speaker 1: Así que también somos muy buenos.
+26:08 Speaker 2: Profesor, mencionó que los laboratorios son grupales. Puede ser grupal o
+26:13 Speaker 1: puede ser individual.
+26:16 Speaker 2: ¿Los individuales que son resolver un caso también? Sí, y desarrollado. Un cuestionario. ¿Perdona? Un cuestionario también. ¿Qué es? O sea, opciones para marcar.
+26:40 Speaker 1: Lo que queremos, si se dan cuenta con el lado estratégico, lo que queremos es que ustedes analicen.
+26:47 Speaker 2: Ya saquen esa venta
+26:49 Speaker 1: analítica que tienen.
+27:01 Speaker 2: Bien,
+27:04 Speaker 1: preguntas,
+27:05 Speaker 2: más preguntas.
+27:10 Speaker 1: Bueno, yo voy a tratar de hacerla corrido, si tienen que ir al baño, si tienen que ir a la parte de atrás, sin problema, si llegan tarde de atrás, sin
+27:21 Speaker 2: problema, yo voy a cerrar la garra porque si no me distraen, me distraen con un pedido.
+27:28 Speaker 1: Voy a tratar de hacerlo largo,
+27:30 Speaker 2: pero hoy
+27:32 Speaker 1: ya creo que voy a hacer un break.
+27:35 Speaker 2: En embargo, voy a tratar de hacer más clases.
+27:39 Speaker 1: a lo largo y a lo largo y a lo largo y a lo largo y a lo largo y a lo largo y
+27:42 Speaker 2: a lo largo y
+27:49 Speaker 1: a lo largo
+28:15 Speaker 1: La pregunta es, ¿dónde quiere competir? En realidad es, ¿dónde crear valor? Los que han hecho tesis 2 conmigo,
+28:25 Speaker 2: se habrán dado cuenta que esto es lo
+28:30 Speaker 1: principal dentro de lo que era su tesis. Lo digo para sacarlo como ejemplo.
+28:36 Speaker 2: Si su tesis, ¿cuál es el valor? que tienen ustedes.
+28:42 Speaker 1: O sea, es súper similar a lo que es la empresa. ¿Qué le da valor? ¿Qué cosa le diferencia a ustedes del resto
+28:48 Speaker 2: sobre su precio?
+28:50 Speaker 1: Entonces, las empresas lo que buscan
+28:51 Speaker 2: es saber qué cosa le
+28:56 Speaker 1: da valor, aprecian sus clientes, o por qué
+28:59 Speaker 2: existen. ¿Qué cosa le da valor?
+29:08 Speaker 1: A ver, dos, tres ejemplos, a ver, si no hay Orihuela.
+29:15 Speaker 2: Denme un ejemplo de una empresa, ¿en
+29:17 Speaker 1: qué tú crees que le daría valor?
+29:20 Speaker 2: Bueno, por ejemplo...
+29:36 Speaker 1: ¿Cuál es la diferenciación con Clara?
+29:41 Speaker 2: Bueno, la diferenciación podría ser...
+29:51 Speaker 1: Tú me has dicho eso, entonces no le veo el valor en comprar. Claro, porque a mí los dos es el
+29:56 Speaker 2: servicio. Bueno, pero puede ser el valor de la... O
+30:04 Speaker 1: si quieres otra
+30:05 Speaker 2: empresa. ¿Quién es la Católica? Bueno, pero es empresa. ¿La Católica? Sí, empresa. No, pero sí. ¿Tú crees?
+30:19 Speaker 1: Sí, ¿no? Sin comentarios. Pero es una organización.
+30:24 Speaker 2: Cualquier organización. Puede ser... ¿Sí
+30:27 Speaker 1: o cómo?
+30:28 Speaker 2: Bueno, lo que es la Católica. Ya. Que su servicio es el... Su propuesta de valor es el servicio educativo y la formación a una medida profesional.
+30:38 Speaker 1: ¿Cuál es la diferencia con el OPC?
+30:42 Speaker 2: Podría ser el plan de estudio de enfocados, la formación de arteria en el carrero.
+30:47 Speaker 1: ¿Sigue siendo el OPC? Es un
+30:56 Speaker 2: prestigio. ¿Qué
+31:08 Speaker 1: significa eso? ¿Qué significa convenio? ¿Qué tipo de convenio se da convenio con los alimentos?
+31:21 Speaker 2: Ya, ¿qué es eso? Son recursos.
+31:28 Speaker 1: Pero todos transmiten recursos a los alumnos, pero ¿qué cosa es eso? ¿Qué tipo de recursos son?
+31:35 Speaker 2: ¿Se los da gratis?
+31:39 Speaker 1: Por ejemplo, puede ser recursos alumnos gratuitos, o puede ser, creo que un poquito a
+31:45 Speaker 2: lo que vas, recursos alumnos...
+31:49 Speaker 1: Recursos de prestigio, ¿verdad? O sea, que tenga valor.
+31:56 Speaker 2: Un electrónico, en
+32:06 Speaker 1: la base de datos, todo lo que es electrónico,
+32:08 Speaker 2: es un recurso que tú lo pagas. El Harvard Business Review, no todas las universidades lo tienen, también le pagan.
+32:21 Speaker 1: El principio de comer es por acceso,
+32:23 Speaker 2: por persona.
+32:27 Speaker 1: Y así,
+32:28 Speaker 2: ¿no? Pero son,
+32:29 Speaker 1: si tenemos, podemos tener un recurso de la
+32:33 Speaker 2: Universidad de Santiago de Chile, ¿no? O sea, que también puede tener un recurso de la Universidad de Santiago de Chile.
+32:46 Speaker 1: Eso para ti es un valor, pero fuera de eso, esto no es, esto es lo que tú aprecias que
+32:55 Speaker 2: te da. Pero, ¿qué
+32:58 Speaker 1: te genera valor? Todavía es una
+33:00 Speaker 2: característica que te da, pero ¿cuál es el valor? Ya, les doy una pista, ¿ya?
+33:12 Speaker 1: Empezamos. ¿Cuál es la mente y los objetivos de la universidad?
+33:19 Speaker 2: ¿Perdón? Y luego me dan los capítulos. ¿Ustedes, pues, alumnos? Hablo de alumnos. ¿Alumnos? Capaces.
+33:39 Speaker 1: De calidad, ¿verdad? ¿Cómo mides esto?
+33:59 Speaker 2: Número de tesis. Número de certificado de certificaciones.
+34:09 Speaker 1: Número de ganadores
+34:11 Speaker 2: internacionales. Número de qué? ¿Qué más?
+34:21 Speaker 1: ¿Por notas?
+34:28 Speaker 2: Claro,
+34:31 Speaker 1: o sea, no es un indicador válido, pero ¿qué significa eso?
+34:43 Speaker 2: No, no, vamos a ver algunos de calidad.
+34:45 Speaker 1: Y si yo tengo algunos de calidad, ¿qué va a pasar?
+34:52 Speaker 2: van a venir más jóvenes a estudiar aquí. O sea, egresados. Profesionales desecados. Ya, de calidad, ya.
+35:01 Speaker 1: No de calidad, pero egresados de calidad. Gracias.
+35:04 Speaker 2: Ya, ahora, aquí es KPI. ¿Cómo vienes un egresado? ¿Número de alumnos? Con títulos. ¿Número de alumnos? Con trabajo.
+35:26 Speaker 1: ¿En menos
+35:26 Speaker 2: de 90 días de egresado? A ver. Eso. Esa es calidad. Bueno,
+35:34 Speaker 1: es un indicador de calidad porque
+35:35 Speaker 2: se recoloca muy fácil. ¿Qué más?
+35:43 Speaker 1: Número de egresados.
+35:50 Speaker 2: Maestrías.
+35:59 Speaker 1: Si yo tengo esto de acá y esto de acá y lo muestro, ¿cuál es el valor? Gracias. Reputación. ¿Por qué tanto dicen
+36:21 Speaker 2: estoy en él?
+36:25 Speaker 1: Salve, no me lo tanto, no me lo tanto de tal lugar. Hacia
+36:31 Speaker 2: allá.
+36:32 Speaker 1: Es organización.
+36:36 Speaker 2: Bueno, yo no puedo llegar ahí porque cuesta.
+36:39 Speaker 1: Hablábamos de recursos, ¿no? Cuesta. Si yo soy pequeña, yo estoy creciendo, ¿qué tengo que hacer? ¿Cuál sería mi valor? Podría tener esto, posiblemente, como soy pequeña no tengo el estado suficiente, entonces me voy acá. Y alumnos de calidad, sí, pero todavía los alumnos están
+37:03 Speaker 2: chiquitos.
+37:06 Speaker 1: ¿Qué puedo hacer, no?
+37:14 Speaker 2: ¿Puedo hacer mejor en educación virtual?
+37:16 Speaker 1: ¿Qué más? ¿Lo que quiero hacer mejor en educación virtual sería valor? ¿Especializarse? Sí, me parece genial tu idea. Por ejemplo, me especializo en medicina. ¿Y
+37:28 Speaker 2: qué tengo? Los mejores médicos
+37:31 Speaker 1: que se están enseñando ahí. La
+37:32 Speaker 2: mejor infraestructura que se tenga ahí. Y ojo,
+37:36 Speaker 1: como son menos alumnos, yo tengo...
+37:47 Speaker 2: mentor, tutor, durante
+37:49 Speaker 1: todo periodo,
+37:52 Speaker 2: para ayudarte a poder crecer
+37:53 Speaker 1: y guiarte. ¡Wow!
+37:57 Speaker 2: No
+37:57 Speaker 1: tengo calidad todavía, pero sí
+37:59 Speaker 2: te estoy diciendo, yo te ayudo para que para lograr esto, para lograr esto. Y te voy a estar mal. ¿Sí? Entonces, ¿cuál sería el valor? ¿Sería? ¿Especialización? ¿Cuál sería el valor? ¿Si no es prestigio?
+38:20 Speaker 1: ¿Esto no es prestigio? ¿Qué podría hacer?
+38:23 Speaker 2: Si estoy empezando.
+38:28 Speaker 1: ¿Infrastrutura y calidad? Es un recurso más. ¿Qué valor le estoy dando? Le estoy ayudando a crecer. Le estoy ayudando a que seas alguien. Podría ser eso mi enganche. ¿Ya saben qué universidad más o menos está la gente hablando?
+38:54 Speaker 2: ¿Se le viene también de acuerdo? La UTEP.
+39:03 Speaker 1: Te especializas en mi podcast, te ayudan, te doy mentor, estoy ahí en tu estudio,
+39:09 Speaker 2: llamo a alianzas porque todavía
+39:11 Speaker 1: no tengo esto,
+39:13 Speaker 2: porque ya no me están programando.
+39:19 Speaker 1: Bien, ese es el valor, chicos.
+39:21 Speaker 2: Entonces,
+39:22 Speaker 1: ustedes como, por ejemplo, cuando estaban estudiando en un colegio, ustedes decían, voy
+39:28 Speaker 2: a buscar unas ansiedades y voy a ver el
+39:30 Speaker 1: valor. Y ustedes optaron por la que
+39:32 Speaker 2: tenía el valor que encajaba. Eso es eso.
+39:37 Speaker 1: Un negocio lo que trata es saber, o lo que trata es diferenciarse.
+39:44 Speaker 2: Tener un valor.
+39:46 Speaker 1: Lo que hace un rato dijimos con uno de sus compañeros, tengo un tambo, llego a tambo, tengo 20 snacks.
+39:52 Speaker 2: ¿Cuál escojo? ¿No?
+39:55 Speaker 1: Colores llamativos. ¿Cuál escojo?
+39:58 Speaker 2: Escojo la que yo te la valía. Esos son los negocios
+40:02 Speaker 1: que tratan de impulsarte a
+40:04 Speaker 2: que tú cuando llegues te lo jales. Y ese es el valor.
+40:07 Speaker 1: Porque ya sabes, ya aprecias ese valor. Entonces, yo quiero crear valor. Bueno, competir es parte de él, pero yo quiero crear valor. Ese me empuje. Y para crear valor, entonces, yo, bueno, aparte de la misión y la misión de la empresa, en función de ello, ese valor, necesito establecer objetivos para lograr ese valor. Y esos objetivos tienen que ser medibles. Y lo voy
+40:31 Speaker 2: a medir de esta forma, con KPIs. ¿Está? Este
+40:38 Speaker 1: es la estrategia de negocio.
+40:42 Speaker 2: Si
+40:43 Speaker 1: ustedes no entienden eso, no van a poder hacer un sistema que ayude a eso. Ustedes tienen que entender eso. Bien. A ver, encuesta. Tres snacks que les guste.
+41:02 Speaker 2: Tres snacks. Marcas, nombres, lo que quieras. No. ¿Qué más? Riggs, Riggs, Riggs, Riggs, Riggs,
+41:19 Speaker 1: Riggs, Riggs, Riggs,
+41:21 Speaker 2: Riggs, Riggs, Riggs, Riggs, Riggs,
+41:24 Speaker 1: Riggs, Riggs, Riggs,
+41:24 Speaker 2: Riggs,
+41:27 Speaker 1: Riggs, Riggs, Riggs, Riggs, Riggs,
+41:36 Speaker 2: Riggs,
+41:41 Speaker 1: Riggs, Riggs.
+41:50 Speaker 2: ¿Qué es el sabor? ¿Cuál es la diferencia entre un
+41:52 Speaker 1: sabor, entre ese sabor Pringles, con un
+41:55 Speaker 2: snack que es caro,
+41:57 Speaker 1: que es de papas nativas?
+42:00 Speaker 2: Unca chips. No te gusta. ¿Por qué? Porque siento que tiene mejor sabor las Pringles que las Unca chips. ¿No te gusta lo mejor? Entonces aquí tú tienes un sabor internacional.
+42:18 Speaker 1: ¿Ya? ¿Por qué? Entonces Pringles no puede competir con las Inca chips porque son papas
+42:23 Speaker 2: nativas. Tiene que competir.
+42:26 Speaker 1: Sacándote y diciéndote que yo soy internacional. Yo soy más fuerte. Yo puedo competir contra ellas porque yo conozco. O sea, yo conozco el paladar de todos.
+42:38 Speaker 2: Y es más,
+42:40 Speaker 1: las nativas recién han salido. Tú has nacido antes que ellas. ¿No? ahora ya la gente comienza a apreciar ese tema de nativos porque el sabor para un niño si lo comienzas a dar vas a empezar a
+42:53 Speaker 2: pensar entonces lo que tiene que ser
+42:56 Speaker 1: nativas es decir soy peruano lo
+42:59 Speaker 2: que tiene que ser primos es decir
+43:01 Speaker 1: soy internacional puedes
+43:05 Speaker 2: encontrarlo en este lugar soy lo mejor
+43:08 Speaker 1: ese es el valor y tienes que diferenciar y entender el valor que quieres Entonces, aquí viene aquí el grupo. ¿Cómo tú podrías identificar qué
+43:20 Speaker 2: valor tiene ese cliente? Ideas. ¿Qué puedo hacer? Apliquemos
+43:28 Speaker 1: la de RINs, por ejemplo.
+43:32 Speaker 2: ¿Qué puedo hacer?
+43:33 Speaker 1: Yo quiero saber por qué la gente le gusta su favor.
+43:36 Speaker 2: ¿Por qué la gente valora Ritz? ¿Por qué? Ideas. ¿Cómo lo saco? Encuestas. Encuestas. ¿Qué más? Reacciones. ¿Ah? Reacciones a publicaciones.
+43:52 Speaker 1: Reacciones a publicaciones. ¿Qué más? Encuestas, acciones, publicaciones.
+44:33 Speaker 2: ¿Qué
+44:35 Speaker 1: les han enseñado en toda la carrera? ¿Algún algoritmo que quieran sacar de
+44:47 Speaker 2: encuestas? ¿Nigún tipo de algoritmo? Ya, bueno.
+45:10 Speaker 1: Bueno, aquí a uno se le ocurre algo más. CRM, me
+45:16 Speaker 2: he puesto uno. Vamos, CRM, redes. ¿Algo más? De análisis de emociones,
+45:37 Speaker 1: en base a la respuesta. ¿Analisis de qué?
+45:39 Speaker 2: Emociones, en base a la respuesta.
+45:41 Speaker 1: ¿Quién te da un análisis de emociones?
+45:43 Speaker 2: El modelo.
+45:45 Speaker 1: ¿Qué modelo? ¿Qué era él?
+45:55 Speaker 2: El modelo. Aplicarlo. ¿Ah? Aplicar el modelo. Bueno. Bien. ¿Ese ejemplo que me ayuda?
+46:13 Speaker 1: ¿Qué capacidades e información tienes?
+46:17 Speaker 2: Y ahí es el valor.
+46:19 Speaker 1: Yo quiero sacar impuestos. Tengo CRM.
+46:24 Speaker 2: Tengo redes. ¿Qué hago?
+46:30 Speaker 1: ¿Qué capacidades son las que tú necesitas para poder obtener ese valor? En función de eso, no tengo redes, tengo CRM.
+46:39 Speaker 2: Perdón, no tengo... Sí, pues no tengo redes, tengo CRM. ¿Qué decisión de ti voy a hacer?
+46:45 Speaker 1: El CRM, por si acaso, lo instalé
+46:47 Speaker 2: en el año 2012. ¿Cómo puedo hacer que arquitectura tengo? ¿Qué
+46:56 Speaker 1: solución pueda desarrollar? ¿Para qué? ¿Por qué quiere sacar ese CRM? ¿Por qué ese CRM me ayudará
+47:05 Speaker 2: a identificar qué? Para un público objetivo tal vez.
+47:10 Speaker 1: Claro, o sea, lo de REITs, ¿quiénes están comprando REITs? ¿Cómo va la publicidad? ¿Cómo va la campaña? ¿Cómo son las reacciones? ¿Cómo va mi mundo? Y con eso, con Ritz, yo puedo
+47:20 Speaker 2: ver si el valor está identificado de acuerdo a lo que yo quiera.
+47:24 Speaker 1: Ok, y yo voy a tomar una decisión desde ahí a ver qué cosa hago, qué cosa tengo, y veo qué inversión voy a hacer. Si yo quiero hacer un modelo que me está diciendo acerca de sensaciones y no tengo ni siquiera un CRM que capture la
+47:42 Speaker 2: información, o sea, primero hago el CRM y después hacer un modelo.
+47:48 Speaker 1: Ahora, puede ser de que si lo tienes y puedo alquilar, esto no es con TI, pero puedo alquilar a una empresa que haga encuestas y que busque emociones. Y esas emociones luego me las entregue. y me lo pueden entregar a un dashboard que pueda ser a través de SAS.
+48:05 Speaker 2: No tengo que pagar nada.
+48:07 Speaker 1: Yo ya tengo las elecciones. Alguien me hace una
+48:10 Speaker 2: encuesta y gasto. Con eso, es
+48:14 Speaker 1: una inversión. ¿Lo quiero hacer yo
+48:16 Speaker 2: o lo tercerizo? Esa es la pregunta. ¿Vieron cómo nos dimos toda la vuelta y todo para
+48:26 Speaker 1: ver si podemos llegar a la mente de los objetivos? Eso es.
+48:33 Speaker 2: ¿En qué parte hablé de ti? ¿En qué parte hablé de ti? De las herramientas. Aquí, este grupo
+48:48 Speaker 1: quería que me dé soluciones. Eso es lo que era la necesidad. ¿En qué parte hablé acerca de los objetivos?
+48:55 Speaker 2: En la primera.
+48:57 Speaker 1: ¿En qué parte hablé de cómo llegar a hacer eso? En la segunda. En la primera hablé de objetivos. En la segunda hablé de procesos. En la tercera... Quiero ver cómo mis herramientas tienen la
+49:10 Speaker 2: arquitectura. Y en la cuarta, tomo las decisiones de costos.
+49:14 Speaker 1: Esto me conviene, esto no me conviene.
+49:17 Speaker 2: Regresa, vuelve a identificar. Regresa, no me gusta. Regresa, no supliza. ¿Ya?
+49:24 Speaker 1: Entonces, eso es. ¿Dónde es un business case? ¿Saben
+49:27 Speaker 2: qué es un business case? ¿Dónde es un business case? En la inversión. En
+49:35 Speaker 1: la inversión, eso es un business case. Pero en tu business case puedes
+49:39 Speaker 2: hacer muchos
+49:40 Speaker 1: modelos de business case. O sea, muchas corridas de business case por
+49:45 Speaker 2: los
+49:46 Speaker 1: supuestos que puedas tener en el clima. Puedes tener muchos supuestos de acuerdo al 2 y al 3.
+50:00 Speaker 2: Más al 3.
+50:02 Speaker 1: Porque, oye, la solución va a ser de esta manera. La solución va a ser AWS, la solución va a ser Azure,
+50:10 Speaker 2: la solución va a ser Google. Ahí va a dar la vuelta con el tema. Sin embargo, yo tengo que analizar el proceso y
+50:20 Speaker 1: las capacidades. Y también, oye, me dijeron 3 procesos y hemos hablado
+50:25 Speaker 2: solamente de encuestas. Y campañas, también encuestas,
+50:29 Speaker 1: campañas, pero no hemos hablado de sensación.
+50:32 Speaker 2: Eso no lo tengo. Pero la sensación lo podemos hacer tracerizando.
+50:40 Speaker 1: Entonces, un peti o un planteamiento estratégico de TI,
+50:45 Speaker 2: lo que te voy a ayudar es que no
+50:50 Speaker 1: solamente seamos proyectos aislados, al contrario, son proyectos enfocados en una estrategia.
+50:57 Speaker 2: Si me viene alguien a hablarme
+50:59 Speaker 1: de contabilidad,
+51:00 Speaker 2: lo voy a chotear.
+51:04 Speaker 1: Porque estamos hablando de crear
+51:07 Speaker 2: valor del producto rico. Si viene alguien a hablarle de
+51:14 Speaker 1: logística, lo puedo chotear.
+51:16 Speaker 2: Estamos hablando de crear valor de posición. Pero, profe, si yo distribuyo y lo hago mal, muero. Por ejemplo, el tambo que usted dijo.
+51:30 Speaker 1: Muere, sí, pues.
+51:31 Speaker 2: Entonces regresa, pues, si quieres, qué valor también vas a crear. Les cuento una cosa. ¿Ustedes saben lo que pasó con Pepsi?
+51:41 Speaker 1: ¿Lex?
+52:06 Speaker 1: ¿Qué pasó con Lex?
+52:10 Speaker 2: ¿Se acuerdan? No había.
+52:13 Speaker 1: No había. Hubo un tiempo que no había y encima fue verano. No había. No se era una época.
+52:26 Speaker 2: Exacto. Fue un accidente en la planta en Santanita.
+52:31 Speaker 1: Lamentablemente falleció
+52:32 Speaker 2: un empleado y
+52:35 Speaker 1: el tanque... que era parte de la producción,
+52:42 Speaker 2: se estalló, se
+52:43 Speaker 1: cayó, salió el agua, murió la
+52:47 Speaker 2: persona que limpiaba el tanque, pero
+52:51 Speaker 1: eso hizo que esa planta dejara de producir ley. ¿Qué hizo ley? ¿Qué hizo Réxico?
+52:59 Speaker 2: Le importó. ¿De dónde? De Ecuador.
+53:04 Speaker 1: Pero Ecuador nos producía...
+53:07 Speaker 2: los snacks de nosotros.
+53:12 Speaker 1: Y hacer que produzca sería una línea más, o sea, sería mucho más costoso. Así que solamente trajeron, creo que
+53:19 Speaker 2: las papas blancas, pero
+53:23 Speaker 1: se acababan y no había producción. Consecuencia. ¿Ya no existe?
+53:34 Speaker 2: Sí.
+53:45 Speaker 1: pero si yo
+53:46 Speaker 2: regresó
+53:48 Speaker 1: lo ven y
+53:49 Speaker 2: lo consumimos ¿por qué?
+53:53 Speaker 1: ¿qué pasó? eso fue una muy buena estrategia perdimos ese sabor pero cuando regresaron, nos comieron el sabor y el sabor lo regresó
+54:05 Speaker 2: ¿Y qué pasó?
+54:06 Speaker 1: Comenzaron a buscar más. Lo mismo pasa con la estrategia de los chocolates. Hay edición sorrento, edición sublime. ¿Qué tratan de hacer con esas ediciones? Edición imitada. Que nosotros, que cuando éramos niños, comíamos eso. Cuando lo compras... Te recuerdo cuando comienzo, no compras uno, compras dos, o compras tres, o te abasteces, o que la medición utiliza. Muy
+54:41 Speaker 2: buena estrategia.
+54:46 Speaker 1: ¿Cómo puedo saber si esa estrategia funciona o no?
+54:49 Speaker 2: Regreso aquí,
+54:50 Speaker 1: dígame qué herramientas puedo usar. Puedes hacer simulación.
+54:58 Speaker 2: Listo, vamos. Y dale, dale. Tienen ustedes que
+55:02 Speaker 1: comenzar a reflexionar más y más.
+55:05 Speaker 2: Y otra
+55:08 Speaker 1: de las soluciones, o sea, son soluciones que ustedes han pensado aquí. Dime cuánto cuesta eso. Ah, escucha, no me cansa. O espero que haya algo más. No solamente cuánto sale,
+55:21 Speaker 2: sino cuánto sale.
+55:24 Speaker 1: En realidad, se mira el retorno.
+55:29 Speaker 2: Bien chicos, todo esto es
+55:34 Speaker 1: aprendizaje y todo esto es lo que ustedes tienen que hacer en el curso.
+55:48 Speaker 2: Entonces,
+55:49 Speaker 1: estos son los pasos para poder llegar a una cadena de decisión, donde ya vimos el entendimiento del negocio, hemos hecho la chamba, vimos la estrategia de TI que vamos a usar, vamos a ver la demanda, qué oferta vamos a tener, queremos un roadmap y vamos a operarlo. ¿Qué significa todo esto?
+56:11 Speaker 1: Dentro del proceso de decisiones, por ejemplo, su compañía me habló de simulación, podemos hacer un roadmap. Pero si yo voy a simular, necesito datos. Imagínate que yo no tengo un data lake, o un repositorio de datos sintetizados. O sea, no tengo eso, no puedo simular. Imagínate que tengo poca data, tampoco puedo simular. Entonces, oye, profe, tú puedes hacer data
+56:35 Speaker 2: sintética. Ok, vas a hacer data sintética, pero no es la verdad.
+56:40 Speaker 1: No quieres hacer una simulación creativa, es una simulación en función del
+56:45 Speaker 2: comportamiento de tu bien. ¿Qué tipo de roadmap vas a hacer?
+56:52 Speaker 1: Recolección de datos. Ok. ¿Por cuánto tiempo?
+56:56 Speaker 2: ¿No? Ese es tu problema.
+56:59 Speaker 1: Paso uno que estoy y voy a hacer luego terminando
+57:01 Speaker 2: ese proyecto en proyecto 2, proyecto 3, proyecto 4.
+57:04 Speaker 1: ¿Sí? Se rende.
+57:06 Speaker 2: Ya que tocaron el tema.
+57:09 Speaker 1: Tengo un solo producto que vengo.
+57:12 Speaker 2: Voy a vender miles de productos.
+57:15 Speaker 1: Y si yo saco producción para
+57:17 Speaker 2: mil productos, como un Big Bang, ¿Qué podemos usar? ¿Cómo se llama? ¿Cómo se llama? ¿Cómo se llama? ¿Cómo se llama?
+57:54 Speaker 1: Lo voy a hacer de manera alternativa.
+57:57 Speaker 2: Vamos a sacar de
+57:59 Speaker 1: este grupo lo que tiene esta característica.
+58:02 Speaker 2: Terminamos. Funcionó, sí, funcionó.
+58:04 Speaker 1: Continuamos con el resto. ¿De acuerdo? Ojo, que alternativa e incremental son diferentes. Se supone que alternativa es que tú vas a construir algo y luego vas a mejorar lo que has construido y vas a ampliarlo. Incrementar, esto ya terminas, y luego incrementas más.
+58:25 Speaker 2: Pero ya el resto de lo terminaste.
+58:38 Speaker 1: Se dan cuenta que
+58:40 Speaker 2: este curso es un
+58:41 Speaker 1: compendio de todo lo que han visto.
+58:46 Speaker 2: Pero es un compendio de todo lo
+58:48 Speaker 1: que han visto en función del
+58:51 Speaker 2: entendimiento de la opción.
+58:52 Speaker 1: Si tú no entiendes la opción,
+58:54 Speaker 2: no me digas,
+58:56 Speaker 1: o sea, no me vayas a la solución de
+58:58 Speaker 2: estrategia que te digo si no entiendes la opción.
+59:03 Speaker 1: Vamos a hacer un simile, ¿ah? Tesis.
+59:05 Speaker 2: ¿Por qué hablo de tesis? Porque es lo que o
+59:08 Speaker 1: están terminando o ya dicen. Entendimiento de negocios, saber
+59:12 Speaker 2: el problema
+59:14 Speaker 1: intervisual es valor. Y sobre eso van a resolver sus soluciones. O soluciones, van a hacer un carmán de nuestra vida. Ya hemos hablado acerca de cómo es esta cadena. Y hemos hablado acerca de
+59:36 Speaker 2: la inteligencia del negocio a grandes rasgos. Aquí podemos tener muchas
+59:41 Speaker 1: cosas interesantes. Para
+59:43 Speaker 2: poder definir mejor el negocio
+59:45 Speaker 1: hay que hablar sobre estrategia, visión y objetivos, que es lo que hemos hablado. Hay que hablar sobre el modelo de negocio y la propuesta de valor, que es lo que hemos hablado. Hay que hablar sobre procesos críticos y capacidades, siguientes procesos que hemos hablado con unos compañeros. Y hay que reconocer los clientes, canales y actores, que es un poco eso que hemos hablado con el Grupo 2.1.2, ¿se acuerdan? Hemos hablado de todos estos objetivos, valor, procesos
+01:00:10 Speaker 2: críticos, clientes.
+01:00:13 Speaker 1: Un pregunta guía se acerca de cuál es el valor, qué diferencia el negocio del resto, qué procesos son estratégicos, qué problemas
+01:00:22 Speaker 2: limitan el desempeño. Aquí estos problemas pueden limitarnos y externos. ¿Quién es el cliente de
+01:00:37 Speaker 1: Corporación Libre? ¿Saben qué es Corporación Libre?
+01:00:45 Speaker 2: ¿Saben? ¿Son todos los que producen? ¿Quién
+01:00:58 Speaker 1: es el cliente?
+01:01:01 Speaker 2: ¿El criminalista? ¿Nosotros? o el cliente que yo le meto ahí y lo recibe.
+01:01:14 Speaker 1: Entonces tenemos que ver tu cliente interno. ¿Quién es mi cliente? Pero profe, pero el último también es su cliente porque también consume. Hay que pasar esto y lo consume al final no lo compra. ¿Qué es correcto? Entonces, ¿qué cosa te voy a hacer?
+01:01:30 Speaker 2: Ajá. Gracias. Hay que tener en
+01:01:34 Speaker 1: cuenta si es B2B, hay
+01:01:36 Speaker 2: que tener en cuenta si es B2C.
+01:01:39 Speaker 1: ¿Qué es B2B? Business to Business.
+01:01:42 Speaker 2: O Business to Business.
+01:01:44 Speaker 1: Entonces hay que tener en cuenta quiénes son estos. Porque si tu cliente es un distribuidor, te voy a dar un mensaje. Si tu cliente es un distribuidor, te voy a dar otro mensaje. La pregunta es, ¿quién te da valor?
+01:01:58 Speaker 2: Bueno, los dos. Ya, ok.
+01:01:59 Speaker 1: ¿Qué procesos son más estratégicos?
+01:02:02 Speaker 2: Mejor me voy por acá.
+01:02:04 Speaker 1: La vez pasada, este... Estaba leyendo un artículo que decía, si tú quieres hacer un negocio, si ustedes quieren iniciar un negocio,
+01:02:17 Speaker 2: ¿cuál creen ustedes que debe ser el negocio
+01:02:20 Speaker 1: al cual deberían de apuntar?
+01:02:23 Speaker 2: ¿Un
+01:02:23 Speaker 1: business to business o un business to client? Si quieren hacer un negocio, empezar a hacer un negocio. ¿Dónde ustedes creen que podríamos atacar
+01:02:34 Speaker 2: si queremos empezar a negocio? Si yo hago un business to client, este es el razonamiento, ¿verdad? Si yo hago un business to client, ¿a cuánta gente tengo que ir para
+01:02:46 Speaker 1: tener una utilidad? ¿A una?
+01:02:50 Speaker 2: Ahí. Si
+01:02:52 Speaker 1: yo hago un business to business, ¿a cuántas personas podría ir para tener una utilidad? Una.
+01:02:58 Speaker 2: Entonces es mejor, si ustedes quieren hacer un negocio, es mejor hacer un negocio con
+01:03:05 Speaker 1: un cliente empresa que
+01:03:07 Speaker 2: con muchos clientes chinos,
+01:03:09 Speaker 1: con muchos customers,
+01:03:11 Speaker 2: clientes finales.
+01:03:15 Speaker 1: Profe, pero,
+01:03:17 Speaker 2: por ejemplo, Rappi.
+01:03:20 Speaker 1: ¿Quién es el cliente Rappi? ¿Cómo empezó Rappi?
+01:03:50 Speaker 2: Aquí tenías que capturar
+01:04:10 Speaker 1: primero para empezar el antojo.
+01:04:17 Speaker 2: ¿Al negocio?
+01:04:30 Speaker 1: ¿Quién toco podría tener?
+01:04:39 Speaker 2: Pobre la brasa. O chifa. Entonces, hay
+01:04:44 Speaker 1: chifas y pobre la brasa por un montón. Sin embargo, capturo a las dos o tres principales poñerías. Dos o tres chifas.
+01:04:59 Speaker 2: Entonces,
+01:05:00 Speaker 1: todos les tengo que decir mi negocio a un B2B. para que me creen, me entiendan, una sola relación y después hago
+01:05:10 Speaker 2: publicidad a todo el mundo. Y de esa manera gané.
+01:05:17 Speaker 1: Eso siguió creciendo, resuelto la historia. Eso siguió creciendo. ¿Y qué creen ahorita?
+01:05:22 Speaker 2: ¿Cómo te captura
+01:05:24 Speaker 1: rápido a una empresa o a un restaurante? Porque Rappi lo que hace es a ti te cobra un servicio de un son más, dos son más, un
+01:05:38 Speaker 2: precio,
+01:05:39 Speaker 1: X. Pero al restaurante le dice, si él te toma a ti, por si acaso yo te voy a cobrar el 30
+01:05:48 Speaker 2: % de tu comida.
+01:05:50 Speaker 1: Si yo hago eso, 30%, dice, pucha, es demasiado 30%,
+01:05:54 Speaker 2: 20%, 15%.
+01:05:57 Speaker 1: ¿Cómo lo logro convencer de que ese 30, 25, 15% no es que yo le esté ahorcando, sino le estoy beneficiando? ¿Dónde?
+01:06:08 Speaker 2: Y luego le digo quién es... Tal vez poniendo su nombre al inicio, en la
+01:06:13 Speaker 1: historia de buscar. ¿Y qué gano con eso?
+01:06:17 Speaker 2: Bueno, el restaurante gana... Es la primera, ¿no? ¿Qué gano con eso?
+01:06:24 Speaker 1: Acá es tu objetivo, para ponerlo primero. Estás hablando de una estrategia. O sea, estás hablando de un
+01:06:28 Speaker 2: plan. Popularidad. Popularidad. ¿Qué significa popularidad? Más personas que
+01:06:33 Speaker 1: podemos. Exacto, más personas. Más personas te ven.
+01:06:37 Speaker 2: ¿Y qué hacer? ¿Qué va a pasar si
+01:06:39 Speaker 1: yo tengo una pollería que está en San Miguel, en
+01:06:41 Speaker 2: Pueblo Libre, y tengo un montón de gente en sur?
+01:06:51 Speaker 1: Exacto. A ver, ¿cuánto te va a costar poner un restaurante en sur?
+01:06:58 Speaker 2: Listo. No te preocupes. Cero, cero. Tranquilo, no vas a comprar nada. Yo te
+01:07:06 Speaker 1: doy rapid, donde el 30% es aquí. Ese 30% es débito alquiler, te evito mozos, te evito estacionamiento, te evito luz, te evito agua, solo con el 30% de la parte variable, o sea, de lo que estás
+01:07:22 Speaker 2: consumiendo. Si alguien te pide, yo te tomo eso. ¿Aceptas? ¿Cuál es la siguiente pregunta?
+01:07:32 Speaker 1: ¿Qué bacán? ¿Cuánto me pesta? La siguiente pregunta es, ok, bacán. La siguiente pregunta es,
+01:07:40 Speaker 2: ¿tú qué
+01:07:42 Speaker 1: me garantizas que tenga ese
+01:07:43 Speaker 2: flujo de gel?
+01:07:46 Speaker 1: ¿Tú qué demuestras? Con cifras de cuánta gente ha pedido un producto similar en
+01:07:53 Speaker 2: software.
+01:07:57 Speaker 1: Entonces, mira,
+01:07:58 Speaker 2: un
+01:07:59 Speaker 1: restaurante similar al tuyo consume tantos pocos. Si tú entras, te pongo primero durante un mes. Dos meses. Y ya después el algoritmo de acuerdo a la
+01:08:11 Speaker 2: demanda. Te voy a poner primero y segundo durante
+01:08:15 Speaker 1: cierto tiempo.
+01:08:17 Speaker 2: Si yo te pongo primero y segundo,
+01:08:19 Speaker 1: para que te den clic, esta es la demanda. Te ahorras inversión inicial. Solo inicial, porque luego si funciona no se pueden ir allá.
+01:08:32 Speaker 2: Pero inversión inicial.
+01:08:33 Speaker 1: Listo.
+01:08:34 Speaker 2: Va. Chicos, ¿qué explica de mí? ¿Qué? Una aplicación web. Ya, una aplicación web, ya, pero para sacar data,
+01:08:50 Speaker 1: ¿qué ha aplicado rápido?
+01:08:53 Speaker 2: ¿Han ganado si hay datos? Un warehouse. ¿Han aplicado las simulaciones? Listo. Eso es. ¿Qué aprendimos? ¿Cuál es el negocio? ¿Cuál es el valor agregado? ¿Cómo es tu modelo? ¿Qué herramientas van a hacer? Pero primero
+01:09:17 Speaker 1: vamos a entender el modelo de negocio. ¿Saben hasta el año pasado quién?
+01:09:25 Speaker 2: ¿Cuál es el top de restaurantes que más venden? La lucha. La lucha.
+01:09:45 Speaker 1: Pregunto, hay una lucha, creo que hay una lucha a nivel, ¿no es cierto?
+01:09:51 Speaker 2: Pero no hay un montón de luchas,
+01:10:01 Speaker 1: pero sí en delivery. Para poder abastecer a todo ese grupo que no tiene.
+01:10:07 Speaker 2: ¿Y qué cosa ha hecho la
+01:10:09 Speaker 1: lucha a nivel de presencia?
+01:10:12 Speaker 2: ¿Dónde se ha enfocado? Si la lucha está en delivery, la lucha está en redes, ¿en dónde puedo enfocarme? Exacto. ¿Nacional o extranjero? ¿Dónde acaba de tener una lucha? ¿O dónde está creciendo? ¿En Miraflores? ¿O en Pueblo Lito? En Miraflores. Exactamente. Y te acepto Nacional.
+01:10:50 Speaker 1: Nacional, el que viene y
+01:10:54 Speaker 2: dice, me provoca una lucha.
+01:10:59 Speaker 1: ¿Por qué tiene sándwich con
+01:11:01 Speaker 2: la brasa? ¿Me provoca el chicharrón?
+01:11:06 Speaker 1: Por eso sé que
+01:11:19 Speaker 2: la noche del año pasado fue top.
+01:11:22 Speaker 1: ¿Ok? ¡Listo! Todos estos ejemplos los estoy dando porque son ejemplos de que debemos de entender la estrategia, la visión, los objetivos, el modelo de negocio que le va a ayudar a tener valor.
+01:11:36 Speaker 2: ¿Cuáles son los procesos críticos? Los procesos críticos serían
+01:11:39 Speaker 1: entonces el análisis de datos y sería el delivery, la negociación con restaurantes. ¿Qué clientes tienen? Un cliente es un B2B, más que un B2C. Obvio, pero también te puedo declarar por decir, pero B es importante, el canal es único. Los actores clave ya los estamos hablando. ¿Dónde se crea valor? El valor
+01:11:59 Speaker 2: se va a crear en que yo
+01:12:01 Speaker 1: acerque el restaurante al cliente, ¿no? ¿Qué diferencia hay de otros negocios? ¿Cuál es la diferencia entre Rappi y el otro negocio? ¿Qué diferencia uno del otro? ¿Por qué uno es mejor que el otro?
+01:12:20 Speaker 2: Eso es la estrategia de ellos.
+01:12:22 Speaker 1: ¿Qué problemas o limitaciones pueden tener? Imagínense si le ponen a los motorizados facturación.
+01:12:31 Speaker 2: Ahí podemos cumplir. El
+01:12:37 Speaker 1: tráfico de Lima también es otro problema. Entonces, en función de esto, vamos a ver un mapa estratégico de los procesos,
+01:12:45 Speaker 2: los drivers que ayudan al negocio
+01:12:47 Speaker 1: y los problemas que estamos viviendo. Entonces, todo esto nos va a ayudar a entender el negocio.
+01:13:00 Speaker 2: Y hemos
+01:13:23 Speaker 1: visto cuáles serían todos los análisis de influencias externas.
+01:13:35 Speaker 2: Pero, ¿qué problemas en la regulación
+01:13:38 Speaker 1: podemos tener si utilizamos IA? ¿Qué problemas en la regulación podría tener si
+01:13:44 Speaker 2: utilizamos IA? A ver. Tratamiento. Tratamiento. Perfecto. Protección de información. Si uso RAPI. Sesgos. Puede haber sesgo, ¿no?
+01:13:57 Speaker 1: Sesgos. Perfecto. Y el sesgo que me ayuda, ¿qué sector está complicado si hay sesgos? Pero terrible.
+01:14:08 Speaker 2: ¿Qué?
+01:14:10 Speaker 1: ¿Ya sonado? ¿Ya sonado acá?
+01:14:15 Speaker 2: Vamos, vamos
+01:14:16 Speaker 1: acá atrás, está súper entretenido. El sesgo, o sea, yo, para todos dicen, ¿qué sector está terrible? Un mal sesgo.
+01:14:29 Speaker 2: Salud. Salud. Gracias.
+01:14:33 Speaker 1: Salud es el tema
+01:14:35 Speaker 2: clave.
+01:14:37 Speaker 1: Es uno de los puntos importantísimos donde tiene que estar el human look. La visión humana. O sea, la decisión no la debe tomar la idea, la decisión la debe tomar el ser humano. Profe, pero en China veo que tú puedes entrar, te toman la temperatura, etc. Sí, pero si te toman la temperatura y todo está mal, te dicen, estimados, tenemos esta información. Usted requiere, si creemos conveniente, que vaya con un doctor. ¿Acepta? Sí, acepto.
+01:15:12 Speaker 2: Listo, doctor.
+01:15:14 Speaker 1: ¿No? Pero es una decisión del ser humano. No le está diciendo que están enfermos, que están mal, sino simplemente sus indicadores están
+01:15:25 Speaker 2: fuera del cárcel. Le estamos alcanzando eso.
+01:15:28 Speaker 1: Tiene la opción de continuar con
+01:15:30 Speaker 2: el médico. ¿Acepta? ¿Se acepta? ¿Se
+01:15:34 Speaker 1: acepta? ¿Y tiene un seguro? Chévere. ¿Se acepta y no tiene un seguro? ¿Qué pasaría?
+01:15:41 Speaker 2: Extra, ¿no? Paso tarjetas.
+01:15:45 Speaker 1: Y de ahí, ¿cuántos pasaron
+01:15:47 Speaker 2: tarjeta y no tenían seguro?
+01:15:50 Speaker 1: Modelo de negocio, para poder tener un seguro de salud.
+01:15:56 Speaker 2: ¿Ve? Y ahí, ¿qué puede ser un seguro de salud?
+01:16:00 Speaker 1: Un seguro de salud es una suscripción.
+01:16:04 Speaker 2: Lo bueno es que no lo uses. Normal que si es una emergencia, lo tienes que usar. Pero lo bueno es que no lo uses. Pero denle
+01:16:16 Speaker 1: vuelta la regulación que les puede ayudar.
+01:16:18 Speaker 2: Y con eso pues tenemos, ya
+01:16:20 Speaker 1: hablamos de economía, hemos hablado del mercado, de tecnología, hemos hablado de sociedad, de innovación. En el tema de innovación, conozco a un amigo que le dice que es un tema romántico. Si todo es innovar,
+01:16:36 Speaker 2: todo es transformar, en realidad... ¿Qué es transformar? Transformar puede
+01:16:45 Speaker 1: ser lo bueno o lo malo. En realidad, ¿qué cosa quieres transformar? Todo es transformación. Para nosotros que somos de tecnología, todo puedes transformar. El ejemplo del señor del Excel que pasa
+01:16:56 Speaker 2: a sistemas.
+01:16:58 Speaker 1: Pero, ¿qué es transformar? Es dar un valor al negocio, dar un valor al proceso. La pregunta es, ¿cuánto valor le das? y si el valor, no es que no sé cuánto valor le das, listo, si tú no sabes cuánto valor le das,
+01:17:17 Speaker 2: ¿qué cosa podemos hacer como TI? Vamos, me sentí a software.
+01:17:21 Speaker 1: A ver, los ingenieros de software que estuvieron comiendo.
+01:17:23 Speaker 2: Ah, no se fue.
+01:17:25 Speaker 1: Capi, ¿no?
+01:17:26 Speaker 2: Si tú no tienes,
+01:17:27 Speaker 1: si tú no sabes qué valor le puedes dar a alguna posible solución,
+01:17:33 Speaker 2: ¿qué puedo hacer?
+01:17:37 Speaker 1: Levanta esa información, chévere, pero ¿qué
+01:17:39 Speaker 2: es eso?
+01:17:50 Speaker 1: ¿Tiene que ver con la innovación? ¿Qué haces en el inicio de innovación?
+01:17:58 Speaker 2: ¿Qué haces en el inicio de innovación? ¿Qué haces en el inicio de innovación? ¿Qué haces en el inicio de innovación? ¿Qué haces en el
+01:18:04 Speaker 1: inicio de innovación?
+01:18:06 Speaker 2: ¿Qué haces en el inicio de innovación?
+01:18:13 Speaker 1: Es un discovery, o sea, es una etapa en la cual tú descubres esas ideas. ¿Cuánto nos va a costar eso?
+01:18:20 Speaker 2: ¿Seis meses? ¿Siete meses? No te
+01:18:22 Speaker 1: pases, pues. No, es una idea de ideas. ¿Qué tipo de taller van a hacer?
+01:18:28 Speaker 2: Oh, profeta, innovación. ¿Qué van a sacar ahí?
+01:18:38 Speaker 1: Un blueprint, ¿no? Un diseño. Y en función de ese diseño, ¿qué van a hacer? Una iteración. Llama la iteración, llama el spot, o sea, prueba de concepto, ejemplo, como tú quieras llamarlo, pero ese es algo pequeño, que si sale, impacta. Llama los prototipos.
+01:19:03 Speaker 2: Bien.
+01:19:03 Speaker 1: ¿Han sacado un software? No. Hemos hecho
+01:19:06 Speaker 2: un prototipo, hemos hecho una pop, hemos
+01:19:08 Speaker 1: hecho un discovery. Y si no funciona, importa. Y si sí funciona, van adelante. Y si no funciona, no importa, en realidad no es tanto que importa, porque lo que ustedes no han aprendido es que cosa pasa, han aprendido errores, y lo que van
+01:19:21 Speaker 2: a hacer es hacerlo mejor.
+01:19:26 Speaker 1: Ya, eso es innovar. Entonces, para transformar,
+01:19:29 Speaker 2: para darle valor. Por eso, no sé, dale valor. Utilicen su taller de innovación.
+01:19:39 Speaker 1: ¿Ya ven? Así funciona todo lo que han aprendido.
+01:19:44 Speaker 2: Bueno, y luego
+01:19:47 Speaker 1: para poder sacar su estrategia de TI, ¿qué cosa hace?
+01:19:51 Speaker 2: Pues,
+01:19:52 Speaker 1: la visión hacia la que quieren llegar, cuáles van a ser los objetivos que quieren lograr, cuáles son los principios de decisión, o sea, qué criterios son los que van a guiar, como la arquitectura, los datos, todo, todo, hacia dónde quieres, cuáles serían los estándares que quieren aplicar. ¿Y qué capacidades estratégicas van a
+01:20:13 Speaker 2: ser? ¿Van a utilizar plataforma?
+01:20:16 Speaker 1: ¿Van a desintegrar? ¿Van a hacer automatización?
+01:20:19 Speaker 2: Todo este esquema de una formulación
+01:20:21 Speaker 1: estratégica de los pasos que van a seguir. Obviamente tenemos que ver cuáles son las demandas. Y aquí su compañero habló sobre estrategia
+01:20:35 Speaker 2: de negocio. ¿Quieren break? Sí, pero... Voy a poner un segundo.
+01:21:21 Speaker 2: Ya chicos, a ver, vamos a probarles un ejemplo como tal, ¿ya?
+01:21:27 Speaker 1: Les voy a presentar un pequeño proceso estratégico de la empresa, ¿ya? Yo soy una empresa, soy un proveedor,
+01:21:33 Speaker 2: y me voy a través de un banco que
+01:21:38 Speaker 1: tiene una opción que se llama pago de servicio, ¿de acuerdo? Yo tengo un cliente, ese cliente, o sea, yo lo que necesito es que mi cliente me pague. ¿Cómo
+01:21:47 Speaker 2: me lo va a pagar? Mi cliente va a entrar.
+01:21:49 Speaker 1: va a ubicarme en pago de servicio a través de este banco y se va a pagar el servicio que hay. Puede ser telefonía, puede ser lo que tú quieras. Sin embargo, es lo que está pasando.
+01:22:16 Speaker 1: Tenemos un
+01:22:17 Speaker 2: cliente, el
+01:22:18 Speaker 1: cliente entra al banco, ubica el pago
+01:22:24 Speaker 2: que tiene que hacer, le dice el pago, y
+01:22:26 Speaker 1: el proveedor le indica
+01:22:28 Speaker 2: que ese pago está realizado.
+01:22:31 Speaker 1: ¿Qué es lo que sucede? Este servicio funciona súper bien, listo, pero esto es asíncrono.
+01:22:46 Speaker 2: ¿Qué significa síndromo? Que no es en el mismo momento.
+01:22:52 Speaker 1: Que no es en el mismo momento. Buenas. Como no es en el mismo momento, ¿qué es lo que sucede? Tengo un problema de negocio. ¿Qué puede ser? El estado ocupado con la carrera. El estado ocupado con la carrera. Uy, che, ¿qué más? ¿Qué podría pasar si yo,
+01:23:09 Speaker 2: que justo se pagaron mi teléfono,
+01:23:12 Speaker 1: pagué y no
+01:23:14 Speaker 2: lo recibe el proveedor? ¿Qué sucede? El
+01:23:17 Speaker 1: servicio. Exacto. Entonces, ¿cuántas llamadas puedo poner por parte de servicio?
+01:23:22 Speaker 2: Listo.
+01:23:24 Speaker 1: Posiblemente ese es el actual.
+01:23:25 Speaker 2: Entonces, ¿qué requiere?
+01:23:28 Speaker 1: Oye, el negocio te puede decir, estoy perdiendo clientes.
+01:23:32 Speaker 2: ¿Por qué?
+01:23:35 Speaker 1: no se actualiza correctamente la conexión, porque después de esto hay una instalación. Encima, hay algunos proveedores que te dicen evita el pago por reinstalar, ¿no?
+01:23:50 Speaker 2: O luz del sur.
+01:23:52 Speaker 1: Si tú no lo pagas, viene el decir que te corta.
+01:23:56 Speaker 2: ¿De acuerdo? Regresando al punto, ¿no?
+01:24:01 Speaker 1: El tema es, ahora yo requiero algo inmediato. Entonces, ¿qué va a pasar?
+01:24:06 Speaker 2: Este síncrono se va a convertir en síncrono.
+01:24:11 Speaker 1: ¿El ser síncrono qué va a pasar?
+01:24:13 Speaker 2: La pregunta es ¿Qué tecnología Listo. Entonces, este punto es poder identificar la demanda actual,
+01:24:35 Speaker 1: la demanda futura, la demanda actual es
+01:24:37 Speaker 2: esta, la demanda futura es que lo quieren no asíncrono, sino no asíncrono.
+01:24:42 Speaker 1: Y como lo quieren asíncrono, tenemos que
+01:24:46 Speaker 2: habilitar esa arquitectura.
+01:24:48 Speaker 1: ¿De acuerdo? Entonces, dolores y restricciones de los procesos, en realidad tiene ese dolor. ¿Qué herramientas funcionales o no funcionales lo tienen? ¿Qué aplicaciones son las que están soportando? ¿Tenemos incidentes o no? ¿Hay necesidad de información y analítica? Posiblemente no tengas incidentes a nivel de TI. Esto es a nivel de TI, pero si tienes una necesidad
+01:25:09 Speaker 2: funcional y analítica.
+01:25:12 Speaker 1: Va a ser una nueva demanda, que sería capacidades, cambio de procesos, nuevos volúmenes, requerimiento de integración y tendencias que pueden
+01:25:21 Speaker 2: ayudar.
+01:25:24 Speaker 1: Esto es una posible tendencia del mercado. Claro, el problema es la instalación, ya lo hemos visto, papá, papá. Con eso cubro. Pero mañana ha pasado una empresa. Esto va a seguir creciendo y
+01:25:38 Speaker 2: va a ser necesitante más simple. Entonces, ese es
+01:25:58 Speaker 1: el punto 4. Esa es la demanda que necesita
+01:26:03 Speaker 2: DTI. Ahora, ¿qué oferta DTI tenemos
+01:26:06 Speaker 1: y qué oferta se va a requerir? Entonces, hasta acá esta es la demanda y la oferta va a ser hacer este cambio. ¿Qué
+01:26:16 Speaker 2: cosas son esos cambios? Son...
+01:26:19 Speaker 1: que necesitamos nuevas capacidades,
+01:26:21 Speaker 2: en realidad voy a necesitar una nueva plataforma,
+01:26:23 Speaker 1: voy a necesitar que esto sea escalable, voy a
+01:26:26 Speaker 2: necesitar una arquitectura diferente,
+01:26:29 Speaker 1: un gobierno y seguridad. ¿Por qué un gobierno y seguridad? ¿Cuál es la diferencia entre el síncrono? ¿El síncrono qué va a haber?
+01:26:39 Speaker 2: ¿Un problema de...?
+01:26:44 Speaker 1: Esa ciberseguridad
+01:26:45 Speaker 2: va a poder persistir rápidamente algún tipo de ataque que pueda llegar a esta parte.
+01:26:53 Speaker 1: Y ese tipo de ataque estamos hablando de dinero.
+01:26:56 Speaker 2: Ojo, entonces
+01:26:57 Speaker 1: puede ser pérdida.
+01:27:00 Speaker 2: Necesitamos un gobierno de inseguridad. Y obviamente es un talento. Ahora ya no estamos
+01:27:05 Speaker 1: hablando del tema asíncrono. Este síncrono que va a
+01:27:10 Speaker 2: tener que hacer una nueva plataforma. Esto es una plataforma que puede hacer en una nube. Y eso va a hacer que
+01:27:19 Speaker 1: tengan criterios sobre posible seguridad, necesiten nuevos talentos, necesiten un tema operativo,
+01:27:27 Speaker 2: y se va a cambiar de forma de trabajo.
+01:27:30 Speaker 1: Esa es la demanda, ya la sabemos, y ahora tenemos que darnos la mejor oferta al
+01:27:37 Speaker 2: mercado. Así que eso,
+01:27:45 Speaker 1: el negocio lo supimos, supimos a los requerimientos, vamos a ver cómo es una arquitectura, vamos a ver qué cosas le podemos ofrecer, y
+01:27:52 Speaker 2: de acuerdo a ello, vamos a construir un roadmap. Un roadmap que me va a ayudar durante toda una etapa para lograr la estrategia que yo quiero.
+01:28:02 Speaker 1: Entonces, si yo quiero hacer esto como una etapa, posiblemente
+01:28:07 Speaker 2: existan algunas...
+01:28:09 Speaker 1: cambios la arquitectura que te van a hacer, luego vamos a hacer algún tipo de quick wins para poder demostrar que estamos creciendo. Esto es súper importante. Sabemos que es una innovación donde tú demuestras pequeñas cosas para lograr el salto de transformación y después el lograr escalar.
+01:28:30 Speaker 1: Por ejemplo, de lo que estamos viendo, hemos visto nueva arquitectura. Posiblemente por las primeras ciencias vamos a hacer una nueva arquitectura.
+01:28:37 Speaker 2: ¿Puedo hacer un quick win? Realmente no.
+01:28:41 Speaker 1: Nos vamos a hacer una transformación. ¿Por qué no puedo hacer un quick win? Porque aquí es un Big Bang.
+01:28:48 Speaker 2: ¿O dentro? ¿O no dentro todo? O sea, voy a tener que hacer esto.
+01:28:53 Speaker 1: Salvo que quieras hacer una interacción y tienes que hablar con algo. con el banco, con el proveedor y tengas que hacer algún tipo de integración pero en este tipo es un big bang entonces aquí vas a hacer una información y luego vas a hacer un escalamiento ¿qué tipo de escalamiento podría hacer acá? ¿qué
+01:29:18 Speaker 2: significa escalar?
+01:29:24 Speaker 1: ¿qué tipo de escalamiento podría hacer en función de ese ejemplo? Ok, esa es mi gran arquitectura. Perfecto, entonces podemos hacer para que se reparta, pero ese escalamiento te va a ayudar justamente en la forma de optimización. Chévere.
+01:29:54 Speaker 2: ¿Alguna otra idea? Para poder escalar este tipo de estrategia. ¿Qué puedes hacer con esto?
+01:30:19 Speaker 1: Los clientes están entregando.
+01:30:21 Speaker 2: Está abriendo unas organizaciones alrededor y ya está todo apagado.
+01:30:26 Speaker 1: ¿Qué puedes hacer con esto?
+01:30:29 Speaker 2: Está automatizado. Claro. Está haciendo 50.
+01:30:36 Speaker 1: Lo que estamos diciendo es, vamos a
+01:30:39 Speaker 2: armar, vamos a hacer este roadmap. El primer
+01:30:42 Speaker 1: paso del roadmap es armar arquitectura. El segundo paso puedes hacer quick wins, nos lo hemos hecho. El
+01:30:48 Speaker 2: tercer paso vamos a transformar, justamente hemos transformado. Para
+01:30:51 Speaker 1: que un cliente venga, pague,
+01:30:54 Speaker 2: lea y diga pagado
+01:30:57 Speaker 1: de manera automática.
+01:30:59 Speaker 2: Su compañero está hablando de que puede crecer.
+01:31:05 Speaker 1: Su siguiente escalamiento es a través de optimizarlo. Y va
+01:31:08 Speaker 2: a optimizar a nivel de memoria.
+01:31:11 Speaker 1: ¿No? Entonces, ¿cómo se utiliza a nivel de memoria?
+01:31:14 Speaker 2: Puede ser de manera horizontal.
+01:31:16 Speaker 1: ¿Qué más podríamos hacer en escalamiento
+01:31:18 Speaker 2: con toda esta tecnología? Ahí, ahí al fondo.
+01:31:34 Speaker 1: ¿Qué más podrías hacer con toda esta tecnología? Disculpa, ¿tos nombres?
+01:31:44 Speaker 2: Ah, tranquilo. El último. El de acuerdo. El que también está como un gran acuerdo. ¿Ustedes le mentes? Alfredo, Alfredo, Alfredo, Alfredo. Alfredo. El último
+01:32:10 Speaker 1: que está al costado de la puerta.
+01:32:14 Speaker 2: ¿Qué
+01:32:20 Speaker 1: puedes hacer con esta
+01:32:22 Speaker 2: estructura para escalar?
+01:32:27 Speaker 1: ¿Cómo aplicarías IA?
+01:32:49 Speaker 2: ¿Cómo aplicarías inteligencia artificial en esta parte? ¿Alguien tiene una idea? Correcto, podríamos decir más o menos cuándo el cliente va a pagar en base a su historia. Entonces, preparar la transacción con la teleacción para que no se quede. Quizás pasaría automáticamente lo que necesitas. No llenar los datos de su móvil a esa volumen. Y así el cliente va a ponerlo en el grango que ponemos, lo que nos dice el modelo, que se haga más rápido. Ok, una de las ideas que se hizo, compañeros. Otra vez más rápida, pero al final va a ser rápido todo. Así que,
+01:33:37 Speaker 1: ¿qué pasaría si yo hago un pavo con
+01:33:39 Speaker 2: este canal? ¿Qué puedo hacer? Si un cliente está dentro de un banco y utiliza un
+01:33:47 Speaker 1: pavo de servicio para poder...
+01:33:49 Speaker 2: ¿CAPEX? Ya, ok. ¿Y qué te diría eso?
+01:34:08 Speaker 1: ¿Y eso cómo te ayudaría?
+01:34:17 Speaker 2: Ok. Perfecto. Entonces tienes todos
+01:34:23 Speaker 1: los clímenes para poder ayudarte un poco más. Lo que dice su compañera es, si yo sé que hay clientes que vienen por acá y quiero mejorar la experiencia de usuario y este cliente lo está haciendo bien, ¿qué van a hacer? Que todos los clientes se
+01:34:39 Speaker 2: dirijan por este canal. O sea, tratar de ayudar a que todos los clientes vayan acá.
+01:34:44 Speaker 1: Que no sea presencial, o que
+01:34:47 Speaker 2: alguna otra forma de... Que
+01:34:50 Speaker 1: no lo sea por ya, no sé, pero que vaya más al banco. Esa es una de las formas. Otra de las formas,
+01:34:57 Speaker 2: les voy a decir,
+01:34:59 Speaker 1: para que les ayude un poquito más.
+01:35:02 Speaker 2: Entonces sí. La nueva plataforma. ¿La nueva plataforma? De agora. ¿De agora? Perfecto.
+01:35:11 Speaker 1: ¿Qué hace esta plataforma? ¿O qué te está dando esta
+01:35:14 Speaker 2: plataforma? Es una cuenta, o no es un banco digital prácticamente, donde puedes hacer tus transacciones, transferencias y adicional te permite abrir una cuenta de ahorros que te da un beneficio del 6% al año. Si tú te
+01:35:29 Speaker 1: da un beneficio, lo que dice tu compañera es, si
+01:35:32 Speaker 2: yo entré en ese canal,
+01:35:34 Speaker 1: Y siempre voy a ese canal. ¿Qué cosas le estás vendiendo? Una cuenta de ahorros con
+01:35:43 Speaker 2: un 6%. Eso
+01:35:45 Speaker 1: es una venta cruzada.
+01:35:47 Speaker 2: Entonces,
+01:35:48 Speaker 1: ¿qué cosas le estás haciendo ahí? Por ejemplo, si tú haces un FAO por Incafarma, ¿cuál sería la siguiente venta cruzada?
+01:35:55 Speaker 2: Bueno, también tienes algunos beneficios de obtener un 1% de... De lo que hayas pagado en Incafarma. Encafarma, Promaz. Ya, pero eso es
+01:36:05 Speaker 1: una venta en el mismo lugar.
+01:36:09 Speaker 2: ¿Cómo la cruzo? Encafarma, en la parte de Incafarma, cruzo con otro. ¿Quién otro puedo cruzar? Promar. Promar.
+01:36:26 Speaker 1: Si vas a la farmacia, ¿qué más puedes comprar? Si vas a la farmacia y compras, bueno, aparte de medicina, compras crema dental, compras desodorante, cremas para la cara, compras protectores solares, ¿no es cierto? Entonces, ¿cuál sería el siguiente cruce
+01:36:50 Speaker 2: de información?
+01:36:55 Speaker 1: ¿A dónde lo llevas? ¿Copras pañales?
+01:36:59 Speaker 2: Plaza Bea. Plaza Bea. Es el siguiente punto. Y si no es Plaza Bea, ¿a dónde lo llevas? Cualquier supermercado Agorra más Pero
+01:37:16 Speaker 1: que fue un supermercado a descuento
+01:37:18 Speaker 2: Una de 100 más tiendas de descuento No me acuerdo Más Más, sí Bueno, hay más Tampoco una tienda de descuento Pero más es una tienda de descuento No
+01:37:34 Speaker 1: hay intracero de salga pero te lo llevas a más Miren el proceso que puede existir. Ayudando un poco lo que dice mi compañera. Si tú sabes que este cliente entiende a esta página, ¿qué cosa vas a hacer acá?
+01:37:47 Speaker 2: ¿No vas a hacer solamente quien te va a cobrar? No. Después de dar un descuento,
+01:37:53 Speaker 1: tengo otra cosa. O puedes acabar con el banco
+01:37:55 Speaker 2: y haces una promoción. ¿Qué
+01:37:57 Speaker 1: pasaría si eres telefónica? Ustedes saben que YAPE creció gracias a que pagas todos los servicios móviles por YAPE. Y si pagas todos los servicios móviles por YAPE, entras a YAPE, pago de servicio, pagas tu teléfono y te sale un anuncio. En estos momentos tienes una hamburguesa Venmo por 5 soles.
+01:38:26 Speaker 2: Esa es la venta cruzada. Una de las cosas que
+01:38:29 Speaker 1: podrías ayudar en tema analítico, gracias a que nuestros compañeros han conversado, es un análisis avanzado para ver que este cliente, qué cosa se puede ofrecer a un negocio con el banco y puede hacer una venta cruzada. Si todo se paga por ahí, te pago una comisión. De esa manera crece la
+01:38:49 Speaker 2: demanda, el banco gana,
+01:38:51 Speaker 1: yo como proveedor. Entonces ese es el siguiente escalamiento.
+01:38:59 Speaker 2: Ah, profe, pero si usted
+01:39:00 Speaker 1: no tiene síncrono, ¿con asíncrono lo hubiera hecho? Sí, pues yo lo hubiera hecho con asíncrono. Pero ¿qué hubiera pasado? No tengo una arquitectura para poder hacer
+01:39:10 Speaker 2: pagas, ¡pum! Le vendes algo al token. Pero ahora ya tiene una arquitectura donde todo es asíncrono. ¿Sí? ¿Se dan cuenta? Ese es el escalamiento. Ese es aprovechar lo que hay.
+01:39:29 Speaker 1: Cuando vean algo así, se ponen a pensar y dicen, ah, mira, por acá podemos hacer algo así. Miren el negocio, miren quién es el dueño del negocio, conversen con él y miren si es que se
+01:39:41 Speaker 2: puede, podemos crecer por ahí.
+01:39:44 Speaker 1: Yo les recomiendo eso. O sea, ahorita que ustedes, si alguno está practicando, o alguno está viendo alguna empresa, o cuando vayan a practicar o cuando vayan a trabajar, las cosas que hagan, deténganse un rato, miren por dónde va, y
+01:39:57 Speaker 2: piensen en un escalamiento, o sea, piensen en un roadmap,
+01:40:02 Speaker 1: para ver cómo aprovechar lo que ustedes saben y darle valor.
+01:40:07 Speaker 2: Este es un
+01:40:08 Speaker 1: roadmap de... Y bueno, y si ya empezamos a implementar
+01:40:18 Speaker 2: esto, pues tenemos que tener un modelo
+01:40:21 Speaker 1: operativo para poder gobernar todo ello. Entonces, ¿el modelo operativo qué es? Tenemos que saber quiénes son los roles,
+01:40:28 Speaker 2: quiénes son los decisores,
+01:40:30 Speaker 1: tenemos que ver cómo organizar todo este grupo de gente, ver qué procesos podrían tener y la tecnología hacia dónde podemos llegar.
+01:40:40 Speaker 2: Por ejemplo, ¿no?
+01:40:43 Speaker 1: ¿Alguien me puede decir cuál es la tecnología que está usando que acaba de lanzar,
+01:40:50 Speaker 2: no tengo nada con Interbank, pero que acaba de lanzar todo
+01:40:54 Speaker 1: Interbank o Intercorp, en realidad, creo que es toda la corporación.
+01:41:01 Speaker 2: ¿Quién IA? Antropic, ¿no? Antropic.
+01:41:06 Speaker 1: Gracias. Entonces, si yo utilizo
+01:41:09 Speaker 2: una tecnología tipo Antropic,
+01:41:11 Speaker 1: o sea, en IA, entonces ya tengo
+01:41:15 Speaker 2: un norte.
+01:41:18 Speaker 1: Y al usarlo, ¿qué puedo hacer? Los agentes que ya tienen Antropic. Y con eso, ya podríamos ir hacia atrás. Puede ser en la plataforma, puede ser en los estandales. ¿Qué procesos necesito? ¿Qué tipo de gente es la que yo necesito? Eso me sirve para ustedes como valor agregado. O sea, están buscando gente propio. ¿Ustedes qué están haciendo con respecto a ello? Si quieren trabajar en una corporación. Porque lo que van a hacer es buscar a gente con
+01:41:45 Speaker 2: este tipo de talento. Y luego, ¿qué
+01:41:52 Speaker 1: procesos se están interactuando? ¿Cuáles son
+01:41:54 Speaker 2: los proyectos que van a haber?
+01:41:56 Speaker 1: ¿Cómo voy a trabajar esa demanda? ¿Cómo voy a trabajar el día a día? Eso no se puede caer. Mientras voy creciendo con proyectos, tengo que tener una base para que toda la parte operativa continúe. Y obviamente el gobierno.
+01:42:14 Speaker 2: ¿Sí? Listo.
+01:42:16 Speaker 1: Este es el modelo operativo y todo eso lo que les acabo de mencionar
+01:42:21 Speaker 2: es lo que vamos a hacer en el curso y ustedes van a hacer todo su trabajo. Entonces, lo que tenemos que hacer es...
+01:42:45 Speaker 1: Comprender el negocio, diagnosticar cuál va a ser nuestra brecha. O sea, ahorita estamos así, cuál sería la brecha. Vamos a decidir cuál va a ser la estrategia. Y en función de estrategia, vamos a hacer el roadmap para ejecutar y tener la parte operativa.
+01:43:01 Speaker 2: ¿Ok? Listo.
+01:43:06 Speaker 1: Preguntas hasta acá. Vamos a hacer un pequeño ejercicio de
+01:43:09 Speaker 2: 15 minutos. Quiero hacer un ejercicio de 15 minutos. ¿Ya? ¿Ya? ¿Ya? No, no, pero ¿qué está? ¿Qué puede promocionar? Una agrupación de billetera digital.
+01:43:50 Speaker 1: ¿Una agrupación de billetera digital? ¿Alguien está de acuerdo?
+01:43:57 Speaker 2: ¿Es
+01:43:58 Speaker 1: una integración?
+01:44:00 Speaker 2: Sí, hasta ahí.
+01:44:02 Speaker 1: ¿Qué integras?
+01:44:06 Speaker 2: Ya, entonces, ¿una sola plataforma? ¿Qué integras? distintas billeteras métodos de pago cajas
+01:44:55 Speaker 1: ¿Cómo funciona esto?
+01:44:59 Speaker 2: ¿Cómo va a funcionar?
+01:45:04 Speaker 1: Perfecto. TAP es una plataforma que integra. ¿Qué integra?
+01:45:13 Speaker 2: ¿Qué integra? ¿Métodos de pago?
+01:45:22 Speaker 1: ¿Cuántas de pago? ¿Qué es eso?
+01:45:26 Speaker 2: Apis. Pasareles. ¿Flujo? De caja. ¿De qué? De dinero, pues. ¿De dinero? Claro.
+01:45:40 Speaker 1: O sea, vamos a integrar flujo de dinero. ¿Cómo el dinero va de un lado a otro? Primero, el dinero está en un banco. Segundo,
+01:45:49 Speaker 2: tiene que ver los billeteros acá. Ok.
+01:45:58 Speaker 1: Entonces es una guietera. ¿Cómo acceder
+01:46:01 Speaker 2: al banco? ¿Quién me reyecta? No. Por acá.
+01:46:11 Speaker 1: ¿Y este va?
+01:46:13 Speaker 2: Por acá.
+01:46:17 Speaker 1: ¿No es cierto? ¿Y ahí por qué hago esto?
+01:46:20 Speaker 2: Es un intermediario. Claro, es una plataforma donde te va a ayudar el flujo de dinero.
+01:46:27 Speaker 1: El flujo de transacciones, si quieres. ¿Y cómo esto opera? A ver atrás, ¿cómo opera? Ya, fíjate a una persona. ¿Cómo esta persona accede?
+01:46:49 Speaker 2: Ok. ¿Quién es el que te dice quién va a pagar? ¿Cómo no? Una petición de
+01:46:58 Speaker 1: pago. Una petición de pago, buenísimo. Entonces, yo puedo hacer una petición de pago a
+01:47:03 Speaker 2: alguien que sería un proveedor. de pago. Por
+01:47:13 Speaker 1: ejemplo, probar el pago, ¿cuál sería? Newbies.
+01:47:17 Speaker 2: ¿Qué más? EasyPay.
+01:47:21 Speaker 1: CoolKey. Perfecto.
+01:47:24 Speaker 2: ¿Eso dónde lo tiene? Vamos a ponerlo aquí. En tu carrito de compras. Listo.
+01:47:31 Speaker 1: Entonces yo agarro en tu carrito de compras y me dice para.
+01:47:36 Speaker 2: ¿No es cierto? ¿Y qué hago? Este que está acá. y este cliente
+01:47:41 Speaker 1: hace clic va acá y luego a donde va va
+01:47:46 Speaker 2: a la billetera posiblemente va
+01:47:50 Speaker 1: a la billetera y la billetera luego que va va
+01:47:55 Speaker 2: a la billetera que se conexa con el banco y
+01:48:00 Speaker 1: luego hay una vía de regreso una
+01:48:03 Speaker 2: vía de regreso y otra vía de acá No cobran las condiciones como en Mubis y eso es una buena opción porque la luz al cero, mientras que en ellos cobran como 4%, no sé cuánto.
+01:48:23 Speaker 1: ¿Por qué en ellos te cobran 4%? Si no existe esto. Hoy día, hoy día no existe esto. ¿Qué
+01:48:30 Speaker 2: pasa?
+01:48:42 Speaker 1: si uso esto, Newbiz lo que te va a decir aquí
+01:48:47 Speaker 2: te
+01:48:48 Speaker 1: va a decir cómo quieres pagarlo, te va a hacer clic cómo quieres pagarlo, hay todas estas formas yo
+01:48:53 Speaker 2: quiero pagar TAP, que es una yo
+01:48:55 Speaker 1: quiero pagar Visa, que es otra yo quiero pagar Mastercard, que es otra yo quiero pagar
+01:49:00 Speaker 2: YAP, que es otra la gente va a tomar TAP y baterías ¿qué
+01:49:07 Speaker 1: me va a ayudar con esto?
+01:49:11 Speaker 2: comisión,
+01:49:11 Speaker 1: cero interoperabilidad una
+01:49:18 Speaker 2: caja rural
+01:49:24 Speaker 1: Podrá, o sea, si yo hago PIN,
+01:49:26 Speaker 2: hay una parte que hace PIN y me dice, ¿qué caja rural quieres?
+01:49:31 Speaker 1: No, ¿quién tiene que ser la caja rural?
+01:49:34 Speaker 2: Entrá por YAPE, entrá por PLIN. ¿Tieron cuenta? O sea, si yo plineo,
+01:49:41 Speaker 1: voy a llamar PLIN y puedo decir, y me dicen, ¿a dónde quieres? Porque estás en CID, estás en caja
+01:49:48 Speaker 2: efectiva, en CID, ¿no? ¿Pero? No, es que puedes abrir tu cuenta PLIN desde tu cuenta de WBA, Scotiabank, Interbank, por alguna caja. Claro, tú estás usando la plataforma de PLIN para ello.
+01:50:04 Speaker 1: Mañana no voy a usarlo, sin importar.
+01:50:07 Speaker 2: O voy a usarlo, puedo
+01:50:09 Speaker 1: usar por los dos lados, pero más recomiendo.
+01:50:12 Speaker 2: Todas las cajas van
+01:50:14 Speaker 1: a poder entrar acá. Todas las billeteras van a poder entrar en este rubro.
+01:50:19 Speaker 2: Pregunta, solamente va a haber ya venido PLIN. ¿Pueden entrar más? ¿Pueden entrar más? ¿Cuánto?
+01:50:29 Speaker 1: Si yo vengo en un banco del extranjero, ¿qué hago? Ese es el futuro.
+01:50:56 Speaker 2: Es correcto. Un negocio
+01:51:01 Speaker 1: que es grande.
+01:51:04 Speaker 2: No, ya. Por eso, yo estoy preguntando a ustedes.
+01:51:09 Speaker 1: Tú eres un negocio retail.
+01:51:11 Speaker 2: Dime, ¿qué ventaja tiene con esto? ¿Cómo le saca jugo a esto? En las comisiones.
+01:51:18 Speaker 1: Yo he hablado de que es una plataforma de flujo de dinero, donde tengo bancos, tengo billeteras, tengo Newbies,
+01:51:29 Speaker 2: y el cliente actúa de esta manera.
+01:51:31 Speaker 1: Tú eres un retail. Dime, ¿qué hablaste con tus compañeros? ¿Cómo esta plataforma te ayuda a tu negocio? ¿Qué valor me vas a encontrar?
+01:51:41 Speaker 2: Bueno, hablamos de actividad en el proceso de ley en general de pago. Pues, se puede usar un cuidado de unico para empezar a ustedes. Ok. Eso que sería fácil para... Ok.
+01:51:59 Speaker 1: Perfecto, eso es un tema operativo. ¿Y cómo te ayudaría si eres un retail? ¿Ahorita?
+01:52:05 Speaker 2: También Entra
+01:52:07 Speaker 1: alguien, compra por Visa ¿Cómo
+01:52:14 Speaker 2: te ayudaría?
+01:52:18 Speaker 1: Está bien lo que tú dices, va a ser más rápido, pero pisa también.
+01:52:22 Speaker 2: ¿Qué ventajas me da? Lo que dice su compañera,
+01:52:24 Speaker 1: pero ¿qué ventaja me da?
+01:52:26 Speaker 2: Tal vez hay un público que
+01:52:28 Speaker 1: tiene... ¡Eso! Un nuevo público. Pregunta, ¿en Huánuco tienes una... Busca ahí en Google. ¿Tienes una empresa retail en Huánuco?
+01:52:59 Speaker 2: Real Plaza Huánuco y Open Plaza Huánuco. Real Plaza Huánuco y Open Plaza Huánuco. ¿Y Open Plaza Huánuco? Open Plaza Huánuco.
+01:53:10 Speaker 1: Open Plaza Huánuco, Real Plaza Huánuco. Real Plaza, donde tiene esos dueños.
+01:53:27 Speaker 2: Bujen. Grupo
+01:53:28 Speaker 1: Intercor. ¿Qué pasa si yo no tengo nada con el Grupo Intercor? No uso tarjeta de crédito.
+01:53:36 Speaker 2: Tengo ese nuevo cliente. ¿Y ahora qué voy a hacer?
+01:53:43 Speaker 1: Le voy a ofrecer un tarjeta de crédito. Le mando a robar. Exacto, vas a decir,
+01:53:53 Speaker 2: vas a preguntar ¿Qué
+01:53:56 Speaker 1: financieras, qué cajas rurales
+01:53:58 Speaker 2: existen en Wannum? ¿Qué cajas rurales hay en Wannum? Caja rural Los Andes Me voy por lo que ahora están ahorrando ahí
+01:54:31 Speaker 1: Con lo que transaccionan ahí Soy
+01:54:35 Speaker 2: local
+01:54:37 Speaker 1: Les hago un descuento a todos los que te van a encajar. ¿Por qué?
+01:54:41 Speaker 2: Porque no necesito que tenga tarjeta que uso.
+01:54:43 Speaker 1: Simplemente una cuenta de ahorro.
+01:54:47 Speaker 2: Y este es mi negocio. Siguiente tapa. Solo los Andes.
+01:54:58 Speaker 1: Si me funciona en Guanusco,
+01:55:00 Speaker 2: ¿dónde crezco? Ya. Luego...
+01:55:08 Speaker 1: Pucha, pero tengo sí. Esta es la billetera.
+01:55:16 Speaker 2: ¿Puede entrar así? Si es parte de la familia Intercor, debería. No, no, yo como cliente. ¿Puede entrar así? Sí. O sea, hablamos que en real,
+01:55:31 Speaker 1: la Zabea, por ejemplo, ya el señor dice el nuevo cliente. Ya, tengo nuevos clientes. Me jala todos los que son de bancos los Andes. Que no tienen tarjeta, pero pa,
+01:55:40 Speaker 2: listo. Ya puedes
+01:55:42 Speaker 1: comprar por acá, la Zabea. los ayudos si entran así.
+01:55:53 Speaker 2: ¿Dónde está si no?
+01:55:57 Speaker 1: Exactamente.
+01:56:00 Speaker 2: Este pata entra acá, listo. Ingresa, va acá, regresa.
+01:56:06 Speaker 1: A todos los que han hecho esta transacción, ¿qué les digo? ¿Quieres el 1% de toda tu transferencia? ¿Regres? Métese así. Y
+01:56:18 Speaker 2: de esa manera,
+01:56:23 Speaker 1: No necesitas tener una cuenta bancaria en
+01:56:26 Speaker 2: interbanas. Puedes continuar con los antes. Listo, chicos.
+01:56:35 Speaker 1: A eso me refiero. Busquen qué cosas hay nuevas,
+01:56:39 Speaker 2: cuál es la estrategia que hay en el mercado, por dónde
+01:56:42 Speaker 1: va, qué rollo juego, estoy yo en qué posición, qué cap estoy
+01:56:47 Speaker 2: yo jugando en esta filigación.
+01:56:49 Speaker 1: Esto es lo que se viene el próximo año.
+01:56:53 Speaker 2: Se supone que es el
+01:56:54 Speaker 1: piloto. El piloto va a empezar este año lineal. No sé, no sé en qué tanto lo veo, pero el próximo año, de todas maneras,
+01:57:03 Speaker 2: entra. ¿Toda esta infraestructura dónde la pongo? ¿En la?
+01:57:14 Speaker 1: En la nube. ¿Y qué problema puedo tener ahí? Demoraste
+01:57:18 Speaker 2: datos también. ¿Cuántas transacciones pueden haber? La próxima vez voy a extorsionar más fácil.
+01:57:28 Speaker 1: problemas sociales, para poder venir,
+01:57:31 Speaker 2: hay que controlar ese tema de seguridad, hay que ver el tema, lo que dijo el señor, sobre protección de datos. Bien,
+01:57:42 Speaker 1: eso es. Y a
+01:57:44 Speaker 2: partir de aquí, ¿cómo escalas?
+01:57:48 Speaker 1: de parte analítica para poder analizar por eso es importante esa billetera esas billeteras digitales Russell y chicos bienvenidos al curso de
+01:58:01 Speaker 2: estrategia si no hay más preguntas Gracias. ¿Qué? ¿Dejó? ¿Dije más? Sí. Profesor, ¿qué vamos a ver la próxima semana? ¿Qué vamos a ver la próxima semana? Ah, bueno. Ok.
+  

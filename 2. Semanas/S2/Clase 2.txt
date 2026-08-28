@@ -1,11 +1,58 @@
-. {
-	. {
+. MODULO 1: INDICADORES CRITICOS{
+	. JTBD: JOB-TO-BE-DONE{
 		. 
+	}
+	. CONVERSION RATE{
+		. Una persona que compra en digital
+	}
+	. CUSTOMER LIFETIME VALUE{
+		. Que el estudiante pague cuotas hasta terminar la carrera
+		
+		. La persona prefiere ir a comprar el lugar para comprar pañales porque quiere lo mejor para su hijo (alergia)
+	}
+	. CHURN RATE{
+		. Se va el estudiante porque no le va bien en la universidad
+		. La oficina de Bienestar existe para determinar porque se va el estudiante
 	}
 }
 
-. {
-	. {
-		. 
+. MODULO 1: CANVAS INTEGRADO{
+	. CASO{
+		. Si yo no lo hago, es un canal por el que la empresa no va a percebir
+	}
+}
+
+. MODULO 3: ECONOMIA DIGITAL{
+	. ON-DEMAND{
+		. Tener la oferta para responder cualquier demanda
+	}
+	. Sharing Economy{
+		. Cada uno tiene infraestructura diferente y nos conectamos
+		. Netflix
+	}
+	. HOOK & Bait{
+		. Temu
+	}
+}
+
+. MODULO 4: TI Bimodal Gartner{
+	. Agilidad e Innovacion Rapida{
+		. Agilidad me permite bajar y subir APIs
+	}
+}
+
+. CEO{
+	. Conocimiento comercial de su cliente
+	. Economia
+	. TI
+	
+	. El CEO de Interbank sustento el convenio con Antropic
+}
+
+. TA{
+	. Problema resuelto con tecnologia
+	. PC1{
+		. 50% de manera sincrona
+		. 50% del entregable
 	}
 }
