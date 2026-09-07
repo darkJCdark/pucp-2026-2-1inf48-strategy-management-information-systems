@@ -1,11 +1,11 @@
-. {
-	. {
-		. 
-	}
+. POC{
+	. Prueba de concepto
 }
 
-. {
-	. {
-		. 
+. Video del profesor{
+	. Si sabe todo de mi, puede decirem a donde me gustaria viajar
+	. Te dice en que haz gastado el ultimo mes
+	. URL{
+https://www.bolsamania.com/noticias/mercados/economia--revolut-lanza-air-en-espana-su-nuevo-asistente-de-inteligencia-artificial-para-gestionar-las-finanzas--23442762.html
 	}
 }

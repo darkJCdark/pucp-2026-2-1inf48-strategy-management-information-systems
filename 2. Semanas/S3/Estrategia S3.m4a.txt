@@ -1,0 +1,391 @@
+# Estrategia S3
+
+  Meeting started: 3/9/2026, 9:18:33 a. m.
+  Duration: 121 minutes
+  Participants: Speaker, Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/8I7dblUwFwZ5974ROex4?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 2: A ver, cuénteme, ¿qué fue eso? Yo solamente vi el titular, pero no sé mi esposa para... Pero ella no me
+00:23 Speaker 1: sentó a con ella para... Cuéntame.
+00:31 Speaker 2: O alguien puede entrar y me leer. Si quieren.
+00:36 Speaker 1: O sea, según lo que es mi compañero, es que se pasa arriba y pasan 30
+00:42 Speaker 2: minutos y se va arriba como que está pasando con
+00:45 Speaker 1: satélite en el salto y básicamente hablamos de lo que es lo que nos va a hacer y se va arriba.
+01:06 Speaker 2: Gracias. Es un patrimonio.
+01:40 Speaker 1: Es un
+01:45 Speaker 2: patrimonio.
+01:48 Speaker 1: ¿Qué tipo de padrón?
+01:49 Speaker 2: Como que cuando hay problemas así
+01:50 Speaker 1: de...
+02:20 Speaker 2: Lo que hemos agregado antes de tocar la salud mental, hay un tema de retención, les comenté, de retención de alumnos.
+02:48 Speaker 1: Este
+02:49 Speaker 2: es un indicador. Gracias. Pero,
+03:24 Speaker 1: esto, muy bien. Pero
+03:27 Speaker 2: este, en esta parte, es el tema del psicólogo que
+03:33 Speaker 1: tiene que ser mental.
+03:34 Speaker 2: Entonces, lo que nosotros estamos haciendo es justamente esto. ¿Por qué retención? Más que retención, es un tema de... Sí, porque hay chicos que se van y ahí pueden descubrir temas sociales,
+04:01 Speaker 1: psicológicos, psicológicos...
+04:06 Speaker 2: que tiene que ver con el tema
+04:07 Speaker 1: del negocio todo eso
+04:14 Speaker 2: Tiene que ver con el tema de negocio. Si nos ponemos en la posición de cualquier universidad, fuera lo que sea, su compañero, yo le acabo de decir, UPC, Católica y la de Yuma. Con tres instituciones tienen que ver con el tema de la
+04:32 Speaker 1: vida de un estudiante.
+04:35 Speaker 2: Y es como un patrón que se repite. Estamos viendo algo que, independientemente de la institución, podría ayudar. pero está la sociedad entonces ahí hay un tema es el entendimiento ahora de la institución de tu cliente ¿quién es tu cliente? el estudiante y a tu cliente lo tienes que ayudar a que cumplir su misión la universidad no es construir edificios la universidad es construir edificios para algo. Vas a hacer algo para tu cliente. Vas a dar un servicio a tu cliente.
+05:22 Speaker 1: Entonces,
+05:25 Speaker 2: conocer tu negocio es conocer el comportamiento que tiene tu cliente. ¿De acuerdo?
+05:34 Speaker 1: Bien. ¿Y
+05:37 Speaker 2: qué está pasando ahorita? Ahora, profe, eso pasaba antes también sin lugar a dudas, pero había otras formas de trabajarlo, de tratarlo. Pero, ¿qué es lo que estamos viendo? Hay un tema de este comentario. Y si quieres ponerlo a nivel tecnológico, ¿qué podríamos sacar acá? Ya conocen a tu cliente. Este es mi cliente. Mi cliente tiene que estar bien en la universidad. para poder cumplir
+06:09 Speaker 1: con la
+06:12 Speaker 2: ambición que
+06:13 Speaker 1: tiene el estudiante.
+06:15 Speaker 2: Vamos a sacar una que va a ser obtener su finalidad, obtener su grado. Entonces, si yo quiero obtener su grado, la universidad tiene que ayudarlo para obtenerlo, porque él confía en él. Entonces, acá yo puedo tener una barrera de ingreso. ¿Por qué tengo yo barrera de ingreso? Porque depende del perfil que yo quiero que ingrese. Entonces, si tú estás haciendo que él ingrese acá, es que estás conociendo su perfil. Al conocer su perfil, tú lo tienes que ayudar para obtener. Ese es mi yo. ¿Me sigue? Y con todo esto, ¿qué estrategia podría yo aplicar? Ese es esto. Voy a salir de esto para ver qué estrategias tecnológicas puedo aplicar. ¿Qué pasaría con una estrategia cloud? ¿Qué pasaría con una estrategia cloud? ¿Qué pasaría con una estrategia de innovación? ¿Qué haría con esto? ¿Cómo podría ayudar a estos clientes usando esto? Por ejemplo, ¿qué se les ocurra? Pero han 30 minutos para
+07:37 Speaker 1: este caso.
+07:39 Speaker 2: Es peor acogida. ¿Llamar? Llama a la emergencia. Tú vas a llamar a la emergencia. Cualquiera. Y si cualquiera puede llamar a la emergencia, tú como TI, ¿cómo lo ayudaría? Ya, perfecto. Pero, ¿cómo ayudaría? Si tú ves a alguien que se está cayendo, ¿cuál es el número de emergencia? ¿Te acuerdas? No te acuerdas. ¿Qué harías tú? Guau, te demora. ¿Qué más harías?
+08:41 Speaker 1: ¿Qué puedes
+08:42 Speaker 2: hacer para más rápido? Un botón de panico en WhatsApp. Pac, toma un foto. Pac, control de pánico. Esto es donde quiere llegar. ¿A dónde debe llegar? Perfecto, seguridad. ¿Qué más? Ecología. ¿Qué es esto? Seguridad. ¿SST? Seguridad y salud del trabajo. Pero en este caso, seguridad y
+09:18 Speaker 1: salud del alumno.
+09:22 Speaker 2: Hay un departamento que hace eso. Tiene que ver cómo poder hacer eso. Bien. Para poder ayudar a él, a través de estas políticas, voy a utilizar esto para hacerlo. Porque es un botón de panel. Necesito una rapidez. Si se me da rapidez, cruza todo el mundo. Tómalo una foto, pum. Y de una vez,
+09:42 Speaker 1: entró.
+09:43 Speaker 2: Hasta que entra el labra, que cerra mi contraseña, hasta que... ¿Cómo WhatsApp le puede ayudar? Oye, si se cae WhatsApp, ¿qué es otra contingencia? Puede haber teléfono, puede haber un montón en cualquier otro lugar, ¿no? Profe, si se filtra todo lo que ha pasado, ¿qué es esto? Es todo esto. Si se filtra algún problema como esto, toda esta noticia, ¿qué va a ser?
+10:14 Speaker 1: tiene
+10:15 Speaker 2: que llegar al medio de, tiene que llegar a la comunicación. La comunicación tiene que ser eficaz, porque yo tengo que dar tranquilidad a los papás, tranquilidad al alumno, tengo que darle tranquilidad a toda la comunidad. Porque los próximos clientes, los próximos alumnos tienen que estar tranquilos, los papás tienen que estar tranquilos. ¿Sí? Y esa comunicación en redes, comunicación... oficial tiene que ser así Yo, por ejemplo, he estado justamente en estos procesos
+10:53 Speaker 1: y
+10:54 Speaker 2: la comunicación. A mí me llamaban para poder identificar qué es lo que ha pasado con algún tipo de problema. Yo trabajaba en ese momento en los medios seguros. Me llamaban para decirme, dime qué ha pasado con este asesinato. ¿Se le ha pagado o no se le ha pagado? ¿Ha tenido problemas? ¿Ha tenido reclamos? Tenemos que sacar toda esta información ya. En uno. ¿Por qué? Porque el área de seguridad o la gente que estaba metida en la seguridad tenía que interactuar en ese momento. Hubo una persona, esta sociedad, les
+11:28 Speaker 1: cuento uno de los casos. Uno de los casos
+11:33 Speaker 2: que impactó fue una persona entró en edificio a una compañía simuladora, se fue a este piso 8. Y comenzó a gritar y diciendo,
+11:44 Speaker 1: ¿Quién es la persona que
+11:47 Speaker 2: es responsable del departamento de siniestralidad de autos? Me han chocado y casi muero. Y nadie me dio, yo llamé por teléfono y nadie me hizo caso. Gritaba. ¿Qué necesitábamos hacer? Llamar a la seguridad. Si saber cómo trabajar con una persona que está habitando y se siente en el tema del pánico. Tercero, alguien tiene que controlar todo el sistema de comunicación.
+12:20 Speaker 1: Al final,
+12:21 Speaker 2: yo me hice cargo. Yo hablé con esa persona, le di la tranquilidad, me la llevé al primer piso. En un cuarto más tranquila,
+12:33 Speaker 1: pudimos
+12:35 Speaker 2: darle agua, pudimos darle galletas, se sintió más tranquila y que alguien la acogió. Porque el problema era, nadie me acoge, nadie me dice, nadie me pide. En paralelo, buscábamos todo lo que había pasado por el reclamo, quién atendió, cómo fue, etc, etc, etc. Y en ese momento, se llamó a... El cliente responsable del área, ya está el líder del
+13:01 Speaker 1: proceso.
+13:03 Speaker 2: Comunicación, intervención, seguridad. Y al final, tienes al cliente,
+13:13 Speaker 1: tienes al cliente.
+13:15 Speaker 2: Bien. Ustedes para eso tienen que entender cuál es el negocio y qué es el cliente y puedes aplicar el proyecto. Ok chicos, si alguien le falta tesis, alguien le tiene la tesis. No digo que en tesis 2 se vaya y me agarren esta tesis,
+13:35 Speaker 1: porque en tesis 1 no escuchan. Digo, si hay tesis
+13:40 Speaker 2: 1 o algo, ahí está. Eso chicos, saquen las cosas que están sucediendo, entiéndanlo, bajen la estrategia, buscan oportunidades.
+13:52 Speaker 1: La van trabajando, la van bien, vayan
+13:54 Speaker 2: buscando algún tipo de oportunidades, asóciense y comiencen a ver infinitas cosas. Es súper importante porque ustedes tienen esto, lo importante es conocer el negocio, vean las oportunidades, agarren estos distintos recursos. ¿Qué influencias externas estamos viendo en todo este proceso? ¿Qué influencias externas tenemos?
+14:19 Speaker 1: Primero esto.
+14:21 Speaker 2: Si yo no tengo esto, no puedo armar una estrategia. O sea, si yo no tengo estas herramientas, no puedo armar otra. ¿Qué otra influencia estamos viendo? Temas de salud mental. O sea, sí, está incrementando el tema de salud mental. Por ejemplo, justo hoy en la mañana tuve una reunión con una... pedagoga, una chica que está metida en temas pares escolares, y esta persona me decía, estoy viendo ya cómo ha influenciado la pandemia a los chicos que han estudiado primer grado y son moderados. Ha pasado que en 25 años traen los chicos entrando secundarios, unos entrando, otros ahí están. Están viendo cuál es la diferencia entre esa generación con usted. Y dentro de eso, lo que le está pasando es la influencia pedagógica. ¿De acuerdo? Y esa influencia pedagógica me dice que se está ofertando ciertos skills y hay otros skills que están demasiado altos. Una de las cosas que están demasiado altos es la actividad cerebral. La dopamina, ¿qué es lo que hace? ¿Qué es la dopamina?
+15:56 Speaker 1: ¿Y
+15:57 Speaker 2: eso qué significa? Te activa tus neuronas y te hace que te esfuerzas más. Y luego, llega un punto en el cual eres cansado. Y al estar cansado, baja tus defensas. Y no te concentras.
+16:17 Speaker 1: No te concentras.
+16:19 Speaker 2: Puedes tener algunas otras oportunidades. Y al final, tu cerebro... va a querer más y más y más y va a ser más y más y va a comenzar a pensar,
+16:31 Speaker 1: pensar, pensar, y todo eso es... ¿Por
+16:35 Speaker 2: qué les digo eso? Esta persona lo que estaba buscando es una plataforma pedagógica para poder ayudar a los chicos. Pero sin activarle mucho el tema de la dopamina. O sea, no quiere juegos educativos. como juegos, no quiere esa recompensa, quiere el contrario, quiere ver algunos otros tipos de juegos. Oye, pero puedes hacer juegos manuales, lo que sucede es que
+17:08 Speaker 1: quiere
+17:12 Speaker 2: cerciorarse que realmente los chicos los
+17:15 Speaker 1: trabajen.
+17:16 Speaker 2: ¿Por qué? Porque regresan a casa y no tienen apoyo de los papás. Lo que quiere es poder contornarlos. Es un tema complejo, si es cierto. Sin embargo, es súper importante porque el tema es fundamental. Entonces, una influencia externa es fundamental. Va a haber más
+17:37 Speaker 1: trabajo para el sector, más trabajo en
+17:40 Speaker 2: el tema tecnológico.
+17:42 Speaker 1: Entonces,
+17:42 Speaker 2: tienes esta estrategia. Y tienes la sociedad, ¿qué pasa con el tema de regulaciones? ¿Qué sucede con las revoluciones? La SBS, ¿qué está haciendo ahora, último? La hemos visto en las primeras clases. Sí, terrible, ¿no? ¿Qué está haciendo la SBS ahora, último? Está viendo más... Está circulando el pescado. ¿No es cierto? ¿De qué manera regula el ASBs el mercado? ¿Qué mercado está regulando? ¿El mercado financiero? ¿El mercado asegurador? ¿El mercado financiero? ¿El mercado económico? ¿El estado de banca y el seguro? ¿El AFPs también? ¿Pero qué está haciendo? está haciendo para que entre más competidores se vuelvan más competitivos. Por ejemplo, Revolut. ¿Hemos hablado de Revolut? Revolut es uno. A ver, busquen efectiva. Última noticia de efectiva. Caja. No sé si es la caja efectiva. ¿Efectiva? ¿Qué es ahora efectiva? Financiera. Financiera efectiva, ya. Ok. Oje financiera efectiva a Últimas Noticias. O ponga en banca.
+19:52 Speaker: ¿Están importando? ¿Alianza con Samsung? ¿Qué más?
+20:07 Speaker 2: ¿Cómo se llama? EfectiBank. ¿Cómo se llama ahora? EfectiBank. ¿Y se alía con Samsung? ¿Qué quiere? ¿Poner bancos acá en la esquina?
+20:23 Speaker 1: No.
+20:26 Speaker 2: Aperturas de sucursales, subcursales, no aperturas de agencias. ¿Qué significa aperturas sucursales? Que pueden tener entes centralizados. Si yo me ajusto con Samsung, ¿qué voy a hacer? Banca móvil.
+20:47 Speaker 1: Buenísimo.
+20:47 Speaker 2: Perfecto. ¿Quién es el CEO
+20:49 Speaker 1: de casa
+20:51 Speaker 2: efectiva? No, ahora. Actual.
+21:37 Speaker: Sí. Ok, el presidente del directorio. A ver, caja
+21:43 Speaker 2: efectiva. Escuchen. Caja efectiva se vuelve. Listo. ¿Quién es el presidente del directorio? Álvaro Correa. Álvaro Correa. ¿Quién es Álvaro Correa?
+22:04 Speaker 1: Fue el CEO de Alcor.
+22:06 Speaker 2: Perfecto. Dame más. ¿Qué más? ¿Qué más? ¿Qué más? Por ende, ¿qué creen ustedes que será caja financiera efectiva? Está apostando por ser un banco sólido con más clientes. Está apostando a ir con F. Porque la plata viene de grupo
+22:50 Speaker 1: F.
+22:50 Speaker 2: ¿Qué son tiendas F? ¿Se han ido a provincia? Electrodomésticos. ¿Se han ido a provincia en los centros? Está en todos lados. Bien. Y acá su compañero me está preguntando qué significa que sean sucursales. Yo puedo tener N agencias, pero un grupo de agencias van a pertenecer a una sucursal. Es decir, Lima puede tener una sola sucursal, Arequipa una sucursal y desde Lima vienen hasta todos los distritos. O sea, monitorea todos los clientes de estas zonas. En Arequipa monitorea clientes del sur porque puedo entender con mucha más claridad a mis clientes si yo tengo sucursales. Oye, en el centro va a tener que irse a Lima. No, puedo usar multibanca. Ya, pero si yo quiero tener una mejor relación, quiero entender qué es lo que quiero, pues mejor pongo una sucursal en el centro para que puedas entender, para que tengas un lado de iniciativo. Entonces, de esa manera te ven físicamente. o en una zona sombrosa de una agencia. Una agencia es una oficina local. Y una sucursal es un conjunto de oficinas, digamos así, o es un lugar que monitorea toda esa zona geográfica. Bien. ¿Qué está pasando entonces con tiendas de fenómeno? Con financiera efectiva. Está pasando
+24:26 Speaker 1: mercado.
+24:30 Speaker 2: O sea, se está dando cuenta que hay un mercado. A ver, chicos. Si yo les vendo una laptop, les tengo que vender con tarjet de crédito o cash,
+24:43 Speaker 1: ¿no?
+24:44 Speaker 2: Mediaperas. Y si me dices, oye, te puedo pagar por partes, en vez de pagar al banco, me paga un interés de 20% o al banco que no me da crédito, tú me puedes dar crédito porque no lo tengo, pero yo soy buen pagador. Entonces, la tienda es F, no es banco. Me tengo que asociar con un banco para poder dar un crédito. ¿Y por qué le voy a dar la plata a un banco? Cuando yo puedo ser el banco.
+25:17 Speaker 1: Punto uno.
+25:19 Speaker 2: Punto dos. ¿Cuántos clientes tengo? N. Ya los conozco. Entonces, ¿puedo dar crédito? ¿Qué más? ¿Pueden ahorrar conmigo?
+25:32 Speaker 1: ¿No?
+25:34 Speaker 2: Listo. ¿Qué más da un banco? Te acompaña por todo tu vida. Ustedes empiezan a trabajar. ¿Y dónde te pago? En un banco. Hacele el último iPhone. ¿Qué hago? ¿Qué digo que no se hace? ¿Cuál es tu perfil? ¿Y qué hago? Promoción. ¿Qué más? ¿Se cliente casada? ¿Le puedo dar un préstamo? ¿Quieren comprar un depa? ¿Te doy un crédito hipotecario? Yo ya sé que estás trabajando, crédito hipotecario. Y luego, ¿qué creen que les puedo vender cuando se casan?
+26:21 Speaker 1: ¿Cuándo tienen un depa?
+26:41 Speaker 2: Porque antes te lo daba a ti y tú te llevabas tu crédito. Ahora le voy a dar a mi otro bolsillo. O sea, yo te digo, yo no soy financiero, pero el señor me pide crédito. ¿Qué hago? Me asocio contigo. Oye, el señor quiere un crédito. ¿Le puedes dar? Dile, sí, claro, yo le puedo dar. Pero yo te estoy dando él. ¿La plata dónde va? Él, tú me vas a dar la plata, 100 soles. Él te va a dar 150. Eso es 50, ¿lo estoy viendo?
+27:23 Speaker 1: Perfecto.
+27:24 Speaker 2: Ahora, ¿qué voy a hacer? Voy a crear un banco. En vez de darle a ti, en el otro bolsillo. No tengo un bolsillo que me diste. Este bolsillo me da 100. Que con eso compré y con eso ganan la utilidad. Pero el otro bolsillo va a ganar 150. Entonces al final, ¿qué tengo? Tengo en un lado la utilidad, en el otro lado tengo 100, en el otro lado tengo 50, así que tengo 150. Quedan los 150 en este lado de aquí.
+28:07 Speaker 1: Por eso considerando que la empresa tiene un historial de los compras... Por eso te
+28:13 Speaker 2: vuelve pan de historial. Si tú siempre vas a mi tienda, y tú eres buen pagador, y yo ya te conozco, y hago una sucursal en Huancayo, que tú vas todo el tiempo a decir, oye, ¿cuánto cuesta tu celular? Quiero cambiar el celular. Y cambias cada dos años. ¿Te conozco o no te conozco? Oye, Raúl, acaba de salir de nuevo celular. No, no tengo plata. Tranquilo. Me pagas en 10 partes. No, no te he
+28:46 Speaker 1: querido de mi sabay.
+28:49 Speaker 2: Y luego vas viendo que tu pata Johnny lo tiene. Tu pata Johnny lo tiene. Y dices, yo no me quiero quedar atrás. Vienes y me dices, oye, pero yo no hay 10, pues te los pago... Páganme en 12.
+29:01 Speaker 1: O sea, va más chiquito.
+29:03 Speaker 2: Ya, pero te cobro mucho dinero. Listo. Te doy, tengo el crédito, tengo banco, tengo él. Luego, te vas a casar y dices, oye, quiero regalarle el anillo, no,
+29:20 Speaker 1: pero... No, el anillo no.
+29:26 Speaker 2: Un departamento, quiero amoblar mi departamento. Oye, pero él se casa y tú quieres regalarle algo.
+29:34 Speaker 1: Y le regalo a tu casa.
+29:36 Speaker 2: Ahí está. Y como no tienes dinero, pero quedas muy bien con tu pata. Eso,
+29:45 Speaker 1: señores,
+29:52 Speaker 2: es mercado. Ahora, ¿qué tema de regulación puede existir? El tema de regulación es, profe, pero no puedo pasar nada de una empresa a la otra. No, no lo puedo pasar. Pero lo que sí puedo hacer es, a la otra empresa le doy menos comisión. Le pago, te vas a comisionar, ¿no es cierto? Y tú dime que quieres comisionar y quieres hacer promociones conmigo. Perfecto. No sabes la data, pero le das una comisión. ¿Eso qué es? ¿Qué puedo obligar ahí? ¿Qué cosas adentro puedo aplicar en temas regulatorios? Ciberseguridad, ¿no es cierto? ¿Y qué otras cosas más puedo aplicar en un
+30:41 Speaker 1: regulatorio?
+30:43 Speaker 2: Este... ¿Cómo se va? Bueno, yo te paso data y uno no sé.
+30:50 Speaker 1: ¿Perdón?
+30:57 Speaker 2: ¿Tecnología en la que estamos aplicando? ¿Economía? Yo ya estoy teniendo una economía abierta. ¿Qué pasa? ¿Qué pasa si yo me voy? Ustedes se van a Estados Unidos.
+31:08 Speaker 1: Ah,
+31:09 Speaker 2: les paso un dato, por ejemplo. Argentina, saben que se cayó hace tiempo, tuvieron problemas. Mi ley estaba tratando de reflotar Argentina. Mientras tanto, los ingenieros del sistema de Argentina son súper cotizados. Muy bien cotizados. Son buenos, es más, Interacort tiene una fábrica de software en Argentina y
+31:36 Speaker 1: son
+31:37 Speaker 2: cotizados. Pero al ser cotizados, Chile es un buen mercado para ellos. Me voy a vivir a Chile,
+31:45 Speaker 1: pero no
+31:47 Speaker 2: quiero que me paguen esos chilenos. Porque lo que necesito es pasar dinero a mi familia que está en Argentina. ¿Cómo hago eso? Tengo mi teléfono en Chile, AFP, por eso Chile tiene AFP, me quitan mi AFP, me quitan todo el resto, pero mi familia vive en Argentina.
+32:11 Speaker 1: ¿Qué hago?
+32:13 Speaker 2: Entonces existen empresas digitales de recursos humanos que lo que hacen es decir, no te preocupes, yo tengo una empresa en Argentina y yo contrato a esta persona y le pago dinero. y de su contrato a la compañía de Chile. De Chile le pagan y
+32:33 Speaker 1: el chico de Chile
+32:36 Speaker 2: le pagan a esa empresa de recursos humanos en Chile y la filial de esa empresa de recursos humanos en Argentina le paga al chico en Argentina. todos felices y contentos, le pagan al chico, el de Chile está cumpliendo la ley en Chile, y la empresa, y se creó una economía, que es una economía que varios países están teniendo, y
+33:05 Speaker 1: esta empresa estará
+33:06 Speaker 2: de recursos humanos. Remesas. Los venezolanos están acá. Tienen que dar plata a Venezuela. ¿Cómo haces? Entre gallapes y hay remesas. Esa es economía. Si tuvieramos una economía cerrada, como algunos partidos políticos querían hacerlo, no podemos aprovechar todo eso. La sociedad, bueno, ahí está lo claro. Y la innovación, entonces, si tenemos todas estas cosas, influencias externas, sí, pero me puede influenciar porque no puedo continuar con mi proyecto, no. Míralo como oportunidad, no lo miren como amenaza. Bueno, está bien, es una amenaza y todo, pero hay que mirarlo como oportunidad, chicos. Es súper importante eso. Entonces, la estrategia de cliente no va a depender únicamente de tu organización, sino de todo lo que tu entorno cambia. Mírenlo como amenaza, pero también mírenlo como oportunidad de negocio. ¿Ya? Miren como... Sí, me da pena lo que le está pasando, o esa influencia que dijo su compañero Gagnoni, UPC, Pacífico, la de Lima, sí es bastante... es un problema en la sociedad, pero ¿cómo yo lo puedo mejorar? Si ustedes tienen la habilidad. Eso es entender el negocio y ver qué estrategia podemos hacer. Y luego ya vamos a ver los demás cursos. ¿Hasta acá una pregunta? Bueno, ya con eso hice todo el curso. Toda la clase. Pero vamos a ver si...
+34:54 Speaker 1: ¿Cuál
+34:57 Speaker 2: es una buena estrategia? ¿Qué tiene que dar obsoleta? ¿Qué tiene que cambiar para que ocurra? Un montón de cosas. ¿Cuál es la parte más crítica que podría cambiar como estrategia TI? ¿Qué es lo que ustedes creen que más influencia para el mercado? ¿Alguna estrategia? De todo lo que estamos viendo en el tema como influencias. ¿Qué creen? Vamos por parte. ¿Un cliente? Si cambia un cliente, vamos a tener que cambiar la estrategia. En el año 2000, son papás. Cuando ustedes nacieron, estoy segundísimo que los dos primeros meses no sabían qué sexo era, de qué género
+36:04 Speaker 1: era.
+36:08 Speaker 2: Pero ahora... Ya hay formas de poder identificar cuál es el sexo del bebé. ¿De acuerdo? ¿Qué ha cambiado? Claro, cambió la tecnología. ¿Sí? Ahora se detecta por el tamaño del femur, que es lo que crece más rápido.
+36:30 Speaker 1: Pero bueno, está muy chido más directamente
+36:32 Speaker 2: el femur. Ah, ya, entonces es otro tema. Hay varias cositas, pero a los tres no. Tres meses y algo me tomé de fe. Que hay una probabilidad. Pero eso es tecnología. Competidores. Obviamente puede tener muchos competidores. La regulación. Acá no hay regulación. Economía. Sociedad. Puede ser. Pero al final, muchas, muchas de las cosas van a depender de este. ¿Cuál es la necesidad del cliente? ¿Qué es lo que está queriendo el cliente? Y con esto, las tecnologías van a cambiar. ¿Qué quiere el cliente el día de hoy? ¿Las cosas que vayan lentas o que vayan rápidas? ¿Qué quiere el cliente el día de hoy? Hace tres años ustedes googleaban, y ahora hay una pestaña que dice modo IA. ¿Eso qué significa? ¿Lentitud? No, rapidez. El cliente está buscando eso.
+37:53 Speaker 1: ¿En qué aprovechar su tiempo?
+37:57 Speaker 2: ¿Por qué la rapidez incluye en aprovechar el tiempo? Buen punto. Me gusta.
+38:10 Speaker 1: Buen punto, me gusta.
+38:42 Speaker 2: La consecuencia es ahora el tiempo. la consecuencia que la tecnología está ahorrando el tiempo entonces el cliente lo que necesita es ¿Ahorrar para qué?
+38:57 Speaker 1: Para hacer otras cosas más importantes Eso significa
+39:00 Speaker 2: aprovechar el tiempo El cliente lo que quiere es aprovechar su tiempo Y ahora pongamos perfiles Cuando tiene familia, ¿qué significa? ¿Quiere aprovechar el tiempo?
+39:15 Speaker 1: Con los chicos, con los
+39:17 Speaker 2: niños Entonces, si quiero aprovechar el tiempo con la familia, ¿cuántos hijos quiero tener?
+39:26 Speaker 1: Muchos.
+39:28 Speaker 2: ¿Muchos? Uno o dos. Porque quieren mientras menos, porque si no van a ser uno,
+39:36 Speaker 1: no aprovechen el tiempo.
+39:40 Speaker 2: Todo eso lo que les estoy diciendo es el perfil del cliente y en función del perfil del cliente puedo hacer la tecnología. Ahora.
+39:48 Speaker 1: Hay gente que tiene, profe, pero hay gente que tiene más de,
+39:51 Speaker 2: yo tengo tres, pero el esquema de yo como cliente, a mí que me pueden dar para progresar el tiempo. Eso es lo que está cambiando el
+40:06 Speaker 1: día de hoy.
+40:14 Speaker 2: Chévere. Entonces, si queremos graficar, ¿no? Tenemos que... El cliente es una de las principales fuerzas externas que me van a ayudar a
+40:31 Speaker 1: orientar
+40:34 Speaker 2: mi negocio. Entonces voy a hacer de acuerdo a sus perspectivas y comportamientos. Sin embargo, puedo ir viendo a mis competidores, a ver qué modelos hay, puedo ver qué similitudes hay. La sociedad, ¿qué hábitos y formas de trabajo puede tener? Porque está en función del cliente. La economía, puedo tener el mejor software, pero el costo se me va por las nubes. Por ejemplo, si hago cloud, ¿qué me va a pasar en mi economía? ¿Qué me va a pasar en Lopex? Si no controlo. La gente va a comenzar a subir. ¿Y qué tecnología en la que se puede aplicar si está comenzando a subir? Hay mucha demanda. El cliente está adquiriendo rapidez para aprovechar el tiempo. ¿Qué tecnología se está queriendo aplicar? ¿Cuánto? La física cuántica está ayudando o se quiere para poder hacerlo, pero es tan rápida que no la podemos controlar. Entonces también puede ser una amenaza, ¿por qué? Porque si eso no está regulado, luego comenzamos a utilizar toda la energía natural que hay en la vida. Entonces se tiene que ver, recuerden la física que ustedes han visto, por ejemplo, ¿no? Se tiene que ver qué tan rápido y cómo puedo controlar esa velocidad con la cual está lleno. ¿Por qué? El problema de quantum es poder ayudar, poder hacer que no corra tanto, o sea, controlar esa velocidad. No corra tanto, es controlar la
+42:27 Speaker 1: velocidad.
+42:29 Speaker 2: ¿Bien? Entonces, todo esto se está moviendo en esa vía y eso es a donde nosotros tenemos que apuntar. Entonces, gracias a esa influencia que hemos visto, gracias a esa influencia externa, hay un impacto en el negocio y ya lo hemos visto con el ejemplo que hemos graficado acerca de lo de la salud mental. Bueno, también hemos visto sobre todo los entornos sociales, legales, que acabamos de mencionar. ¿Alguien me puede dar un ejemplo de alguna empresa que está teniendo, o que está creciendo, o que está cambiando por alguna influencia extranjera?
+43:31 Speaker 1: Interbank creo que hizo un convenio con Antropic, ahorita creo que estaba reclutando agentes especialistas en agentes de guía, ya sea para el tema de riesgos, etc. ¿Qué
+43:48 Speaker 2: quiere Interval no es?
+43:51 Speaker 1: Tal vez desarrollar sus propios modelos que le apoyen en sus procesos de negocio para automatizarlos de alguna manera.
+44:00 Speaker 2: Perfecto. Hay un tema importante dentro de todas las empresas por el tema de Kila. La pregunta es, ¿cuál es mi utilidad? Porque lo que dice su compañero es cierto, ¿no? O sea, puedo yo dar IA a todos, puedo dar Antropic a todos, me puedes crear infinidades de agentes, pero ellos me consumieron. Y al final creo que IA me está dando. Y por otro lado, puedo también estar haciendo el proyecto, y me demoro tanto que no saco nada. Porque IA no es un proyecto de cascada. La primera pregunta es, ¿en qué momento usarlo? Y por eso está aplicando Google Tropic para poder tener los modelos que pueden existir en el mundo y ya estén probados. Casos de éxito. Gracias por el
+45:15 Speaker 1: ejemplo.
+45:18 Speaker 2: Entonces, ¿qué cosa también tiene que ver? Hay algo importante en la perspectiva de TI, ¿no? O sea, TI tiene que estar detectando lo que está pasando en la política, lo que está pasando en la economía, en toda esta función. Y hay algo súper importante, siempre en el tema legal, porque pueden hacer cambios en las normas. Protección de datos y la seguridad es súper, súper importante. Y pueden ver cambios en la norma que hacen que no puedas utilizar la tecnología. O sea, no duden que mañana la SBS pregunte ¿Cómo estás usando a Interbank? ¿Cómo estás usando tú la IA de Interbank? Y esto, como todo, va a ayudar a que estos cambios devuelvan oportunidades y amenazas. Las debilidades, obviamente, las fortalezas y las humanidades, obviamente, estos son internas. Pero todas las oportunidades amenazas que lo que les decía hace un ratito. Cualquier cambio que pueda existir, mirenlo. Está bien que lo tienen como amenaza, pero chequenlo como oportunidad. Miren la oportunidad que hemos sacado hace un ratito con este ejemplo que les dije. La atención que recibe la tecnología no termina su importancia estratégica porque ¿cuál es la diferencia entre señal, moda y tendencia? ¿Alguien puede leerme qué significa señal? Perfecto. ¿Alguna señal con moda?
+47:22 Speaker 1: Vamos. Recibe mucha tensión, pero su permanencia y pactos son inciertos. La visibilidad no equivale a darle base. Perfecto.
+47:35 Speaker 2: Perfecto. Tendencia.
+47:40 Speaker 1: ¿Cuál
+47:41 Speaker 2: es el tema entendido como potencia para movilizar
+47:43 Speaker 1: comportamientos, mercados o capacidades?
+47:45 Speaker 2: Ok. Tu mismo pregunta. ¿Y a dónde está? Tendencia. ¿Por qué no es moda?
+48:00 Speaker 1: Porque nació un momento en el que está cambiando. No fue incierto ya.
+48:06 Speaker 2: ¿En dónde lo es? Dame un ejemplo.
+48:09 Speaker 1: ¿La estructuración es que es el que lo tenía aquí para organizar su problema? ¿Por qué sucede? ¡Todo!
+48:22 Speaker 2: Antropic es un caso.
+48:25 Speaker 1: Voy a usar Antropic para
+48:27 Speaker 2: mejorar mis oportunidades.
+48:50 Speaker 1: Entonces,
+48:56 Speaker 2: ¿es moda o es tendencia?
+49:08 Speaker 1: porque en realidad se está impactando y la de haber impacto también Por ejemplo, los modelos que utilizan los billetes o para las ventas.
+49:27 Speaker 2: En Amazon
+49:28 Speaker 1: utilizan un algoritmo para poder progresar. ¿Qué es lo que podría hacer para él?
+49:38 Speaker 2: Claro. Yo he preguntado inteligencia artificial. ¿Un agente qué es? ¿Cuál es la diferencia? Muchos estamos buscando, sobre eso, la acción. La generativa que existe. ¿Hay ejemplos de generativa?
+51:06 Speaker 1: Bueno,
+51:07 Speaker 2: a ver... es un caso generativo para que funcione es otra cosa
+51:18 Speaker 1: Es generativa porque básicamente genera, o sea, no se te genera información de granada, pero se hace la búsqueda en distintos links y en base a ello te genera información, ¿no? basada en
+51:32 Speaker 2: hacer todas las posteriores.
+51:34 Speaker 1: Pero por eso el lenguaje que genera es generativa. Las imágenes también son
+51:41 Speaker 2: generativas. que te genera
+51:50 Speaker 1: información. Es
+51:52 Speaker 2: el lenguaje. Ya, yo quiero un ejemplo. que sea una primera línea para la gente que se acuerda. Perfecto. Que con el tema de la escriba y busque todo lo que tiene que tener que tener que tener una respuesta en tiempo de ir a la de por sí en la resolución. Y en caso de la gente de ella, de ella, de ella a nosotros. Claro. Lo que estamos teniendo con la defensa policial negativa son agentes que te ayuden en más nivel. No está moviendo, por eso le digo,
+52:43 Speaker 1: no quiero un doctor.
+52:46 Speaker 2: ¿Ya? Pero sí hay gente. Y si te generas nada, me estás hablando más del lenguaje. Lo que tiene que decir en un caso es, profe, yo uso un agente para que le haga un correo y le diga qué cosa quiero hacer, ¿no? ¿Quieres que le responda?
+53:03 Speaker 1: Le diga sí.
+53:05 Speaker 2: Respóndele de una manera amable. ¿Te interesa este texto? Sí.
+53:10 Speaker 1: Ok, perfecto. Lo mando. Eso es.
+53:14 Speaker 2: Y que funcione,
+53:15 Speaker 1: no era mi pregunta.
+53:17 Speaker 2: Que sea útil, tampoco me preocupa. Pero... Alexa... es... porque le quieres una música... Por ejemplo, en medicina, el tema de salud, puede ir uno a una cabina, tomarse los signos vitales, temperatura, presión, y de acuerdo a ello, detecta algo y te pregunta, ¿quieres un doctor? ¿Te contacté? Sí. Te contacté, por favor. Te voy a buscar. Eso es generativo de primera nivel. No te está haciendo nada sin cuenta. Pero bueno, es por eso es tendencia. ¿Moda? ¿Qué puede ser? ¿Moda? O... En señal, acabo de decirle lo de Pantom, ¿no? Es una señal,
+54:27 Speaker 1: pero no hay nada. Pero una moda,
+54:30 Speaker 2: ¿qué podría ser? ¿LFG? Los tokens. Ah, los tokens.
+54:51 Speaker 1: Por ejemplo,
+54:56 Speaker 2: los metal lens también. Pero es una moda. ¿Te cuesta metal lens?
+55:04 Speaker 1: No, no, no.
+55:08 Speaker 2: Este niño que no funciona para los metal. eso es lo que hay que estar viendo es si es una señal de una moda o una tendencia de acuerdo a eso, toma una reacción el doctor que ha hecho tomó una reacción por
+55:27 Speaker 1: lo que es tendencia
+55:30 Speaker 2: ¿Sí? Entonces, la tecnología importa por la que permite cambiar. Entonces, todas estas tendencias que van a existir, van a cambiar. ¿Cuál es el producto? ¿Va a cambiar los productos? ¿Va a haber un nuevo modelo de negocio? ¿Va a haber capacidades? ¿Cuáles son los nuevos niveles de negocio? Por ejemplo, para un agente. Mucha gente lo toma como costo. No voy a reducir los costos que dijo su compañero. Pero también pueden ser ingresos. Un ejemplo de ingresos con inteligencia artificial generativa. ¿Qué podría ser un ingreso? lo que hace su compañero está haciendo el primer nivel para tener 24% ¿cierto? y con eso le das un monitoreo rápido al cliente y le entregas esa información en vez de estar una persona que no se asistió el domingo no llegó otra cosa más como ingreso han visto estas alarmas Es un ingreso. Detecta a nivel, si es que hay un
+56:43 Speaker 1: movimiento,
+56:44 Speaker 2: y de acuerdo a eso tomo la acción, que es armarles por teléfono. ¿Qué otra cosa? El portero que hay, los porteros, o sea, hay un vigilante, 24.7 no lo tiene, pero pueden ser los porteros. Son porteros eléctricos. Un modelo de negocio donde hayas tenido... O sea, es un modelo de negocio que está creciendo. Otro modelo de negocio, por ejemplo, bitcoins. ¿Los bitcoins de dónde salieron? ¿Por qué salieron? ¿Bajo qué tecnología salieron?
+57:28 Speaker 1: ¿Blox? Blockchain. Ah, blockchain.
+57:33 Speaker 2: Entonces, se leó LockChange y nos venceron a ver esa oportunidad y tú empezó el tema de hoy. Bueno, eso es lo que hemos visto, el panorama de las tendencias tecnológicas. Tenemos IAR, tenemos Cloud, tenemos Mundo Conectado, que hemos hablado de IoT, con Benichur, hemos hablado de Cloud, hemos hablado de IA generativa, hemos hablado de Analítica Avanzada, con la señorita con Amazon, hemos hablado de Ciberseguridad, hemos hablado sobre la experiencia de TALIS. Bueno, la experiencia digital ahora son las famosas interfaces conversacionales, donde está el tema IA y donde está ILO. Esto vendría a ser, por ejemplo, el meníquilo de Google, o de Amazon, o de Alexa. Bueno, esas son experiencias digitales. La tendencia es la misma, el impacto no. ¿Qué pasa si el impacto depende del modelo de negocio? El impacto depende del modelo de negocio que ustedes quieran hacer, los objetivos y la organización. Si yo tengo IA, la universidad lo va a ver como en señales, actualizaciones, procesos académicos y lo que hemos visto bienestar. Si lo ven a nivel de banco, ya hemos visto que es una oportunidad de atención, de análisis, productividad, cross-sell. Esto lo hemos visto con financiera y efectiva. Esto lo hemos visto con las tres universidades que hemos hablado. Y en retail. ¿La guía en qué me está ayudando? ¿Retail? Eso, también lo vi. ¿Para la vela? ¿No es cierto? ¿Para la vela y la guía? ¿Qué cosa harías? ¿Para la vela? ¿Está usando la guía
+59:30 Speaker 1: para...? ¿Para? Ok, bueno.
+59:40 Speaker 2: Eh... ¿En qué podríamos usar el retail? A ver, ya no importa, pero ¿tú qué crees que podríamos usar? ¿Qué estás haciendo? Atención, ¿cómo atenderías al cliente? Claro. O el seguimiento de tus pedidos. De acuerdo. Y si no te llegó bien, ¿qué haces? ¿Reclamas?
+01:00:30 Speaker 1: O devuelves, ¿no?
+01:00:32 Speaker 2: Ya. Eso, eso decía. Eso podría ser fijaos.
+01:00:55 Speaker: Vamos al lado de esto. Vamos al lado de esto. Es importante. Ese es un problema. Cuando
+01:01:11 Speaker 2: usted se evalúa en una tecnología, podemos evaluar si es que la organización está preparada y la tecnología está todavía emergente. Eso significa que vamos a observar. ¿Cuándo yo experimento? Cuando la organización está preparada y tienes una tecnología que está de moda. Pero cuando la tecnología está en tendencia, esta moda lo tienes que superar. ¿Y cómo lo tienes que superar? Si la organización está preparada, tienes que desarrollar capacidades. ¿Qué está haciendo InterCorp? La tecnología de IA está. Ya no es moda, es tendencia. Pero ¿qué está pasando? No estoy completamente preparado. ¿Qué hago? Me uno a...
+01:01:57 Speaker 1: Un convenio. ¿Qué hago?
+01:02:01 Speaker 2: Cloud. Entonces Cloud lo que hace es, me prepara, o dice, ok, acá tengo gente preparada, y si no la busco, desarrolla capacidades. ¿Para qué? Para que cuando la organización esté preparada, adopte y escale. Sin embargo, profe, ¿pero por qué me experimenta antes? Claro, pero yo puedo experimentar
+01:02:20 Speaker 1: con respecto a la organización preparada.
+01:02:22 Speaker 2: Puedo hacer de aquí abajo, de acá subo, o puedo hacer de aquí para hacer acá. ¿Cuál es lo más natural? Lo más natural que tiene que desarrollar esa gente, experimenten. Pero también puede ser personas que ya están preparadas muy buenas, no experimentan, sino ya adoptan la escala. Para lo que es serologías que son tendencias, es que no se puede hacer. Bueno, ya se vuelve... Más que tendencia, sino ya para quedarse, esto es lo más natural. ¿Saben qué cosa es SAP, no? ¿SAP qué es? ¿Es una tecnología para gente o madura? Madura, muy madura. Madura, perfecto, me voy para SAP. Si yo soy una organización que no tengo gente preparada o desarrollada en SAP, pero quiero SAP, me explico, yo soy una empresa, que soy internacional, pero en Perú, pero tengo... Tengo local acá en Perú. Es internacional con locales en Perú. ¿Ya? Y la matriz está en Perú. Tipo EVEL, por ejemplo. EVEL, su matriz está acá. Pero estoy en varios países y quiero usar SAP para poder tener y aprovechar la manualidad de SAP. Sin embargo, no tengo mucha gente preparada. ¿Qué te voy a hacer? Desarrollar capacidades. ¿Ustedes creen que voy a experimentar? Ya diferente a la doctora. Porque lo que voy a hacer es desarrollar mis capacidades, pero tengo que adoptar. Cuando experimento, cuando lo valía, no es una... SAP, no es una tendencia. SAP, ya está. Es una tecnología madura. Cuando es tendencia, hace eso. Es unos días
+01:04:31 Speaker 1: de un artículo sobre
+01:04:33 Speaker 2: el que ahora todo el tiempo tenemos que estar capacitándonos. O sea, ustedes no acaban acá, sino van a seguir capacitándonos y capacitándonos. ¿Por qué? ¿Por qué? Por
+01:04:43 Speaker 1: la tecnología. La tecnología va a subir de
+01:04:46 Speaker 2: acá. Se va a necesitar más y más tecnología. Entonces nosotros tenemos que estar capacitados para ver cuando se desarrolla la experiencia. Entonces, esta tendencia a causar oportunidades y amenazas que hemos comprometido. Ah, eso es
+01:05:17 Speaker 1: algo importante.
+01:05:19 Speaker 2: Es decidir qué no hacer, ¿no? Si yo observo y yo experimento, pues chao. Y experimento y no me gusta, no la hago. Pero ya hemos hablado de esto y con eso termino. Yo ya, a partir de lo que está sucediendo, ya conozco el negocio, ya sé los factores externos, y con eso vamos a empezar a armar nuestra vida. Y el objetivo no es predecir el futuro, sino estar preparado, conociendo el negocio, enfrentarme a ver que hay cambios, y por ende lo que tengo que hacer es
+01:06:14 Speaker 1: hacer estos pasos.
+01:06:16 Speaker 2: Vamos a explorar qué cosa está pasando, vamos a detectar tendencias y oportunidades, vamos a evaluar. ¿Qué es? Prueba de concepto. Tesis 2, ¿ya? En la tesis 1 que han hecho, han entrado. Han detectado oportunidades. Y esas oportunidades es tecnología. ¿Y qué ha pasado? Pregunto si han entrado. Profe, no sé. Profe sí sé. Ah, ok. ¿Y si no sabes qué tienes que hacer? Investigar. Una prueba de concepto. ¿Y con eso qué haces? Priorizas. Porque vas a decir, esto no, esto sí, esto más o menos, tengo dudas, usas expertos. Y gracias a esto vas a decir y vas a priorizar.
+01:07:16 Speaker 1: Objetivo 1, objetivo 2, objetivo 3.
+01:07:18 Speaker 2: Y con esto vas a desarrollar. Listo, esa es tesis. Esa es tesis 1. Esa es tesis 2. ¿Ya? Se supone que ustedes tienen la tesis 2 evaluando. Y diciendo, profe, no me funcionó. No, profe, no me funcionó 1, pero intenté el 2. El 3 está más o menos. Tengo unas dudas. Y así les vamos ayudando. ¿Y para qué? Para ver cómo priorizas y ya desarrollas y demuestras. Lo mismo es acá. Cuando vean nuevas tendencias, lo que tienen que hacer es una prueba de concepto que les ayude un externo, alguien de la misma compañía, hagamos una pequeña prueba, hagamos un piloto, hagamos algo que yo detecte. Si es que lo podemos hacer, si esto logra el impacto en el negocio, si esto logra lo que uno quiera hacer, y de acuerdo a eso, previsas y desarrolles. ¿Sí? Eso les ha ayudado porque con eso, más o menos, decidí la estrategia ETI de clientes. Ya sabemos qué es lo que está pasando y
+01:08:41 Speaker 1: lo vamos a hacer.
+01:08:44 Speaker 2: Voy a usar ejemplos de sus casos. ¿Preguntas hasta acá? ¿Nada? y la mitad del salón se van a aceptar en grupos de los que son equipos ya, que sus equipos por favor necesitan ese equipo ya y de acuerdo a las respuestas que ustedes hagan tienen puntos adicionales ¿Quiénes son mis alumnos? Tesis 2, de Tesis 2.
+01:10:14 Speaker 1: Alumnos, alumnos.
+01:10:19 Speaker 2: Solo tres. ¿Tú también eres alumno? ¿En Tesis 2? En Tesis 2. Sí, allá. Quería saber por qué. Hablamos de Trump. Hablamos de Revoli. Hablamos de IA.
+01:10:47 Speaker 1: ¿Cierto?
+01:10:48 Speaker 2: Hablamos de barreras regulatorias. Hablamos de tecnología que está en tendencia, que ya no está de moda. Por ende, si está en tendencia, necesitamos capacitarlo. Todo eso... Que no se vea algo que se pido en
+01:11:09 Speaker 1: esta semana. a la charla a la charla a la charla a la charla a la charla a la charla a la charla a la charla a la charla a la charla a la charla se le sube el volumen mientras se reproduce creo que mejor baje el volumen para que cuando lo reproduzca se ponga
+01:12:48 Speaker 2: De la play, subo el volumen. ¿Qué está diciendo? ¿Qué exactamente? ¿Qué es AI by Revolut? AI by Revolut. O sea, ¿qué es lo que está haciendo Revolut? Revolut es un banco europeo, bueno, inglés, bueno, está a nivel mundial, está viniendo acá a Perú,
+01:14:47 Speaker 1: y
+01:14:48 Speaker 2: ya tiene esto. Y le esta preguntando, yo lo metí con esta, esta diciendo, how can I help you today? How can I say more? Si sabes, todo de mi. Puedes saber como puedo rap, puedo saber como puedo viajar, puedo saber como puedo mejorar mi performance. de todo mi portafolio que puedo tener. Puedo tener un crédito potecario, puedo tener un crédito de tarjeta, puedo tener ahorros en fondos mutuos, puedo tener ahorros normales, puedo tener inversiones. Con todo eso, a través de ellos. Y me pueden decir eso. ¿Seguimos? Aquí es, here's a place to sing the best way of the movie resource. Book the movie as we all, stay for two albums, from 8 to 14 December. Y muestra your guys. ¿Qué es esto? He hecho benchmarking con, o sea, he promedio social con, alguna compañía de viaje. ¿No? Que puede ser... este... book travel o cualquiera de esos seguimos me muestra dónde, cuándo puede viajar y le estoy preguntando en qué he gastado en el último mes hay algún lado en qué ha gastado y te dice que gastó más en food and drinks ¿no? de los 1,918 euros a gastos 647, que es un poquito menos que el 50% puede
+01:16:43 Speaker 1: ver tu
+01:16:44 Speaker 2: budget, puede hacerte el control de tu projecta, de tus gastos puede hacerte el plan de viaje y más
+01:16:53 Speaker 1: ¿Por
+01:17:03 Speaker 2: qué creen que yo les pregunto siempre qué cosas han visto hoy? Que dice, entre sus principales tuchadores se encuentran la gestión financiera y el cliente que permitirá a los clientes consultar sus cambios en tiempo real mediante preguntas sencillas como cuánto dinero gastaron en el supermercado durante el mes anterior. El asistente también podrá ayudar en decir una solución que son de generar tarjetas en caso de que la gente utiliza. Si yo tengo suscripción 1, 2, 3, 4, o... ¿Por qué tengo tantas suscripciones? ¿Cuál me conviene más? ¿Qué pasa si yo tengo suscripción en Amazon, en Disney, en Netflix? Tengo tres tipos de suscripciones que me podría convenir. Y me puede decir, mira, suscríbete mejor en uno,
+01:18:11 Speaker 1: que ahí tienes todas las últimas películas que has visto tú.
+01:18:18 Speaker 2: Entonces la República puede asociarse con otras y es una economía vertical. Una economía interracional. Ahora colaboramos en economías de
+01:18:26 Speaker 1: que viste una economía, que es otra, que
+01:18:28 Speaker 2: puede relacionarse con la economía social. ¿Por qué interván todo eso? Si está asociándonos con nuestro objetivo. ¿Por qué viene esto? Sácate una tarjeta de crédito con regula. Cuenta en uno. Puedes, tu cuenta sueldo, algunos ya han sido contratados. Cuenta sueldo,
+01:18:58 Speaker 1: papel.
+01:19:00 Speaker 2: Ahora empiezan a gastar, después dicen ¿Quién ha gastado? Invitar a mis amigos.
+01:19:06 Speaker 1: No es cierto.
+01:19:07 Speaker 2: Y el profesor, bueno. Porque llegan tarde. Ahora, NERF fue lanzado anteriormente en Reino Unido. Reino Unido es porque es su matriz. ¿Ya? Incorpora herramientas de análisis de inversiones. ¿Qué pasaría si yo tengo dinero y quiero invertir? ¿No? En vez de gastar, le puedo dar una sugerencia. Con las que usuarios puedan consultar el comportamiento de su cartero, realizar preguntas sobre determinados activos. También se aplicará a la planificación de viajes, los usuarios con el diseñar itinerarios personalizados. Hay algo que... En fin, la privacidad hay datos que son temas regulatorios, que tienen que cumplir a nivel de... Mira, miren, a nivel de Europa, Europa es una zona recontra-regulatoria. Ya han visto cosas, han leído de Apple, han visto temas de mal, sobre todo, ¿no? Esto era súper regulado. Si la IA está regulada aquí, puede estar regulada en cualquier país. Acá en Perú también es un país bastante bueno en regulaciones. Si está regulado ya y puedo usarlo acá, sin problema. Copiamos mucho del modelo europeo. O nosotros compartamos también la ley de inteligencia artificial que
+01:20:39 Speaker 1: lanzaba acá en Perú para tomar a la Europa. Es un dato bien.
+01:20:43 Speaker 2: Bueno, ya hay pegamento mejor. Pero así es. Y bueno, todo nos tiene que describir lenguaje natural y está en español.
+01:20:54 Speaker 1: Puede ir a toda Latinoamérica.
+01:20:58 Speaker 2: Brasil, tendría que ir luego a ver con Portugal. Bien, chicos. Eso quería comentarles. Por eso que siempre les digo que han visto, porque esas cosas son súper importantes. Preguntas acá, comentarios aquí. Grupo 1 ¿Quieres grupo
+01:22:37 Speaker 1: 1? Grupo
+01:22:39 Speaker 2: 5 ¿Quieres grupo 1? Grupo 5 ¿Quieres grupo 1? Grupo 5 ¿Quieres grupo 5? ¿Quieres
+01:22:43 Speaker 1: grupo 5? ¿Quieres grupo 5? ¿Quieres grupo 5? ¿Quieres grupo 5? ¿Quieres grupo 5? ¿Quieres grupo 5? ¿Quieres grupo 5? Grupo
+01:22:56 Speaker 2: 5 Grupo 1, RSP. Dale. Grupo 2, Falabella.
+01:23:24 Speaker 1: Ahí viene. Falabella. Ahí viene. Falabella. Ahí viene. Falabella. Ahí viene. Falabella. Ahí viene. Falabella. Ahí viene. Ahí viene.
+01:23:30 Speaker 2: Falabella. Ahí viene. Ahí viene. Grupo 2, Falabella. Grupo 4, ya. Grupo 3, sí.
+01:23:51 Speaker 1: Grupo
+01:23:56 Speaker 2: 5
+01:23:56 Speaker 1: Grupo
+01:23:58 Speaker 2: 6 Grupo
+01:24:09 Speaker 1: 6
+01:24:27 Speaker 2: Ok chicos, lo que voy a hacer es, hay puntos importantes, quiero que empiecen a discutir ustedes, díganme un punto de la práctica. que han errado durante el desarrollo de la práctica. O sea, una debilidad, un error que han tenido durante el desarrollo. Por ejemplo, sé que hay un grupo que... Ni siquiera sabía quién era el CEO de su empresa. Eso es un error.
+01:25:06 Speaker 1: Ya. Ya
+01:25:09 Speaker 2: sabemos.
+01:25:17 Speaker 1: Ni
+01:25:18 Speaker 2: siquiera que era el CEO de la empresa. Es un error. Pero quizás conversando, ¿hay algún error que quieran discutirlo en el equipo? ¿Cómo lo resolvemos? ¿Cómo lo resolvemos? Y de acuerdo a eso lo vamos a incluir en clase. Voy a necesitar dos grupos, y de acuerdo a esos dos grupos,
+01:25:41 Speaker 1: ¿ya?
+01:25:46 Speaker 2: Dos grupos, y de acuerdo a eso, los puntos sextos. Listo. Acúntense un problema. Como por ejemplo, a ver, tú utilizas una reunión con tu jefe práctica, hicieron la exposición y todo, y se dieron cuenta de algunos errores, que no será un ejemplo que le he dicho, sino ustedes también se dieron cuenta. Quiero que me digan el error más sustancial. de esa práctica. ¿Cuál de ustedes creen que es un error? ¿Y cómo lo van a subsanar? Como por ejemplo, no sabíamos quién es el CEO del present. Si para ti es importante, es lo más importante, por alguna razón, ¿cómo lo estás subsanando? Bueno, ¿tenemos que
+01:26:53 Speaker 1: subir algún entregable o...? No, no, no. Ah, usted lo va a discutir con el grupo. Primero discútenlo.
+01:26:58 Speaker 2: Tienes 10 minutos para discutirlo. Y necesito dos grupos.
+01:27:06 Speaker 1: ¿Yo? Pero la pregunta era para todos, ¿no? ¿Cuál puede ser ese problema? Aparte de lo del CEO. Lo de los porcentajes. Tú mencionaste en la exposición que... Que... Es que en la exposición dijiste que creo que... Casi todo el porciento era de... No, no, 54 puntos y algo porciento era de... Ya era 33. Era 33. ¿Con decimales? No, era... Por ahí era. Por ahí, por ahí no me acuerdo. Y dije 7.4% del grupo... Breca. Breca, Breca, Breca. ¿Qué hizo PPT? El PPT lo hizo... Yo lo hice. ¿Pero el PPT está bien? ¿Pero el PPT está bien de lo que yo le dije? Lo que estaba mal era su pardo, lo que hablaba así. Era estudiante, lo normal. Ah, lo normal es que ahí decía, hecho por... Pero eso no es por Claudio. ¿Por qué eso no? Si hemos hablado toda la clase de IA. ¿Viste con Gamma? Hemos hablado toda la clase de IA. Con Gamma. ¿Qué? ¿Con Gamma lo hiciste? Claro, pues no. Sí, está bien. Así probé. ¿Histe el notion? A mi me fundaron por este... ¿Por qué consideras que
+01:28:19 Speaker 2: es un problema? ¿Y cuál sería la solución de este taller? No, yo no considero que es un
+01:28:25 Speaker 1: problema. Yo siento que nos pusimos bien lo de... Creo que a ti te preguntaron más yo también en difusión. Y si te ponte ese bien. Ah, verdad. Te queda acá, lo que te quedaste. Yo creo que primero coordinarnos bien en la exposición, porque creo que me tocó una parte que no era. Sí, eso es lo más importante. Lo improvisé, pero improvisé. O sea, pero estamos hablando más bien del contenido, de la sustancia. El problema, entonces, es coordinar. Que nos pusimos bien los problemas externos. ¿Los qué? Los factores externos de la empresa que tiene. Eso lo tiene que hacer yo creo, ¿no? No me acuerdo. No, o sea, es lo que hemos colocado en la exposición y en el informe también. O sea, que faltó desarrollar un poco más. Sí, creo que sí. No sabía el CEO. Perdón, ¿cuál es tu CEO? ¿Puedes decirlo? ¿Puedes decirlo? ¿Puedes decirlo? ¿Puedes decirlo? ¿Crees? ¿Crees? Tienes que estar seguro. Tienes que estar seguro. ¿Es tu CEO, mano? Te va a dar 3.000 soles. 2 mil, 2 mil, 2 mil. No, Oscar Pizarro. No, esto ha sido de Kim Pakakia. No, de verdad no.
+01:29:45 Speaker 2: Voy
+01:29:45 Speaker 1: a cambiarlo ya. Grupo 5 después. O queda para ver. No llegaron muchos correos. Esa coordinación sí está. Ahora, yo creo que lo peor es que nadie se pudo escribir si es que no decía nada, tal vez yo. Yo me olvidé hasta que vi, hasta que, no sé, hasta que hay un mensaje creo. Pero allí eres el delegado, ¿no? ¿Han votado? Tú quieres ser el líder, pero no sé. A mí quieres ponerme ahí. O Rodrigo, pues. Es imposable, ¿no? Como... Es verdad. Yo iba a hablar justo antes, no sé, ya. O tú llegaste 10 minutos, sale, hombre. Eso no puede ser tu líder. No puede ser, no puedo ser el líder. Pero eso no llega temprano, no es más. Por eso
+01:30:44 Speaker 2: sí. Ah, de verdad, no sé. Yo con
+01:30:47 Speaker 1: tus ministros pensaba que querías que nos pongamos al toque, pues se decía Johnny Johnny, levantan las manos. Y después me dijiste que no. No, pero está bien porque hay grupos que se quedaron hasta las 6 y media. Eh, da igual. Ya pasó ya eso. Ya saben quién es el sí. Yo creo que es culpa de todo. Ya saben quién es el sí. Eh, cargo, ¿no? ¿Qué dice? ¿Problema? ¿Qué dice Rick? ¿Problema? ¿Qué dice Rick? Ah, el problema más importante es la solución. Ah, ok. Hay que escribirlo. Hay que escribirlo. O sea, el problema es en general.
+01:31:25 Speaker 2: A ver, hay que
+01:31:26 Speaker 1: revisar el documento. ¿Lo han revisado? Para mí es que nadie ha revisado el documento. Me dijiste que el documento estaba perfecto y estaban hechos un asco. De verdad. No, tú dijiste que estaba bien, hay
+01:31:39 Speaker 2: que subirlo. No
+01:31:42 Speaker 1: fuese solo tú. Alguien más dijo que estaba todo bien. Después yo lo reviso, pero no han hecho nada. Ah, verdad. No, claro. Yo había puesto... No, primero yo puse que no. No seas mentiroso. Yo puse que no. Yo puse que no. Y luego, ¿qué dijiste? Yo puse claro que sí, pero... Ya, pero... Ya, luego dijiste que sí. No, que sí, que sí estaba bien para
+01:32:05 Speaker 2: mandarlo. Nunca dije que sí. Para mandarlo. Ya, pero eso quiere decir que está
+01:32:08 Speaker 1: bien. Está bien para mandarlo porque ya era tiempo. No, tú dijiste que estaba bien para mandarlo en tiempo que era posible mandarlo. Pero eso, ayer dijiste eso. Porque él estaba avanzando en el borrador, todo. En el borrador yo hice todo. Claro, pero él estaba haciendo otra cosa en el borrador. O sea, todos tienen que utilizar otro documento. No, es que no corrió. La comunicación. No, claro, yo no estaba haciendo todo y yo digo que es raro porque yo no puedo usar parte. Ay, pero hacía todo lo puse yo. Sí, o sea, pero él quiere poner una mano. Ah, ok. Ah, sí, sí, sí, sí, sí lo puso. ¿Por qué? No, sí, Chamorro lo hizo todo. Bueno, Claudio lo hizo. Claudio, Claudio. Bueno, Claudio, o sea, pero yo me necesitaba que no era poner el formato del otro porque no era solo cuando se contó. Sí, pues, ahá. Y hace en la mañana se lo terminé, menos mi parte, no sé, yo cuando dije, está bien la parte que se contó. Pero yo vi nada más que solo me moviste nada más. Pero lo puse para, como maco, güey. Bueno, está bien. Rodrigo, ¿tú qué dices? ¿Cuál fue el problema?
+01:33:37 Speaker 2: Gracias por ver
+01:33:42 Speaker 1: el
+01:33:42 Speaker 2: video.
+01:34:03 Speaker 1: Todas las fuentes eran de webs nada más. Hay algunas, si hay algunas. Aquí hay una resolución del SBS. No sé si la leyeron. ¿Cuál es ese problema? ¿Cuál estás ahorita? ¿Qué? ¿Cuál estás ahorita? ¿Qué cosa? ¿Cuál estás ahorita? ¿Cuál es esa cosa? ¿Cuál es el problema acá? Yo no he escrito nada yo, estoy haciendo despego no señor. Estoy haciendo despego. A ver, está el tamaño, servicios, objetivos que no pusimos. Ah, si pusimos objetivos. Solo pusimos objetivos estratégicos. ¿Coordinación?
+01:36:26 Speaker 2: Pero es que no era el
+01:36:27 Speaker 1: de entregarlo, no te importa eso. Puede que no se lo pueda decir, pero si quieres saber quién tiene el mejor liderazgo de todos, y te invito a esa persona. ¿Quieres decirlo con confianza como para que lo crean? Ah, sí, sí, sí, sí, sí, sí, sí, sí, sí, sí, sí, sí. Gracias por ver el video ¿Cuál es la solución? ¿Cuál es la solución? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el problema? ¿Cuál es el Rodrigo, puede ser un poco más fuerte, no se escucha. Chicos, voy a dar la marcación de él. Pero creo que eso sí lo respondimos adecuadamente. Pero quizás nos falta un poco más de conocimiento sobre todos los productos.
+01:42:15 Speaker 2: Ya, ¿y por qué consideras tú que estos son problemas? El primero porque creo que eso
+01:42:21 Speaker 1: nos puede llevar a confusiones posteriores, ¿no? Desviar el tema del proyecto de E-Finance XP así, que es un producto contra una empresa.
+01:42:29 Speaker 2: Entonces, eso sería un desvío.
+01:42:32 Speaker 1: Y el otro, de un poco de conocimiento de los productos de E-Finance XP. nos puede llevar a problemas después
+01:42:38 Speaker 2: cuando pongamos la solución. De acuerdo. ¿La solución sería?
+01:42:43 Speaker 1: Para el primero, yo creo que ser más claro que el proyecto es sobre una empresa, no sobre un producto. Y el otro sería poner quizás un organigrama o un... como un árbol donde se juntan los productos... No, le decía un monocena con... el lecío también le decía nada. Y la actualización es el organigrama también. Bueno, el problema era que nos habían preguntado si teníamos el dato de cómo se gestionaba el desabastecimiento en Colombia, si era de forma local o si lo tomaban de forma regional o si había un centro para poder tomar las decisiones. Entonces, ¿por qué deberíamos considerar este dato? Nosotros hemos hablado sobre la importancia de que Palabella tiene que reconocer el stock, ¿no? Y entonces no solamente basta en conocer cómo, si el inventario es disponible, sino también conocer si, desde dónde viene, cómo lo transporta, y cómo se propone el producto, y cuánto tiempo también va. Entonces, la propuesta que estamos tomando es poder analizar más esa parte de Palabella Result. conocer qué mecanismo de gestión de desabastecimiento ellos manejan de forma interna. Cada uno no tenía bien mapeado qué tendría que exponer cada uno, es por eso que ocurrió lo del caso de que no sabíamos de quién es el SEO, porque nadie leíó esa parte del documento.
+01:44:50 Speaker 2: Y
+01:44:50 Speaker 1: también una parte de mi compañero tuvo que improvisar un poco, ya que no sabía que cierta diapositiva le correspondía a él, o más bien no. Y como segundo punto es más que todo en la recolección de datos, puesto que al trabajar con BBVA hay cierta información que es pública, pero hay otras que no sabemos que nos puede afectar más que todo en la recreación del modelado de procesos. ¿Por qué es lo que hicimos importante? El primer caso es Codio para presentar una exposición bien organizada, además de presentar en el JPEC que evidentemente se hemos investigado sobre el tema y no quedarnos ante preguntas bien simples como la que nos sucedió. Y la segunda es más que todo para el desarrollo total del proyecto y el que entendiendo el modelado del proceso es muy importante para entender la organización en sí. Así que si no tenemos bien controlado eso, pues todo el proyecto se va a caer abajo. Y la solución para el primer caso es establecer los horarios, comunicaciones días antes de la presentación y organizar lo mejor. Mientras que para lo segundo... El problema más grande que tuvimos fue que quisimos abarcar los tres grupos de rubros que eran de food, de farmacias y mobiliarias. Y bueno, esto sería un problema porque es bastante información y por ejemplo en la parte de objetivos estratégicos no logramos pensar en realidad los objetivos de los tres grupos de rubros. y también aparte de metroprocesos que se hicieron bastante extensos cuando deberían haber sido enfocados en un grupo de grupos
+01:46:47 Speaker 2: enfocándonos
+01:46:54 Speaker 1: en un grupo de grupos que pueden ser la
+01:46:57 Speaker 2: parma o la parma Bueno, nuestro problema
+01:47:09 Speaker 1: con
+01:47:10 Speaker 2: tu pueblo, porque como elegimos Vinicio, Vinicio es una empresa de fuera de Perú, nos falta de profesión técnica y financiera a nivel regional que tiene acá en el mercado. Esto lo que nos podría generar son problemas para decidir crear una solución viable para la empresa, ya que no sabemos si va a ser compatible con su arquitectura actual. Y para solucionarlo, lo que hemos hecho es evaluar, cambiar la otra empresa, como grabar o ya saber que ya son
+01:47:47 Speaker 1: más locales y un poco más transparentes.
+01:47:53 Speaker 2: Gracias. Gracias, chicos. El punto es, quiero irme por estos dos, ya, porque creo que el punto suaveo van a tener que cambiar
+01:48:07 Speaker 1: de
+01:48:09 Speaker 2: giro, y van a tener que rectificarse en la primera parte, ¿no? Mi conclusión con ustedes, con este grupo, por favor, la conclusión es, hay que estar, hay que... Encontrar la empresa que ustedes conocen, tengan información, ya, porque ustedes van a tomar un banner, tener que conocer. Si no conocen a la empresa, ese primer punto no pueden desarrollar nuestra leyenda. O sea, tienen que sí conocer y sacar información. Está bien la decisión, solo una empresa y cambiar una empresa local, pero... ¿Ya hay que ponerse las pilas? Ya. ¿Preguntas del Grupo 6, 7?
+01:49:05 Speaker 1: Dime. De Grupo 6. ¿Me estaría bien eso de enfocarnos en un solo grupo o mejor
+01:49:11 Speaker 2: olvidar de él? Solo una empresa, ¿no? Puedes cambiar si quieres.
+01:49:17 Speaker 1: Pero solo una empresa.
+01:49:20 Speaker 2: Enfócate a una empresa porque si te enfocas en un holding va a ser un problema que tienes que entender todo el holding. Y creo que ese ha sido todo. En retail tienes un
+01:49:37 Speaker 1: montón de cosas ahí.
+01:49:38 Speaker 2: Es un holding. Entonces, ¿qué es eso? ¿Qué es el retail? El retail es un cafar, una plaza vea y encima los malls. Entonces, ¿cuál es el negocio? Que alguien te inyecte dinero, compres un terreno, tranquiles el terreno, construidas sobre el terreno, mall. Estás pagando el local, el
+01:50:02 Speaker 1: terreno, estás pagando alguien, en
+01:50:04 Speaker 2: este caso está dentro del grupo Petroban, estás construyendo el mall y vendes y alquilas las locaciones. ¿Y a quiénes alquilas? A mi farmá, o sea, a ellos mismos. Entonces el dinero va a dar vuelta. Más o menos, ese es su negocio. Pero tienes que tener información. Te puede decir ya qué pasaría si... ¿Qué pasaría si los poderes cierran? O sea, qué pasaría
+01:50:31 Speaker 1: si hay un... El
+01:50:34 Speaker 2: fenómeno del niño. ¿Qué harías?
+01:50:42 Speaker 1: No, no lo sé.
+01:50:44 Speaker 2: Una de esas empresas o
+01:50:47 Speaker 1: agárrate una empresa diferente. Que ustedes
+01:50:49 Speaker 2: conozcan, tengan datos. En esos tres de acá, siento que sí tienen datos. Mirá, empezamos con SIG.
+01:51:00 Speaker 1: Acá cae maduro, o sea,
+01:51:03 Speaker 2: SIG no es un producto. SIG es una empresa.
+01:51:06 Speaker 1: Pero no, otra vez.
+01:51:07 Speaker 2: SIG no es una empresa, es un producto. Para la vela, su principal negocio es el abastecimiento. Así que, ese es el punto clave. Estos dos, hay que profundizar el negocio. BVA, ¿qué pasó al BVA? Un aporte de desorganización. También es recolección de datos. Y de conocer el negocio. ¿Y qué es la primera práctica? Es la primera práctica. Y segunda práctica. Conocer el negocio. La idea es que ustedes quieren conocer el negocio. Ya, bueno, no sabrán quién es el CEO, pero sí saben el producto, los datos, cuál es mi principal indicador, Falavela, cuál es su abastecimiento. Entonces, ¿qué quieres hacer? Creo que les conté a ustedes acá que el error que tuvo Falavela cuando sacó su primera web. Es el tiempo para poder entregar el producto. Entonces la gente ya dejó de comprar Falavela. Entonces, ¿qué hizo Falavela? ¿Cuál fue la estrategia? Comprar lino. Lino. Lino. Lo compró porque era expertoñoso. Se lo compró y comenzó
+01:52:45 Speaker 1: a hacer.
+01:52:46 Speaker 2: ¿Ya? Si no, este... ¿Cómo
+01:52:50 Speaker 1: se llama?
+01:52:51 Speaker 2: El Amarillo. Esta empresa que es...
+01:53:00 Speaker 1: ¿Más? ¿La tienda amarilla? La tienda Mercado Libre.
+01:53:05 Speaker 2: Mercado Libre es algo mía. Lo que gracias a que Mercado Libre todavía
+01:53:10 Speaker 1: está en Argentina y poco a poco entrando a Chile,
+01:53:13 Speaker 2: Falabella puede recuperarse. Pero ese es el indicador. Necesito esos indicadores importantes. Ojo, necesito indicadores. Si todavía no conocen negocios, el siguiente parte es, dame los indicadores. ¿Qué cosas quieren? ¿Qué cosas quieren mejorar? ¿Cuánto están ganando? ¿Cuál es la participación del mercado? Listo, chicos. Eso. Negocios. Referencias. La siguiente entrega, no me acuerdo qué cosa es, pero... ¿Ustedes ahí lo tienen? ¿Pero si no saben del negocio no pudo?
+01:53:53 Speaker 1: ¿Ya? Esto quería trabajar con ustedes.
+01:53:55 Speaker 2: ¿Cuál es el deseo de este ejercicio? ¿Preguntas hasta acá?
+01:54:08 Speaker 1: ¿Tengo que
+01:54:09 Speaker 2: diseñar todo el proceso o macroproceso? Bueno, mi respuesta es la siguiente. Puede ser macroproceso, chiquito, grande, todo lo que ustedes quieran. Lo importante es, uno, que conozcan el proceso, porque el jefe tiene que hacer preguntas. ¿Por qué 20? Ah, porque existen 5 procesos. Y de esos 5, uno no está automatizado, entonces voy a incrementar
+01:54:46 Speaker 1: otro más para hacer 20%. Ah, ya, acá. No necesitamos, tampoco es paso 1, paso 2, paso 3, pero
+01:54:57 Speaker 2: sí. La cantidad, la magnitud, qué vas a mejorar, qué es lo que está pasando. Y eso expresa en el documento. solo como meter el final miren su parcial como un pitch de 5 minutos y de acuerdo a ese pitch de 5 minutos ustedes están vendiendo al inversionista de que es la estrategia que debe usar si usted no le vende, el pitch falla muy bien Si ustedes no saben cuál es el producto, si ustedes no saben el negocio, el pitch murió. Si ustedes no saben cuál es el indicador principal, el pitch murió.
+01:55:50 Speaker 1: ¿En el parcial les ponen todos? Como
+01:55:52 Speaker 2: dice el pitch de 5 minutos. No, imagínense como un pitch de 5 minutos. Sí, pero no, les ponen todos porque no tienen ido a alguien. O les ponen todos, o hago preguntas, no lo sé. Pero ahí ya nos vemos en el parcial final. Por favor, anote a través de su delegado, le mandan las conversas a su delegado para
+01:56:30 Speaker 1: tener...
+01:56:34 Speaker 2: Dos puntos más de la siguiente, ¿verdad?
+01:56:37 Speaker 1: Debería incluirlo.
+01:56:38 Speaker 2: Ya, 1, 2, 3, 2, 4, 5,
+01:56:42 Speaker 1: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+01:56:48 Speaker 2: 17, 17, 17 menos 2, 15.
+01:56:51 Speaker 1: 15. 15. 15. 15. 15. 15. 15. ¡Gracias!
+01:57:34 Speaker 2: ¿Algunas preguntas más? Para que yo les
+01:57:39 Speaker 1: dije, el primero de clase, al siguiente de clase
+01:57:41 Speaker 2: pueden tener sorpresas como esta, pero también hay sorpresas como esta, para que mejoren. Y también el speech, para que sepan cosas nuevas, ejemplos. No se tomará la teoría, pero es importante
+01:57:59 Speaker 1: que se sientan en el stop.
+01:58:02 Speaker 2: Nada más. Preguntas. ¿Ninguna?
+01:58:11 Speaker 1: Ah,
+01:58:11 Speaker 2: yo tengo una, yo tengo una. La próxima clase va a tener que ser igual. No voy a poder asistir.
+01:58:18 Speaker 1: ¿Qué día?
+01:58:20 Speaker 2: No puedo. No
+01:58:27 Speaker 1: puedo. No puedo. No puedo. No puedo.
+01:58:31 Speaker 2: ¿Jueves? ¿A qué hora, profe?
+01:59:00 Speaker 1: No puedo, profe A ver si me cruza El sábado es la hora del laboratorio Este sábado, profe
+01:59:28 Speaker 2: No
+01:59:29 Speaker 1: sé decir eso. Lunes
+01:59:36 Speaker 2: puede. ¿Alguien no puede lunes? Igual, igual. No puede. Jueves. Martes.
+01:59:52 Speaker 1: Viernes. Martes.
+01:59:54 Speaker 2: Martes. Martes. Martes. Martes.
+02:00:28 Speaker 1: Ah, el
+02:00:30 Speaker 2: sábado de esa fecha. no
+02:00:50 Speaker 1: hay asistencia
+02:00:54 Speaker 2: no hay minutos adicionales es grabado es opcional
+02:01:09 Speaker 1: No, no, no, este, hay un prototipo, no, me refiero a este, hay un documento en la página que está en la página.
+  
