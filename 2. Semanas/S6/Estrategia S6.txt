@@ -1,0 +1,480 @@
+# Estrategia
+
+  Meeting started: 23/9/2026, 9:31:26 p. m.
+  Duration: 64 minutes
+  Participants: Speaker, Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/LyDURn9niQFLvdjG6ir9?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 2: 7.000
+00:05 Speaker 1: La química salud de su salud ha crecido rápidamente y ofrece atención presencial y virtual.
+00:11 Speaker 2: Las citas se gestionan por teléfono, web y whatsapp,
+00:14 Speaker 1: mientras que parte de la información se encuentra
+00:16 Speaker 2: en distancia de diferentes decisiones.
+00:19 Speaker 1: En realidad es mejorar la experiencia del paciente, reducir el tiempo necesario para gestionar una cita, contar con información integrada para la toma de decisiones.
+00:30 Speaker 2: Los recursos y
+00:32 Speaker 1: soluciones actuales tenemos. Sistema de historias clínicas,
+00:36 Speaker 2: aplicaciones de citas en Microsoft,
+00:40 Speaker 1: plataformas de videollamadas, herramientas de la universidad, comunicaciones y
+00:46 Speaker 2: soporte de usuarios. La pregunta es para el Danix.
+00:50 Speaker 1: ¿Qué capacidad de negocio necesita fortalecer la clínica para alcanzar sus regalos?
+00:55 Speaker 2: ¿Qué servicios de TI deberían aumentar
+00:57 Speaker 1: esas capacidades? ¿Qué
+00:59 Speaker 2: elementos de las mencionábamos con recursos aplicaciones? ¿Qué
+01:04 Speaker 1: servicios deberían formar parte del catálogo de
+01:07 Speaker 2: servicios TI en la clínica? A ver, vamos a hacer lo siguiente.
+01:13 Speaker 1: Vamos a discutir las respuestas y
+01:16 Speaker 2: vamos a ver. Vamos a discutir todos juntos
+01:21 Speaker 1: la primera. ¿Qué capacidades de negocio necesita fortalecer la clínica para alcanzar sus prioridades?
+01:29 Speaker 2: Empezamos con la primera.
+02:14 Speaker: No es este caso, sino que es el curso lo que queremos hacer. ¿Hacia dónde queremos llegar?
+02:36 Speaker: Es una empresa y la empresa que tiene. Sobre estos objetivos que quiere llegar, tiene necesidades. Y por otro lado, en este I de la empresa, ¿qué tiene?
+03:13 Speaker 2: Esto deben haberlo visto en un curso de... Y
+03:21 Speaker: servicios, ¿qué cosa hay? Que tenga un servicio de número. ¿Qué tendría que tener parte de un servicio de número?
+03:32 Speaker 2: Servidores, ¿no? Productos.
+03:40 Speaker 1: A ver, entonces, tú tienes una empresa que tiene un colectivo de necesidades. Tú tienes TI, que tienes servicio de TI y por ende productos. Entonces, ¿qué tienes que hacer?
+03:53 Speaker 2: Esto de acá. Hace... Match. Match. Y si no, ya estamos.
+04:10 Speaker: Esto es lo que tienen que hacer. ¿No es cierto? Ya. La primera pregunta. ¿Qué es? ¿Producto? ¿Servicios? ¿Qué es? Bien. La primera pregunta.
+04:45 Speaker 2: ¿Qué es capaz? Esas necesidades. Correcto.
+04:52 Speaker 1: Entonces, ¿qué capacidades de negocio necesita pertenecer para alcanzar sus prioridades?
+04:58 Speaker 2: Las prioridades son esas necesidades.
+05:01 Speaker 1: Vamos a hablar de cuáles son las capacidades de negocio que necesita.
+05:06 Speaker 2: ¿Qué necesita?
+05:10 Speaker 1: Para conocer sus necesidades, primero tenemos que saber el objetivo, ¿no? ¿Cuáles son sus objetivos? Dígame uno.
+05:23 Speaker 3: ¿Vender mi dinero?
+05:27 Speaker 2: Mejorar la experiencia del cliente, ¿no? ¿Qué
+05:40 Speaker 1: necesito
+05:58 Speaker 2: para lograr el objetivo, no? ¿Mejorar la atención? No, en reducción de tiempo, ¿no? Oye, voy a disertar a tu mejor atención, pero al final es mejorar la experiencia. Reducir tiempo de atención.
+06:38 Speaker: Bien, uno. ¿Quién más? Podría ser reducir la cantidad de quejas o de
+06:44 Speaker 3: consultas, pero que sean
+06:47 Speaker 2: no para mejorar la empresa, sino como algún reclamo o alguna queja que siempre tenga. Porque
+06:54 Speaker 3: si ese número reduce, quiere decir que está teniendo una nueva experiencia.
+07:17 Speaker: Aumentar el... Aumentar el NPS. ¿El NPS? Aumentar el NPS.
+07:29 Speaker 2: Algo otra necesidad. ¿En qué? ¿En qué? Porque tienes citas. ¿Qué
+07:44 Speaker 1: más tienes?
+07:48 Speaker 2: Citas, después la atención por el médico. ¿Citas? ¿O en el flujo de atención? También. Siguiente. Otra. Vamos al 3. ¿Reincidencia de qué?
+09:00 Speaker 3: O sea, de los pacientes que se atiendan, no solo de alguna vez, sino que sea consistente en el tiempo. ¿Y
+09:07 Speaker 2: con eso mejora tu experiencia? O sea, ahora, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+09:14 Speaker 1: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+09:18 Speaker 2: no,
+09:19 Speaker 1: no, ¿Qué más? ¿Qué más? ¿Qué faltarías? Es
+09:33 Speaker 2: que si yo sé mejor el flujo y la tensión, entiendo que también se aumenta la tensión post-atención, ¿no? O sea,
+09:42 Speaker 3: la mítica necesita el personal que esté capacitado de brindar esa experiencia de calidad.
+10:01 Speaker 1: ¿Cómo reducirlo? ¿Contar con la información integrada para tomar decisiones me ayudaría a mejorar la experiencia?
+10:12 Speaker 2: Sí, para contabilizar quizás el número de citas.
+10:16 Speaker 1: Exacto. Identificar más que el número de citas, ¿identificar qué? Para ser los patrones
+10:22 Speaker 3: que tiene cada cliente. Sobre qué se atiende, qué tipo de consultas hace, a qué tipo de citas. ¿Con eso
+10:26 Speaker 1: reduzco mejor la experiencia?
+10:30 Speaker 3: Sí, porque está relacionado con el tiempo. Si tienes una información que te invita a analizar al cliente, lo puedes hacer más rápido.
+10:37 Speaker 1: ¿Qué cosa?
+10:39 Speaker 2: ¿Qué quieres incidear entonces?
+10:41 Speaker 3: Todo sobre el cliente, tal vez, desde patrones de consumo, intereses, todo lo que pasó desde el marketing a la venta y el servicio actual que le estás dando.
+11:11 Speaker 1: Mejorar
+11:11 Speaker 2: la
+11:12 Speaker 1: experiencia del paciente. ¿Cómo? Reduciendo el tiempo para gestionar citas. Claro, luego me dijeron, oye, sí, mira, hay que meterle en el PC, claro, lo veo positivo en el grupo de atención y puede. Sí, ¿y qué más? ¿Y
+11:37 Speaker 2: qué quieres identificar?
+11:39 Speaker 1: Si yo saco esta data, ¿qué puedo identificar?
+11:45 Speaker 2: ¿Patrones de qué? ¿De mejora? ¿De qué? Si
+11:52 Speaker 1: tienes una cita, si tienes varias citas,
+11:54 Speaker 2: sacas información. O sea, me voy a sacar información de
+11:56 Speaker 1: cuánto se ha gestionado. Ya, para acá. Sí, se acercionó 100. Sí,
+12:04 Speaker 3: puede ser. Los médicos con los que se suele atender.
+12:06 Speaker 2: Ya,
+12:07 Speaker 3: ¿para qué? Para que mire. O sea, se mejora la experiencia, al menos en mi caso, por ejemplo, cuando empiezo la aplicación y no, o sea, yo siempre me suelo atender con un dermatólogo, por ejemplo, o con un cardiólogo. Entonces, si quizás consigues poder recortar esa data y utilizarla al momento de ir entrando, yo no tengo que buscar a ese médico nuevamente, sino que va a aparecer directamente. ¿Y eso
+12:28 Speaker 1: es un objetivo? ¿Qué objetivo sería? No es mejorar la experiencia. Yo siento que la
+12:34 Speaker 2: información integrada, bueno, pero no es obligada.
+12:43 Speaker 3: las ventas las ventas
+13:07 Speaker 2: ¿Para identificar patrones? ¿De qué? ¿De qué? ¿De qué?
+13:20 Speaker 1: Patrones de... De consumo. De consumo, de cita, ¿no? Sí, sí. De consumo de cita. Consumo de cita.
+13:30 Speaker 2: De más. De doctores. De cita. Bien.
+13:43 Speaker 1: Fácil, ¿no?
+13:46 Speaker 2: Todo lo
+13:49 Speaker 1: que ustedes me estaban diciendo para mejorar es porque lo que quieren es enfrentar la fidelidad o las
+13:55 Speaker 2: ventas también, ¿no?
+14:00 Speaker 1: Fidelidad,
+14:02 Speaker 2: ventas, ¿no? El post que me estaban diciendo,
+14:06 Speaker 1: etc. Ya, bacán. Con eso identifico patrones de consumo y puedo ver cuáles son mis mejores doctores, etc. Pero ¿qué más necesito aquí con esa información? ¿Qué cosas van a mejorar?
+14:20 Speaker 2: ¿Se identifico patrones de qué? ¿Tienen el mismo mismo tramo? ¿Otro realmente es? ¡Atención!
+14:41 Speaker 1: Por ejemplo, si yo descubro todos los patrones de la gente que se atiende bien, puedo identificar por qué se atiende bien. Puede ser porque tengo un mejor... todo fue por WhatsApp, todo fue por teléfono, todo fue por la web, hubo un
+14:57 Speaker 2: mejor equipo de atención, las citas donde tardaron tres meses después, etc. Y la mala,
+15:05 Speaker 1: posiblemente algún mal doctor. ¿Qué más? Esto fue por la web y se le cayó. También pueden decir,
+15:19 Speaker 2: ¿cuáles son las principales? Ustedes me
+15:21 Speaker 1: dijeron, sí, quiero saber el número de citas. ¿Número de citas para qué organizadores? Quizás no un número de citas, sino cuántas gestiones se está realizando ahí. Yo
+15:37 Speaker 2: reclamo,
+15:42 Speaker 1: reclamo porque gestiona, reclamo. Por la mala atención. No sé
+15:49 Speaker 2: si a ustedes les ha llegado estos cuestionarios de MPS. ¿Cuándo hacen cuatro meses en las clínicas?
+16:03 Speaker 1: ¿Cómo le fue el triaje?
+16:06 Speaker 2: ¿Cómo le fue en la gestión de emergencia? ¿Cómo le fue en el doctor? ¿Cómo le fue en la
+16:12 Speaker 1: farmacia? Oye, se me han hecho todo en mi grupo.
+16:15 Speaker 2: ¿Y para qué quieren saber? Para ver.
+16:21 Speaker 1: Entonces en alguno de ellos, puedes decir dónde les gustó, qué les gustó, por qué. Ellos van viendo en cuáles de las etapas se
+16:29 Speaker 2: entendieron bien, cuáles se entendieron mal,
+16:32 Speaker 1: quiénes respondieron. La mayoría de que responden son las que entendieron. Porque,
+16:37 Speaker 2: o sea, es inmensa.
+16:39 Speaker 1: Ahí falta lógica de mi experiencia. ¿Me recomendarías?
+16:45 Speaker 2: 9 u 8.
+16:47 Speaker 1: Si ya me estás diciendo 9.
+16:50 Speaker 2: Ah, perfecto, ya va. Ya no necesitan más información. Supuestamente todo lo que me están viendo bien.
+16:57 Speaker 1: Si ya va menos de 8, ahí sí yo preguntaría,
+17:02 Speaker 2: en la etapa, ¿qué es la etapa? O, ¿cuál crees la etapa?
+17:09 Speaker 1: Clasifica cada una de las etapas, de 0 al 10. Y cuando ya veas que uno que está debajo de 7,
+17:15 Speaker 2: hay que hacer más preguntas. Bien, esto es,
+17:21 Speaker 1: ¿qué más harían con algún otro objetivo y necesidades? Para hablar de esos objetivos.
+17:39 Speaker 2: O sea, ¿pero cuál objetivo? ¿Puedes complementar fidelidad?
+17:42 Speaker 1: Ya, ¿quieres algo más? No,
+17:44 Speaker 2: no, quizás más objetivos o
+17:47 Speaker 1: alguna otra necesidad. ¿Se les ocurre algo más?
+17:57 Speaker 3: También hablan de tener la información integrada, también será como uno que lo va a disponer.
+18:08 Speaker 2: ¿Quién
+18:08 Speaker 1: quiere la información integrada?
+18:14 Speaker 2: O sea,
+18:15 Speaker 3: sirven para encontrar con una única fuente de verdad, no tener datos que se concedan.
+18:21 Speaker 1: Entonces, ¿tú qué quieres? ¿Tener?
+18:23 Speaker 2: Centralizar. Ah, centralizar, perfecto.
+18:27 Speaker 1: Un momento. Centralizar la
+18:31 Speaker 2: información.
+19:14 Speaker 1: ¿Qué necesidad hay para poder
+19:16 Speaker 2: hacer esto? Dar un mejor diagnóstico.
+19:19 Speaker 1: ¿Qué significa eso? ¿Qué necesidad?
+19:26 Speaker 2: Tal
+19:26 Speaker 3: vez que ya conozca todas mis informaciones, mis solicitudes, todos mis tramites que se han hecho, todas mis quejas, que se tenga un historial de seguimiento de todo lo que he hecho tramitado con la
+19:35 Speaker 2: plataforma. ¿Y eso cómo se llama?
+19:54 Speaker 3: A ver, así es.
+19:56 Speaker 1: ¿Qué puedo saber del paciente?
+20:01 Speaker 2: Atenciones.
+20:06 Speaker 1: ¿Para qué quiero conocer al paciente 360?
+20:10 Speaker 2: Para que esté personalizado hacia el paciente, ¿no? Quiero contarle
+20:16 Speaker 1: información para conocer al paciente. Con eso, yo tengo atenciones a pacientes 360. Para
+20:24 Speaker 3: darle un buen servicio personalizado.
+20:27 Speaker 2: ¿De qué? ¿Qué tipo de servicio doy? ¿De qué? ¿De qué tipo de servicio? ¿De qué? ¿De qué tipo de servicio? ¿De qué?
+20:42 Speaker 3: ¿De qué tipo de servicio?
+20:46 Speaker 2: Listo. Ya está.
+20:50 Speaker 1: Entonces, ¿qué capacidad de negocio necesita para fortalecer la clínica? Para
+20:55 Speaker 2: alcanzar sus prioridades. Si me quiere mejorar
+20:57 Speaker 1: la experiencia del cliente, implementar la fidelidad y centralizar la información para conocer al paciente, entonces yo voy a necesitar reducir el tiempo, aumentar el SPS, identificar patrones de extensión, identificar patrones de consumo y dar mejor diagnóstico con el técnico del paciente.
+21:15 Speaker 2: también
+21:16 Speaker 1: acá puede ser cumplimiento normativo Por ejemplo, ¿qué pasaría de salud? Bueno, no está acá, pero de salud. Su salud, disculpe. La Superintendencia Nacional de Salud define información de
+21:40 Speaker 2: pacientes que no le procedan sin varios sistemas. Entonces es uno, entregarles la información.
+21:48 Speaker 1: Porque puede haber un reclamo. Lamentablemente puede haber un mal diagnóstico, entonces lo que tú necesitas es hacer tener
+21:56 Speaker 2: el diagnóstico, pero necesitas
+21:58 Speaker 1: tener el diagnóstico con información que hay en esa norma. No es posible que le des un medicamento, como te dijo al inicio, que tenía una alergia. Posiblemente ese medicamento no tenía.
+22:12 Speaker 2: ¿Sí?
+22:13 Speaker 1: Ok. Contesten la segunda pregunta. ¿Qué servicios pedidos deberían
+22:17 Speaker 2: evitar estas capacidades? Vamos.
+22:20 Speaker 1: ¿Y dónde estamos? Objetivo, check. Decidae, check. ¿Dónde vamos?
+22:26 Speaker 2: Acá.
+23:02 Speaker 3: Un servicio que ataque directamente a aumentar NPS, creo que no podría haber, pero se vería afectado indirectamente por los servicios que estén atacando a las otras necesidades que también ayudan a cumplir el objetivo.
+23:15 Speaker 2: Yo
+23:16 Speaker 3: diría que un servicio que ataque directamente a aumentar NPS
+23:21 Speaker 2: no habría, pero... ¿Qué más
+23:32 Speaker 1: podríamos hacer?
+23:36 Speaker 2: Está bien,
+23:37 Speaker 1: sí, de acuerdo contigo. Y permitió ir a
+23:39 Speaker 2: otro otro servicio, que es... Impuestos.
+23:49 Speaker 1: Si tenías todo un dispositivo para generar encuestas, recabar información, indemnizar las encuestas, es todo un servicio.
+24:01 Speaker 2: Identificar patrones de atención. ¿Qué servicios podríamos usar?
+24:08 Speaker 3: Los modelos de digitalización.
+24:15 Speaker 1: Modelos de...
+24:16 Speaker 2: La explicación es una que... ¿Qué más?
+24:32 Speaker 1: Identificar patrones de consumo.
+24:34 Speaker 3: También se trata de
+24:36 Speaker 2: modelos analíticos para el paciente y los que también son los pacientes variados. ¿Lo metemos todo? ¿O lo dividimos? ¿Lo metemos todo y luego vemos los productos? Ya.
+24:52 Speaker 1: Centralizar información.
+24:55 Speaker 2: Tener la ciencia 360.
+25:02 Speaker 3: Se usa un CRM, ¿no? Normalmente para tener toda la información centralizada de cliente.
+25:08 Speaker 2: ¿Pero CRM es un servicio? No es un servicio, es un sistema. Entonces,
+25:15 Speaker 1: ¿es parte de la gestión de función? Sí. ¿El CRM qué es? ¿Una gestión de función?
+25:23 Speaker 2: No, de clientes, sí. No, no. Tiene parte, pero
+25:28 Speaker 1: no es todo. ¿Qué más habría?
+25:34 Speaker 2: Un servicio de integración. ¿Qué sería? Integración de información del paciente.
+26:16 Speaker 3: ¿Cumplimiento normativo? GRC.
+26:21 Speaker: Es un servicio de gobierno. No sé si
+26:27 Speaker 3: entramos como sistema y no tanto como servicio,
+26:29 Speaker 2: pero busca atacar una plataforma
+26:31 Speaker 3: íntegra en un momento normativo y alinearlo con los objetivos del negocio.
+26:36 Speaker 1: Es un servicio de gobierno. ¿Cuál es el corazón de
+27:13 Speaker 2: todo esto? Bien, ¿qué elementos de
+27:22 Speaker 1: los mencionados son recursos o aplicaciones y cuáles podrían ver como servicios? Bueno, ya estamos sobre servicios. Los servicios deberían formar parte del catálogo de servicios de TI de la clínica, ya lo dijimos. Ya, díganme los productos que
+27:37 Speaker 2: tendrían esos
+27:39 Speaker 1: servicios.
+27:40 Speaker 2: Acá no está, pero ¿cuáles serían los productos? ¿Está querido?
+27:46 Speaker 3: ¿Mío? Chamorro
+28:13 Speaker 2: Vamos a ver cuándo...
+28:42 Speaker 3: así ven y ven y ven
+29:06 Speaker 2: Vení, sí.
+29:08 Speaker 3: Vení, vení, vení.
+29:14 Speaker 2: ¿Cómo?
+29:16 Speaker 3: DP2, DP2 debe ser.
+29:19 Speaker 2: ¿No suena a DP?
+29:21 Speaker 3: DP2, DP1. DP1 es chill.
+29:26 Speaker 2: Está bien. La persona que me mandó es porque era mi esposa.
+29:38 Speaker 1: El 9 de noviembre
+29:41 Speaker 2: refería a la producción de spam. Si papá viene la opción va a ser el 9. Era verdad que andó para acá. ya, vamos chicos gestión
+30:02 Speaker 1: de atención al paciente encuestas, modelos analíticos, integración y el método de gana datos
+30:07 Speaker 2: estos
+30:10 Speaker 1: son los recursos que tienen actualmente
+30:11 Speaker 2: ojo
+31:13 Speaker: Ya, yo sé, ya. ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está? ¿Dónde está?
+32:23 Speaker: ¡Ya! Menos uno, menos
+32:34 Speaker 3: uno.
+32:37 Speaker 1: ¿Cuál sería el señor? No
+32:39 Speaker 3: sé, profe. La gestión del paciente. Ah, una CRM, ¿no? CRM, CRM, CRM.
+33:00 Speaker 2: No,
+33:01 Speaker 3: es una plataforma nomás.
+33:27 Speaker 2: ¡Gracias! Gracias por
+33:56 Speaker 1: ver
+33:59 Speaker 2: el video. Pero
+34:11 Speaker 1: los salarios que tiene el cambio, ¿dónde están?
+34:14 Speaker 2: En las citas. El recurso humano tendría que ser más con la línea, más con la cultura, más con gestión de cambio. Acá en las citas tengo la
+34:29 Speaker 1: plataforma de videollamadas.
+34:43 Speaker 2: ¿Qué más tenemos? ¿Qué más chico?
+35:00 Speaker 3: Las historias clínicas, ¿cierto?
+35:02 Speaker 1: Claro, claro, ahí están las historias clínicas, porque tú ves atención, estamos hablando de gestión de atención,
+35:07 Speaker 2: toda la atención, ¿ok? Bueno,
+35:10 Speaker 1: ¿qué más faltaría?
+35:12 Speaker 2: ¿Cómo abriamos nuestra estructura? ¿Qué sería? ¿De qué? ¿Cómo un cloud? Ah, claro. ¿Por qué quiero clavos?
+35:30 Speaker 3: Para que pueda escalar otra vez, ¿no? Exacto.
+35:33 Speaker 1: Porque quiero la información para escalar aquí. ¿No?
+35:36 Speaker 2: Ya, sigamos.
+35:38 Speaker 1: Si no hay más, encuestas. ¿Qué?
+35:41 Speaker 3: Quizflow, quizflow.
+35:45 Speaker 2: Quizflow, quizflow. ¿De la canola cómo se llama?
+35:48 Speaker 3: Quizflow, quizflow. ¿Cómo es? Forums, forums,
+35:54 Speaker 2: forums. No puedo ver eso. No puedo ver eso. No puedo ver eso. ¿Ustedes han visto
+36:25 Speaker 1: el nombre de la reforma de impuestos? ¿Ustedes
+36:34 Speaker 3: responden?
+36:40 Speaker 2: ¿Cómo escriben? pero
+36:58 Speaker 1: al final y al cabo
+36:59 Speaker 2: me saca
+37:01 Speaker 1: porque pongo también Entonces, el punto fue, cuando haces una encuesta, tengan en cuenta que a veces ustedes hacen encuestas solamente de tu proceso, pero
+37:16 Speaker 2: déjenla, déjenla, según está abierta, para luego captar de los procesos de vida. Y una lucha para que pueda captar todas las escuelas prácticas que existen, dejando a poder identificar.
+37:32 Speaker 1: Eso es esto, por eso terminan las encuestas. El siguiente, modelos analíticos, a ver por dónde vamos.
+38:03 Speaker 2: Bueno, pues todo el mundo usa una cintura. El 3. Ok. Como producto? Como insumo? Claro, es un dato
+38:47 Speaker 1: que viene de mi insumo. Entonces,
+38:49 Speaker 2: ¿dónde lo pondría? Eso lo podemos usar en un cuadro. ¿No podrías usar una herramienta de línea comercial? Sin data. ¿Usas una herramienta, una liberalidad y haces un interés en un modelo y lo colocas dentro de mi cultura de cloud?
+39:12 Speaker 1: Entonces necesitamos una baseada.
+39:16 Speaker 2: Y eso debería que al menos no se saliera de nosotros. Ah, vamos a poner un hecho. Me parece porque no usan Google. Microsoft.
+39:26 Speaker 1: Listo.
+39:27 Speaker 2: El 4. El 4 con una baseada descentralizada es lo mismo, ¿no?
+39:40 Speaker 1: ¿Qué más necesitaríamos? ¿Herramientas?
+39:45 Speaker 2: Analíticas, ¿no? Sería el mismo hallo, pero...
+39:52 Speaker 1: ¿Qué más?
+39:56 Speaker 2: Ahora vamos a las 5.
+39:58 Speaker 1: Continúa el gobierno de datos.
+40:02 Speaker 2: A ver, señor Salas. No lo conozco, yo le creo Listo. A ver.
+40:36 Speaker 1: Aplicación de citas.
+40:38 Speaker 2: Microsoft 365. ¿Dónde lo usamos? Bueno, lo podemos usar en
+40:42 Speaker 1: todos, ¿no? Porque lo pueden usar en el uno. Acá.
+40:46 Speaker 2: Acá también lo tenemos que usar. Acá también. Acá no, pero vamos a cerrar. Acá no, vamos a cerrar. Acá no, vamos a cerrar. Acá no. ¿La administración? Check. ¿Plataforma inerrante? Check.
+41:09 Speaker 1: ¿En remites y datos? Check.
+41:11 Speaker 2: ¿Investitución interior? Check. ¿Y soporte a usuarios? Check. ¿Qué te querían primero? Sí, se reina.
+42:05 Speaker 1: Entonces, vamos al 1. Con el 1, ¿qué empezaríamos a hacer?
+42:11 Speaker 2: Tenemos todo esto. ¿Alguien? ¿Tu roadmap? Acuérdense.
+42:29 Speaker 1: Hemos hecho esto.
+42:32 Speaker 2: Ahora tenemos que hacer un match para hacer Roma.
+42:45 Speaker 1: Ok, combinaríamos esto con esto y haríamos una
+42:49 Speaker 2: integración. Ok, listo. Y
+42:55 Speaker 1: todo esto, ¿cómo lo pondrías? En un F, es un grupo de clavos. O sea, lo que haríamos es una integración. Y en paralelo,
+43:06 Speaker 2: el
+43:09 Speaker 1: CRM. ¿Para qué? Para estar conectado. Cuando haces una cosa...
+43:15 Speaker 2: Tengo
+43:16 Speaker 1: la cita, llamas a la aplicación de citas, la aplicación de citas te da la cita. Interactúas por los tres campos, colectual, presencial y WhatsApp. Te da la cita, luego termina y se gestiona la
+43:28 Speaker 2: cita, luego viene el cliente, el paciente,
+43:31 Speaker 1: perdón, cuando llega, ¿cómo está el señor
+43:33 Speaker 2: Enigüeyla? ¿Qué tal? ¿Qué bueno que usted haya llegado? Check. CRM. ¿Qué pidió?
+43:39 Speaker 1: Después,
+43:40 Speaker 2: con la historia clínica.
+43:42 Speaker 1: Ya está atendido y todo, ya tenía el diagnóstico, ya lo registré y terminó la atención. ¿Cuánto tiempo fue de punto a punto?
+43:51 Speaker 2: Gracias a CRM lo puedo saber.
+43:54 Speaker 1: ¿Cuántas personas no vinieron de las citas?
+43:56 Speaker 2: Gracias a CRM lo puedo saber. Una mejora de atención, ¿qué haces con un CRM? Te
+44:02 Speaker 1: hago recordar, un día antes tienes una cita. ¿Qué haces cuando terminas? Señor, lo estuvimos esperando. Qué pena que me llevó. Necesita... Reprogramar.
+44:14 Speaker 2: ¿Listo?
+44:15 Speaker 1: ¿Eso es
+44:17 Speaker 2: mejora de experiencia en el momento?
+44:19 Speaker 3: ¿Sí? Sí, sí. Ok.
+44:24 Speaker 1: La encuesta, ¿qué harías con la encuesta?
+44:27 Speaker 2: Podríamos agregar la encuesta.
+44:35 Speaker 1: Pero ahí sería el siguiente ROMA. Entonces haríamos el ROMA que haríamos, primero, la integración.
+44:43 Speaker 2: En paralelo,
+44:45 Speaker 1: haríamos un CRM,
+44:48 Speaker 2: perdón,
+44:49 Speaker 1: terminando, ¿no? Casi por terminando la integración,
+44:54 Speaker 2: empezaremos con el CRM.
+44:59 Speaker 1: Casi terminando para que cuando ya termine esto,
+45:02 Speaker 2: el CRM ya se decude. Y
+45:04 Speaker 1: aquí les invito a mostrar encuestas.
+45:09 Speaker 2: Entonces ya tenemos el 1.
+45:11 Speaker 1: Aquí haríamos el 2.
+45:13 Speaker 2: Entonces ese es el 1.
+45:15 Speaker 1: Aquí estaríamos el 2. Y de ahí la plataforma y ya en qué momento. Haríamos una base de datos completa. ¿Dónde estaría la base de datos completa?
+45:26 Speaker 2: 3. Lo puedo hacer en paralelo.
+45:31 Speaker 1: Una base de datos integrada.
+45:33 Speaker 2: Y
+45:34 Speaker 1: siguiente. Los algoritmos.
+46:07 Speaker 3: Podría ser al inicio, no?
+46:11 Speaker 2: al inicio perdón
+46:20 Speaker 3: profe estoy viendo caminar el número estoy viendo caminar el número
+46:25 Speaker 2: bien entonces
+46:30 Speaker 1: tenemos esto y con eso
+46:32 Speaker 2: concluimos o no concluimos
+46:35 Speaker 1: Los objetivos, ya hicimos. En la necesidad, ya hicimos. Servicios técnicos, ya hicimos. Productos, ya hicimos. Hicimos el más. Gracias a él y yo comenzamos a hacer algo más.
+46:50 Speaker 2: En este segmento se acuerda a un paciente. O darle una respuesta a un paciente que acaba de salir de una cirugía. Por ejemplo, una cirugía común para así decirlo. Porque alguien ha vuelto bien. Y alguien que hace intervenir.
+47:09 Speaker 1: Chévere, pongo un Excel. Como tengo Microsoft 365, pongo un Excel compartido con todos. Acá colocarme solamente con la categoría que tiene cada paciente.
+47:34 Speaker 2: Pero
+47:34 Speaker 1: tú vas a hacer una encuesta sobre qué tal
+47:37 Speaker 2: una cosa más general. Puedo hacer un Google Form y
+47:43 Speaker 1: todo el mundo hace esa encuesta. con Excel, digo, a todas las enfermeras, cuando salga el paciente con Excel, más información no va para todo.
+48:01 Speaker 3: ASRM.
+48:12 Speaker 1: ¿Para qué quiere integrarlo? Quiero saber mi encuesta. Quiero saber
+48:14 Speaker 2: cómo estoy.
+48:43 Speaker 1: La encuesta
+48:44 Speaker 2: se
+48:49 Speaker 3: puede hacer al final también. para que el cliente pase por todo este proceso y no a mitad del proceso.
+48:57 Speaker 1: Lo necesito como un baseline. Hagamos una primera encuesta chévere, una sola.
+49:02 Speaker 2: Más o menos yo sé por dónde está. Y ahí lo guardo. Hago todas esas intervenciones.
+49:06 Speaker 1: Termino. Y hago una encuesta más
+49:09 Speaker 2: dirigida para ver qué tal va. ¿Como una cosa que dice?
+49:14 Speaker 1: No. Lo que pasa es que uno quiere decir mejorar.
+49:17 Speaker 2: Para ver si ha mejorado.
+49:19 Speaker 1: Exactamente. La encuesta me sirve para ver si voy mejorando. Si con
+49:24 Speaker 2: la implementación estoy mejorando.
+49:27 Speaker 1: Y después de ahí, el día a día, para el mes, estar como mejor, estoy dormiendo. Ahora quiero hacer así, quiero hacer así, no lo puedo hacer porque no tengo la información, no estoy conectado, no hay integración. Pero lo puedo hacer muy dañamente.
+49:41 Speaker 2: Pero esa no es la idea.
+49:42 Speaker 1: La idea cuál es? Saber si voy mejorando. Y ahorita se haga una encuesta. Si yo hago el primer sistema que sea la encuesta,
+49:52 Speaker 2: ¿para qué estoy mejorando o nada? Siguiente. La
+50:00 Speaker 1: base de datos es integrada.
+50:02 Speaker 2: ¿Por qué no lo hago primero?
+50:17 Speaker 1: Ok. Buen punto. ¿Y por qué otros demás?
+50:31 Speaker 2: ¿Para qué necesito data centralizada? Para financiar el proceso.
+50:38 Speaker 1: ¿Para conocer? A mi
+50:39 Speaker 3: cliente. Si la
+50:42 Speaker 1: data está dispersa, y si la data no está mejorando con las integraciones,
+50:48 Speaker 2: todavía la data no está consistente. Entonces no vas a conocer a tu cliente hasta que tu data esté consistente. Está súper
+50:56 Speaker 1: bien lo que dices de la integración. ¿Y por qué? Porque ahí integraste y tu data está consistente.
+51:02 Speaker 2: Y ya tienes en un solo lugar toda la
+51:04 Speaker 1: información con data buena,
+51:08 Speaker 2: limpia.
+51:10 Speaker 1: ¿Por qué? Porque la base de datos es organizada porque prima es
+51:14 Speaker 2: la base de datos limpia y tiene consistencia de datos. Y por ende, el gobierno
+51:19 Speaker 1: de datos viene después. Porque si ya tengo data consistente, correcta... herramientas correctas, manuales correctas, procesos
+51:29 Speaker 2: adecuados, y cuando tienen las datos entrevistadas, toda la información coherente, puedo hacer la analítica de datos.
+52:18 Speaker 1: ¿Mi sistema operativo? ¿Mi sistema operativo? ¿Mi sistema
+52:22 Speaker 2: operativo? Para metriles, pues. Claro, pues. Paralelismo,
+52:27 Speaker 3: ¿no? Paralelismo. Concurrencia, concurrencia, concurrencia.
+52:39 Speaker 2: No
+52:39 Speaker 3: está
+52:44 Speaker 2: mi padre,
+52:50 Speaker 3: mi padre, mi padre.
+52:51 Speaker 2: Mata al hijo, mata al hijo.
+52:53 Speaker 3: El huérfano del huérfano.
+52:57 Speaker 2: Memoria
+52:59 Speaker 3: virtual.
+53:09 Speaker 1: con un principio de una página y
+53:12 Speaker 2: con eso volamos.
+53:18 Speaker 1: En mi
+53:21 Speaker 2: época era Física 4, Física 4 era Física Cuántica. Y con Física Cuántica es lo que existe. Cuando leo es una canción y eso remontamos a la historia de Física 4. Y
+53:39 Speaker 1: no se puede utilizar toda la física cuántica porque es tan
+53:41 Speaker 2: rápido y tan rápido el cambio que tú no puedes tomar la información. El principio es así, o sea, corre tan rápido
+53:51 Speaker 1: que cuando tú quieres el dato, ya cambia.
+53:54 Speaker 2: Entonces no puedes tomar la foto y lo que está pasando. El
+53:58 Speaker 1: punto es, ¿cómo puedes parar para
+54:01 Speaker 2: tomar la data? Pero es
+54:03 Speaker 1: inconsistente porque para
+54:06 Speaker 2: eso corre, porque con eso es cuánto. Bueno, ese es el
+54:29 Speaker 1: servicio. El servicio específico es
+54:32 Speaker 2: justamente la gestión de atención
+54:34 Speaker 1: del paciente, porque están andando en la vida. Y esto hace marcha con varias
+54:39 Speaker 2: necesidades. ¿Ok?
+54:42 Speaker 1: Por eso es que cuando...
+54:44 Speaker 2: Te
+54:45 Speaker 1: voy a hacer una pregunta. ¿Qué cambia más
+54:48 Speaker 2: rápido? ¿Un servicio o un producto? Producto, creo. Mañana... mañana es fallo. Google Cloud.
+55:11 Speaker 1: Pero ahora es Azure, ¿no? Mañana habría pasado otro. O ya cambias de base de datos, ya no quieres ser Azure, ahora
+55:18 Speaker 2: puedes hacer es...
+55:30 Speaker 1: Bueno, acá pongo librerías analíticas, ¿no? En realidad, acá es donde sacaría un Python, pero puede haber más de una librería analítica que podrías tener. En fin, ¿no? Hoy hay keysflow. Mañana no es keysflow, sino es...
+55:44 Speaker 2: Hackflow.
+55:49 Speaker 1: Pero la esencialidad es el servicio. Pero el servicio también puede cambiar. Mañana ya no es gestión del paciente. Si no puede ser otro tipo de servicio. En mi época, por ejemplo,
+56:05 Speaker 2: no había mandado de modelos analíticos. Estaba
+56:11 Speaker 1: iniciando en los modelos analíticos. Pero ya ahora existen modelos analíticos. Profe, pero sí existían. Sí, claro. Pero no... Todavía no se cuajaba el servicio,
+56:29 Speaker 2: como tal.
+56:32 Speaker 1: Podríamos haber hecho Montecarlo,
+56:34 Speaker 2: pero todavía
+56:36 Speaker 1: no se cuajaba. Había en teoría colas, por ejemplo,
+56:42 Speaker 2: o clasificaciones.
+56:44 Speaker 1: Data mining ya lo hice en la maestría, pero ya
+56:47 Speaker 2: ahora todos esos fundadores que me dicen que no están editando. Y negación de formación civil, y después que siempre va a haber, pero... Quizás mañana exista algún otro servicio o otra tendencia.
+57:00 Speaker 1: O mañana posiblemente exista algún otro servicio que
+57:05 Speaker 2: se enfoque una necesidad.
+57:07 Speaker 1: ¿Qué pasaría si una de las necesidades de mejorar la experiencia del cliente es brindar...
+57:18 Speaker 2: Ah, ¿qué pasaría si la clínica,
+57:22 Speaker 1: esta clínica hemos hablado de citas, pero no saben en qué tipo de servicios hacen, pero imagínense que no hacen un servicio de salud ocupacional, y está investigando si hace un servicio de salud ocupacional o no. Entonces, ¿qué servicio te daría si quiere
+57:39 Speaker 2: hacer ese tipo de investigación? Por ejemplo, no hay.
+57:44 Speaker 1: Entonces, aquí... veíamos algún tipo de específico para servicios de salud ocupacional. Les explico, uno de los puntos del servicio de salud ocupacional es
+57:57 Speaker 2: psicología,
+58:01 Speaker 1: ver el esquema y las encuestas psicológicas, si posiblemente no tenga una herramienta psicológica y no tenga información, entonces deberíamos
+58:10 Speaker 2: hacer algún tipo de herramienta.
+58:11 Speaker 1: Y por otro lado, integración con empresas. ¿Por qué? Porque la empresa me tiene que llevar y
+58:18 Speaker 2: yo les voy a entregar la información porque si no, no entra
+58:20 Speaker 1: la mina, no entra... Entonces, necesito estar
+58:22 Speaker 2: más integrado con la empresa. Vete. Y se crea una otra cosa.
+58:33 Speaker 1: Esa es la idea, ¿no?
+58:34 Speaker 2: Ese es dinámico.
+58:35 Speaker 1: Y lo otro que he estado de cambiar, he cambiado las necesidades, he cambiado los servicios, y el objetivo podría ser el mismo, ¿no? O el objetivo sería incrementar la fidelidad en ventas,
+58:47 Speaker 2: una de las necesidades es identificar si
+58:50 Speaker 1: es que podemos hacer nuevas
+58:52 Speaker 2: especialidades. ¿Cómo hacemos para ello? una de las vistesistas
+59:14 Speaker 1: pero más o menos tienen la misma idea hacer un ecosistema ustedes saben que hay médicos que son particulares igual hay médicos particulares luego dicen ok, te voy a derivar a una farmacia o te voy a derivar a un
+59:32 Speaker 2: servicio
+59:35 Speaker 1: de imágenes, ¿no? En todas horas. O te voy a derivar a un especialista de tal. ¿Y a cuál especialista le deriva? Si tú eres particular. Imagínense un ecosistema de varios médicos y que venga a la farmacia en Caparma y se junte con ellos y haga marcha.
+59:56 Speaker 2: De ahí te
+59:57 Speaker 1: puedo derivar y tienes 20% de descuento. esas cosas es alguna de las necesidades porque el ministerio de clínica y luego cuando regresa ¿qué
+01:00:11 Speaker 2: pasa? porque sabes el diagnóstico y
+01:00:14 Speaker 1: cuando regresa el cliente con esa documentación lo puede seguir derivando y te da más mejor
+01:00:18 Speaker 2: estaría feliz y
+01:00:21 Speaker 1: encima se hace denuncias y
+01:00:25 Speaker 2: tienes un app que puedes ver cómo va tu diagnóstico
+01:00:32 Speaker 1: y así, pues sí listo preguntas, dudas si quieren agregar más
+01:00:47 Speaker 2: acá están las mejores prácticas
+01:00:52 Speaker 1: que ya ustedes han visto las ISOs, o
+01:00:54 Speaker 2: sea, esto ya lo han visto, o sea, no es necesario, pero
+01:00:57 Speaker 1: para darles una idea, 24, que tengo en el marco de buenas prácticas, donde tengo el enfoque de creación de valor de servicio, o sea, el que yo soy hablando y lo han visto, el enfoque de las cuatro dimensiones, personas, procesos, tecnología y socios, bueno, y con eso va a ayudar a la flexibilidad con las organizaciones. También tenemos el estándar del ISO, Y esto, ¿en qué les puede ayudar? Todas las que hacen servicios de TI y
+01:01:30 Speaker 2: están enfocados
+01:01:31 Speaker 1: justamente en que estos servicios tienen mejora continua. No hemos hablado, estos son servicios, son productos, pero no hemos hablado de la operativa, ¿no? Toda la definición de requisitos de la operación de TI. Por ejemplo, ¿cuál es la operativa que se está trabajando
+01:01:53 Speaker 2: el día de hoy?
+01:01:58 Speaker 1: ¿Qué
+01:01:58 Speaker 2: es
+01:02:19 Speaker 3: DevOps? Desarrollo de operaciones.
+01:02:26 Speaker 1: ¿Su finalidades? La mejora continua. Es correcto.
+01:02:36 Speaker 2: Poder desarrollar y salir. Y cuando
+01:02:41 Speaker 1: salgas, no parás.
+01:02:43 Speaker 2: Porque lo
+01:02:45 Speaker 1: que pasaba antes era para todo,
+01:02:48 Speaker 2: tenemos que hacer la producción, se cae la implementación,
+01:02:52 Speaker 1: corriges y mientras tanto los clientes no pueden utilizarlo. Ahora es
+01:02:57 Speaker 2: 24.7.
+01:02:58 Speaker 1: Se te cae la industria. No pueden hacer streaming. Ya sé.
+01:03:04 Speaker 2: Eso es DevOps.
+01:03:05 Speaker 1: Y esto que mejor continúa es justamente planificar, implementar, operar y monitorear.
+01:03:14 Speaker 2: Y ahí es el de DevOps.
+01:03:23 Speaker 1: Listo, chicos. Con eso creo que
+01:03:25 Speaker 2: ya he cubierto este
+01:03:28 Speaker 1: software que mandan más en listas.
+01:03:34 Speaker 2: Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling
+01:03:38 Speaker 3: Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling
+01:03:41 Speaker 2: Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling Tiling
+01:03:56 Speaker 1: Tiling Pero todo eso es
+01:04:01 Speaker 2: lo que ya acabamos de comentar, chicos, es
+01:04:03 Speaker 1: justamente eso. El punto es
+01:04:07 Speaker 2: abstraernos y sacarlos desde acá.
+01:04:10 Speaker 1: ¿Viste? Preguntas hasta acá.
+01:04:17 Speaker 2: ¿Queda claro?
+  
