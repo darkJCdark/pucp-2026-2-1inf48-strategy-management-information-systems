@@ -1,0 +1,435 @@
+# Estrategia S7
+
+  Meeting started: 30/9/2026, 9:29:16 p. m.
+  Duration: 90 minutes
+  Participants: Speaker, Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/f5mq4n60ZYf0QLTE21QY?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Gracias.
+00:21 Speaker: ¿Por qué? Porque ha estado en el vientre de la mamá, ha estado súper cuidado dentro de la mamá, con el tique domiótico, y ha estado desarrollando dentro de la mamá, cuando sale el exterior, ahí es donde se enfrenta. ¡Gracias por ver el video!
+01:10 Speaker: Si se va a visitar a la abuela, a la tía, a la llorz y micro, etc. Eso me quiere decir que el organismo del bebé tiene un individuo muy diferente. y cuando nace el bebé, puede entrar al cerebro del bebé, porque el doctor se quita la cita, donde el cráneo nos está cerrando, el cráneo se cierra, entonces mientras
+01:57 Speaker 1: tanto nos está cerrando,
+02:14 Speaker: ¿Qué son las conexiones? ¿Qué son las conexiones? ¿Qué son las conexiones? ¿Qué son las conexiones? Es una parágrafa. Bueno, esta... Le pasó a eso, pero hoy en día los papás no lo han pasado en los primeros años, pero sí me notaron cuando va creciendo. Entonces si va creciendo, me notaba como que, no que es paralizada, pero como que perdía, es cierto, sentía un momento y yo continuaba.
+02:57 Speaker: como que cerraba. O sea, se paraba, paraba, y luego continuaba. Entonces, era raro. Y luego hay mis
+03:06 Speaker 1: estudios. En resumen,
+03:11 Speaker 2: si tú vas y llegas en emergencia, y te vas para el lado, ahí hace todo,
+03:16 Speaker 1: es muy diferente para el lado. ¿Y eso qué quiere decir? Por eso voy por el tema de seguridad en el trabajo. Seguridad en el trabajo es una especialidad que lo que hace es que todavía no te... Estas clínicas no te están atendiendo, te están robando. Por ejemplo, está hacia afuera de las atenciones, que son rehabilitarias, que puede ser una emergencia, puede ser UCI, puede ser hospitales, y hay una especialidad para poder curarte. ¿El centro médico? No, yo no la voy a curar. Entonces imagínate yo me voy a un centro médico, me siento, y comienzo a estornudar, o sea, comienzo a tener los virus, y los centro médico. Entonces con eso, seguridad en trabajo se sale de un rato. Según los puntos sobre el trabajo, hay una ley en el Perú. Si tu trabajas en un trabajo
+04:18 Speaker 2: de riesgo, como
+04:19 Speaker 1: por ejemplo la fábrica de los
+04:22 Speaker 2: trabajadores es un
+04:24 Speaker 1: lugar de trabajo de riesgo. Una mina es una de trabajo de riesgo. Ahora, ¿por qué es un trabajo de riesgo? Perfecto, lo has dicho perfecto.
+04:46 Speaker 2: Y,
+04:46 Speaker 1: perfecto, pero yo no trabajo en un solo riesgo, pero
+04:50 Speaker 2: trabajo
+04:52 Speaker 1: de organización y he tenido que ir a un examen médico. ¿Y eso a qué se debe? Porque el sedentarismo, si bien no es un trabajo de riesgo, lo que se quiere es saber, porque ustedes están sentados, pero yo no sé qué va a pasar con sus manos, porque están mucho
+05:10 Speaker 2: tecleando, o teclean la computadora,
+05:13 Speaker 1: o están sentados y posiblemente pueda haber un problema. Entonces lo que
+05:18 Speaker 2: hace el Estado es tratar de
+05:20 Speaker 1: recordar eso y saber qué personas están ingresando y qué personas están saliendo. Y en un trabajo de riesgo como
+05:30 Speaker 2: el que mencionaba él,
+05:32 Speaker 1: si una persona entra y
+05:34 Speaker 2: entra enferma y
+05:36 Speaker 1: continúa en un trabajo como dice la compañía, respuestas a cualquier peligro y se logra enfermar ahí, ¿qué creen que va a pasar con la empresa? Profe, ¿y aquí se ve todo eso? Porque quiero que entiendas. El negocio. Conteniendo ese negocio y las imprensiones externas, por ejemplo, acá es súper importante la regulación. Entonces, esto les va a ayudar mucho en la regulación. Mientras más regulado está, este va a estar.
+06:08 Speaker 2: ¿Por qué?
+06:10 Speaker 1: Porque va a tener más trabajo. Hay otro tema de regulación que mencionábamos con su compañero. Nadie debe tener acceso a sus tratamientos.
+06:20 Speaker 2: Es más,
+06:22 Speaker 1: ni su esposa ni sus hijos pueden tener acceso, salvo que a ustedes se les traigan. Y salvo que digan, pues si yo soy la esposa de... Por ejemplo, si alguien fallece, yo fallezco, mi esposa luego quiere sacar la historia clínica, tiene que presentar que yo he fallecido. Y lo segundo, que cuando era un fallecí, ella era mi esposa. Entonces, hay ese tipo de regulación. Entonces, ante ese tipo de regulación,
+06:59 Speaker 2: ¿cuál es mi estrategia?
+07:05 Speaker 1: A ustedes se han dado cuenta que, bueno, no sé si a algunos otros sabemos, les pueden decir y luego dicen que usted accede, permite el acceso de los datos, autoriza y haces esto. Ya no lo hagas así, si no hagas lo, le manda DTI. Hazlo por
+07:23 Speaker 2: un
+07:25 Speaker 1: app. Y al hacerlo por un app, luego vas a... Vas a necesitar el sistema futuro y actual es, oye, ahorita no hago manual y lo quiero a nivel
+07:36 Speaker 2: nube.
+07:39 Speaker 1: Entonces, vamos a ver qué ofertas hay. Bueno, esa es la demanda, ¿no? Mientras tanto, ¿qué ofertas hay en el mercado? y qué ofertas son las que yo requiero en el tema de hoy. O sea, regresando al tema de que yo estaba haciéndolo y ahora yo lo pido nivelado.
+07:55 Speaker 2: Bueno,
+07:56 Speaker 1: hay algo que tenemos acá en la empresa. Como empresa, ¿tenemos tecnología cloud o no tenemos tecnología cloud? Y si no la tenemos, ¿qué ofertas hay en el mercado para poder tenerla? Y eso es lo que nos toca a nosotros como
+08:12 Speaker 2: estrategia de empezar a trabajar.
+08:15 Speaker 1: Después de ello, hacemos un roma de proyectos para luego ver cómo hacemos ese mantenimiento. Y ese roma de proyectos, ¿qué es? Un CAPEX.
+08:25 Speaker 2: ¿Esta qué es?
+08:29 Speaker 1: Y
+08:30 Speaker 2: cuando
+08:31 Speaker 1: tengan esto, ustedes van a ver un CAPEX y un OPEX, ¿qué van a hacer? Un business X.
+08:40 Speaker 2: Y eso es lo que vamos a hacer. ¿De acuerdo?
+09:08 Speaker 1: ¿Ha visto o no ha visto? Esa es la pregunta que le pueden hacer en cualquier lugar. Te van a decir en empresa, oye, ¿qué cosa hay? Y si hay, ¿cuál me recomiendas? Entonces,
+09:22 Speaker 2: oye, ¿le tienes que recomendar?
+09:23 Speaker 1: Oye, sí, CapEx, pero, por ejemplo, ¿no? Hay empresas, cloud,
+09:29 Speaker 2: que te dicen,
+09:30 Speaker 1: oye, entonces es un proyecto, miren lo engañoso. Entonces es un proyecto de sistemas, y yo te voy a dar el 50% de ahorro en los dos primeros años. Esos dos primeros años. Es posiblemente un año de CAPEX, porque ha sacado el proyecto, sale el proyecto un año, y luego te educaron el hombre estudiante el resto de la vida. Pero es que me dieron después, siempre tenemos que educar. Entonces hay que hacer un balance de los dos para que luego veas tu Binance Case. Ah, el Binance Case va a salir lindo con el CAPEX, ¿no? Porque el Binance Case es propio, el Binance Case es en función de CAPEX, sí, claro. Pero también habría que ver Lopex, porque hay Binance Case que podemos hacer por el proyecto y el BPI podemos hacer por el costo A, quizás. Hay empresas que esto lo tienen en 10 años. Entonces, si hago todo esto en 10 años, voy a hacer un business case para ver si
+10:39 Speaker 2: está rentado o no. Entonces, ojo, tengan
+10:42 Speaker 1: cuidado cuando te diga una empresa que te diga, si tú sacas, por ejemplo, AWS, te dice, si tú sacas, yo te doy un bono de tanto.
+10:56 Speaker 2: Pero, Miguel López.
+11:02 Speaker 1: ¿Cómo podrían hacer para mejorar tu oferta?
+11:05 Speaker 2: Si te dicen, yo tengo un bono de... Entonces
+11:20 Speaker: ese es el proyecto, más del proyecto, si lo haces masivo. Y esto es, costo. Cuando algo lo haces masivo.
+11:42 Speaker: Buenísimo. Economía escala. Buenísimo. Entonces, ¿cómo aplicas economía escala acá? Cuando tengo más de un proyecto.
+11:59 Speaker 1: Entonces tengo más bien proyectos para la economía de escala y eso nos podría ayudar a eso. ¿Cómo aplicas la economía de escala también? Porque soy subsidiario de una empresa corporativa, entonces la economía de escala quizás yo sea chica, pero soy parte de una corporación y la corporación es la que hace eso. Por ejemplo, ¿he visto proyectos chicos? hay veces el país A o el país B hacen su propio proyecto pero la casa matriz no lo tiene entonces ¿qué podrías hacer? júntate con este, hable con tu casa matriz y la casa matriz luego haga un proyecto que haga un paraguas para todo el mundo y eso va a ayudar a que se reduzcan los precios Yo estuve en un proyecto así, que la persona encargada de acá, cuando pueda sustituir el proyecto allá, el director de allá, dijo, oye, desde acá no podemos usar lo mismo. Sí, claro. Entonces, se hizo un proyecto acá, y luego, chao, los costos de aquí, y se palacaron por otro día. Más o menos, para que tengan una idea, 20, 30% de descuentos en UPEX. O sea, supera. Y eso es lo que vamos a ver.
+13:32 Speaker 2: Bien.
+13:35 Speaker 1: Bueno, lo que he trabajado y hemos trabajado lo que yo les he dicho, y lo que estamos haciendo hoy es analizar la oferta, definir qué oferta requerimos, explicar qué breaches hay y implementar las aplicaciones. ¿Suena sencillo? Sí,
+13:48 Speaker 2: suena sencillo. Así es que lo estructuramos.
+13:53 Speaker 1: ¿Hasta acá una pregunta? ¿Dudas?
+14:09 Speaker 2: Gracias.
+14:13 Speaker 1: Bueno, entonces, la siguiente, de demanda o oferta, ¿no? ¿Qué necesita el negocio de hoy y mañana? Ya lo habíamos comentado. Ahora, hay que ver qué ofertas hay, ¿no? Pero también qué ofertas requiero. Entonces, si se supone que yo tengo un papel, empezamos con el centro médico, decimos que es un papel de rellena. En vez de papel, ahora yo quiero un
+14:37 Speaker 2: app.
+14:39 Speaker 1: Y para tener un app,
+14:40 Speaker 2: lo que necesito es... ¿Se acuerdan de la clase anterior?
+14:45 Speaker 1: Ya, ese es el objetivo. ¿Pero qué hay?
+14:49 Speaker 2: Producto. ¿No?
+14:51 Speaker 1: ¿Qué producto podría necesitar para ser humano?
+14:53 Speaker 2: No.
+14:55 Speaker 1: Plataforma.
+14:59 Speaker 2: Ah, qué chistoso. Sí.
+15:01 Speaker 1: Se leía fácil. Plataforma Cloud. ¿Qué más?
+15:06 Speaker 2: Servidores.
+15:08 Speaker 1: ¿Servidores? ¿Pero hay qué decir?
+15:09 Speaker 2: Plataforma Cloud. Cierto.
+15:17 Speaker 1: Producto. La clase anterior.
+15:26 Speaker 2: Tampoco.
+15:56 Speaker 1: Ya bueno, entonces, producto.
+16:14 Speaker 2: Los endpoints.
+16:16 Speaker 1: ¿Qué más?
+16:17 Speaker 2: Los endpoints para poder conectarse en la plataforma.
+16:20 Speaker 1: Ya, pero es parte de la plataforma, ¿no? Ya, eso aquí llega porque si no está en la plataforma, si no está en internet, puedo conectarme. Bueno, pero vas a hacer un
+16:38 Speaker 2: software.
+16:41 Speaker 1: Ya, pero la pregunta es ¿Software de qué? ¿Qué te falta de físico?
+17:06 Speaker 2: ¿Tu hardware qué?
+17:12 Speaker 1: ¿Cuántos a la vez quieres? Ok, dejámoslo ahí, ¿no? Entonces, ok, ahora la pregunta es, ¿tenemos celulares y le entregamos a todo celular? Che, no me preocupo. ¿Tengo servicios de internet? Sí, che, no me preocupo. ¿Sólo de atención? No, esto no lo tengo. Esto me está bien preocupado. ¿Plataforma cloud? Sí y no. O sea, lo tengo para comentarme a Facebook. Ya está. plataforma cloud si para mi
+17:47 Speaker 2: sistema de ERP
+17:49 Speaker 1: entonces me falta esto ya,
+17:54 Speaker 2: listo si
+17:56 Speaker 1: me falta esto, ¿qué más hago? Investigación. Investigo. ¿En dónde empieza a investigar primero? Así, así.
+18:06 Speaker 2: En esto.
+18:07 Speaker 1: ¿Con mi proveedor de celular? ¿Con mi proveedor de internet?
+18:11 Speaker 2: ¿Con mi proveedor de celular? ¿Con mi proveedor de internet?
+18:15 Speaker 1: Quiero en este momento, en este momento, que busquen este producto en internet y me cuenten de qué es el producto. ¿Como estamos usando el
+18:54 Speaker 2: proyecto?
+19:00 Speaker 1: Gracias por el ejemplo. Ven que era importante
+19:03 Speaker 2: conversar acerca de la investigación.
+19:59 Speaker: Dos minutos. Se
+21:38 Speaker 2: especializa en sistemas de gestión clínica. Ya, bacán.
+21:48 Speaker 1: Ok, ¿qué plataforma usa? Odo y AWS. Odo y AWS, perfecto. ¿Qué plataforma es AWS? ¿Cloud? Ya, check. ¿Qué plataforma es Odo? Usas. entonces yo puedo tener un SaaS o un cloud y eso ¿con qué me ayuda? si mi plataforma cloud es AWS o mi RP porque O2 es un RP que tiene una parte contable es
+22:26 Speaker 2: O2
+22:27 Speaker 1: le toca la puerta
+22:29 Speaker 2: y
+22:31 Speaker 1: ya tengo el soporte Parcialmente, pero falta requerimientos, etc.
+22:40 Speaker 2: Entonces,
+22:43 Speaker 1: vamos. Bueno, quiero que ustedes me digan, ¿qué hizo Sharky? ¿Qué hizo este software? Porque Sharky es una aplicación. ¿Qué hizo Sharky con los creadores de Sharky? ¿Qué hicieron? han hecho que suba ese aplicativo a cloud y ser aliado con quien? con quien usaban como plataforma? a odon y eso que quieren hacer? que cuando alguien venga y me toque la puerta una clínica o algo yo no solamente le venda la atención médica que también le puedo vender O sea, mi cliente puede ser una aseguradora, pero ¿quién le podría vender a una aseguradora? ¿Sólo la atención médica?
+23:41 Speaker 2: ¿Qué es un ERP? Toda la gestión integral, la logística que está por detener. ¿Qué hizo?
+23:49 Speaker 1: ¿Uso la plataforma? ¿Se acuerdan que en la clase pasada les había dicho, chicos, piensen en el grande, piensen en la necesidad, ¿qué hicieron ellos? Es la necesidad de los centros médicos no solamente estar aislados, es estar sobre el mundo. ¿Y qué cosa les comenté sobre los centros médicos? Si yo agarro y entro y hago una nota, ¿se queda en el centro médico? No, ¿a dónde podría ir? a mis proveedores, a mis clientes, a mis clientes que pueden ser la empresa A, la empresa B, la empresa C, la empresa D, y al final no puedo saber a la persona y conocerla toda. ¿Cuánto facturarían? ¿Por una sola? No, por una persona. Entonces, lo que han hecho, y ahí ya es el paréntesis que hay en este curso, pero creo que uno es el profesor. Le dije que este es el mundo, o este estamos en el mundo del ecosistema. Lo que se quiere es conectar con todo el mundo. Las cosas estás haciendo tú y me lo meto contigo y hacemos una reje, tú, tú, tú, tú, y eso gracias a que conectamos con esta plataforma. Entonces, si podemos cargar tres plataformas, voy a conectarse. Ya. Cierro paréntesis y continuamos con la producción. Entonces, si yo ya tengo una demanda, que es una necesidad, ya les dije, el objetivo es poder atender rápidamente a los clientes y no demorarnos, y olvidarnos del papel y tener todo interconectado, ¿sí? Lo siguiente es, ¿qué ofertas? ¿Qué puedo entregar? Y actualmente lo que hemos hecho es, ¿cuáles son los productos? Primero, ¿cómo los productos que hay? Y con eso veo qué cosas tiene mi empresa. Y tercero, cuál es la oferta requerida, es ver qué cosas podríamos darle. Bueno, me falta el software, la atención médica. Hay que hacer un análisis con qué probadores hay. Y ver, por ejemplo, uno que es chat y comenzar a poder crecer. Entonces, en esta clase, aislamos la capa de aplicaciones, la capa de alta de infraestructura se regalará posteriormente. O sea, lo que vamos a hablar es ahorita de aplicaciones más que de infraestructuridad. ¿Y estamos hablando de la aplicación? ¿Qué es eso? Ya, entonces, bueno, ¿qué entendemos de aplicación? A ver, ¿qué es una aplicación?
+26:17 Speaker 2: ¿Qué es eso?
+26:18 Speaker 1: Una arquitectura que se me debe responder a la estrategia, no a una colección de estrategias. ¿Qué es una aplicación? ¿Qué dice? Es una solución que tiene procesos, experiencia y decisión.
+26:42 Speaker 2: Bien.
+26:44 Speaker 1: Una aplicación como la de un RP que les habíamos mencionado es uno de esos tipos. Por ejemplo, vamos a ver un mapa de aplicaciones que soporta el ciclo de valor. Este es un mapa de aplicaciones de 3D. Entonces, por ejemplo, ¿no? Para poder atender a los clientes y tener todo el flujo, pues tenemos aplicaciones móviles, en e-commerce, podemos tener aplicaciones de punto de entrada, en iOS, tenemos
+27:16 Speaker 2: aplicaciones
+27:18 Speaker 1: que serían a nivel de los productos,
+27:21 Speaker 2: y tenemos oficadores.
+27:24 Speaker 1: También tenemos aplicaciones que van a tener tuve.
+27:31 Speaker 2: Esto. Oh. El CRM ve el tema de Marketing, Betas y Atención Servicio. Centraliza toda la información directamente para el cliente. Todos sus 360 que sabes del cliente. El Workhouse Management System se supone que maneja datos y trata de predecir información, tener data bruta y pasarla a una data que sí te sirva.
+28:30 Speaker 1: ¿Qué relación habría? ¿Esta es gestión de proveedores? ¿Acá es gestión de proveedores? ¿O acá es gestión de proveedores? ¿O en ningún lado de gestión?
+28:43 Speaker 2: Proveedores. SRM.
+28:49 Speaker 1: Amazon. Amazon. ¿Relación con el cliente? ¿Cuál es el primero? SRM, ¿no? Ya. Y con el cliente dice, yo lo quiero. ¿Qué pasa?
+29:10 Speaker 2: Yo lo quiero y...
+29:13 Speaker 1: Claro, puede decir el RP. El RP tiene una solicitud. La solicitud la vamos a ver. Para que salga. ¿Tenemos o no tenemos el stop? Sí, tenemos. ¿Y qué pasa? A ver, es una solicitud. Hay una salida. Entonces, ¿qué tengo con esa rama? Puede ser mi input, pero también la traza.
+29:37 Speaker 2: Y mirar.
+29:40 Speaker 1: Entonces son las aplicaciones, ahora, ¿a qué se está refiriendo todo esto? Que podemos tener soluciones por clasificación de clientes, pero estas soluciones no son
+29:53 Speaker 2: aisladas, todas se deben interconectar.
+29:57 Speaker 1: En el caso que les funcione eso, el ERP, ¿no? Tenemos el ERP, pero podemos tener una aplicación, acá no está, pero... Ah, sí, acá está. El app móvil que queremos hacerlo, el app móvil se conecta con el ARP. Que lo tenemos en modo... ¿Te acuerdas?
+30:19 Speaker 2: Y
+30:20 Speaker 1: la aplicación es el sistema de... ¿Qué? Centro médico, ¿no? ¿Qué hacía? Que tú ingresabas los datos, pasabas el examen... Y después de eso, ¿qué se podría hacer? ¿En qué me comento con el RP? La historia clínica está bien por ese lado. Habría una historia clínica que podríamos
+30:58 Speaker 2: tomarlo por... Acá
+31:03 Speaker 1: lo poníamos producción. No, orientador y producción, pero acá lo poníamos. Pero, en historia clínica queríamos, tendría una parte operativa. Ah, ok, ok, ok. Tú dices, profe, pero es que tiene la operación, ¿no? Que es como...
+31:28 Speaker 2: En el RP, lo
+31:29 Speaker 1: que podríamos tener es la orden para a esta persona atenderla. Y quien la atiende, va pasando la atención. Pero lo que se parece a... No, porque no está en una termina, sino es un servicio. Lo voy a aplicar a servicio. Y con la termina de servicio, ¿qué se hace? ¿Facturo? ¿A quién? ¿A la empresa? de esta persona negra. Este está portulando al 3A y luego termina esto en el futuro negro. Entonces son las relaciones que habría. Es importante darle un refresh a esto que ustedes han aprendido. ¿Dónde lo han
+32:12 Speaker 2: aprendido? Un tilín, ¿no? Chilín, tilín. ¿Tilín, tilín? Chilín, tilín.
+32:22 Speaker 1: Ese es tilín. Pero bueno, entonces, ¿qué hemos estado viendo acá? Bueno, en la CIS me da unas señales típicas de ver algunos tipos de problemas. Podemos preguntarnos a ver cómo está la arquitectura, es cierto, y hacia dónde queremos ir. Bueno, ¿esto qué es? Yo quiero sacar el Tupi, ¿no? Pero ¿qué es lo que estamos haciendo para sacar el Tupi?
+33:06 Speaker 2: ¿Cómo lo hace? Ver lo que tenemos ahora, luego de ahí buscaríamos lo que queremos solucionar las retras y ahí podríamos ir al Tupi, no lo que esperamos en el futuro.
+33:22 Speaker 1: Ya, ¿cómo lo haces?
+33:25 Speaker 2: ¿Qué herramientas? ¿Herramientas? Herramientas como los recursos que tenemos.
+33:37 Speaker 1: ¿Cómo usted saca un teléfono? Yo me siento con el usuario y le digo, oye dime, ¿cuál es tu mejora? Pero, ¿cómo lo hago? A través de
+34:05 Speaker 2: un taller de
+34:07 Speaker 1: Design Team. Donde ustedes qué hacen, el asimismo, los puntos de dolores, los sacan, y luego le dicen, señores, ¿cómo se encontró estos puntos de dolores? A ver el pack.
+34:20 Speaker 2: Juntos en grupos, enseñarnos cómo
+34:22 Speaker 1: ustedes les gustaría enseñar. Termina de seguir ese diseño y eso lo toma para tener esos requerimientos.
+34:37 Speaker 2: Todos, todos. Innova. Operativos.
+34:45 Speaker 1: Operativos. Ya. En función de eso, entonces tú ya sabes cuál es tu vida y hay algo que lamentablemente dice que tiene uno o dos.
+34:56 Speaker 2: ¿La creatividad? ¿La creatividad? No, o sea, si tú no eres creativo. Te impulsa para ser creativo.
+35:04 Speaker 1: Sí. Pero hay algo... que a veces, y eso se les
+35:08 Speaker 2: doy un poquito a todos, o sea, hay
+35:10 Speaker 1: algo que no, que de ese instinto y a veces no queda, que son los
+35:15 Speaker 2: números. O sea, yo tengo un dolor. Ah, sí, yo lo hago, este.
+35:24 Speaker 1: Mira, yo sube, yo, yo gerencio un área que se llama, este, que se llamaba, un área de atención al cliente, para hacerle más,
+35:32 Speaker 2: más corto el tema. El
+35:38 Speaker 1: punto era este. Les digo el caso. Tienes a una persona, la persona llega a una atención y otra persona la atende. Atención al cliente, analista, analista, atención al cliente.
+36:15 Speaker 2: Y la
+36:16 Speaker 1: preocupación es, este cliente entra, el analista entra y en este proceso se
+36:22 Speaker 2: demora media hora.
+36:28 Speaker 1: ¿De acuerdo?
+36:30 Speaker 2: ¿Cuál es la crítica de este cliente?
+36:32 Speaker 1: Si hizo un design thinking, ¿de acuerdo? Y si hizo un design thinking en función de los valores del cliente, no en función del valor del analista. Ese es el primer error. Como si hizo, la mayoría hacen el nivel de analistas, pierdo la visión del cliente. Entonces,
+36:50 Speaker 2: necesitas tú el design thinking, debería
+36:52 Speaker 1: ser en función de este cliente. sin dejar de razonar legal el cliente decía demora y atención el cliente decía demora y atención el analista le dice la respuesta es ¿cómo voy a demorar si yo lo hago en 30 minutos? ¿problema? ¿es un problema o no es un problema? porque ¿cuál es el problema?
+37:32 Speaker 2: El
+37:33 Speaker 1: cliente está diciéndote que se demora. Y el analista dice, pero si yo no tengo un cliente, ¿quién está errado? El analista está errado, y el cliente, entonces, ¿cómo hago? Se conoce yo que se demora.
+37:55 Speaker 2: Si somos una empresa, buscamos también, como se llama, que el cliente esté satisfecho. Entonces, ¿se podría tomar la frase que el cliente tiene la razón en nuestro caso? Y
+38:06 Speaker 1: el cliente tiene la razón y dice, bueno, ya. Haces un design thinking y ese es el proceso.
+38:14 Speaker 2: Que el cliente no te está dando el dato exacto de cuánto tendría que ser el tiempo.
+38:24 Speaker 1: Exacto. Aquí están tomando... ¿Les falta cuál dato? Es un dato subjetivo. ¿Qué falta?
+38:32 Speaker 2: Un indicador. Un indicador.
+38:37 Speaker 1: Y él no te está dando el dato subjetivo. Entonces tienes que buscar el dato subjetivo. ¿Sabes qué pasó? Sí, se demoró un año. Pero es que para él, el analista para 30 minutos, el señor después de 3 semanas regresa y le entrega los datos que quiere. El analista luego se lo pasaba a otra área y esta otra área se demora una semana. Y la respuesta se le entrega al cliente una semana. El cliente dice, ah, otra vez regreso. Y se demora 3 meses. Bueno, le entregó la documentación, 30 minutos. Uy, este fue rapidísimo, dos días, pero este de acá, luego se lo pasó a otro, que le dijo en cinco días,
+39:27 Speaker 2: que hay un error.
+39:29 Speaker 1: Y se lo dijo, otra vez, el error, y ya acertó. Regresó después de un año y
+39:39 Speaker 2: pasó todo. Terminó.
+39:43 Speaker 1: Entonces, la apreciación demora, atención, es correcto. ¿Por qué demora? Dame, como ustedes lo dicen, factos. Dale un caso, ¿no? Entonces,
+40:00 Speaker 2: es correcto,
+40:03 Speaker 1: pero tratemos siempre de llevar con menos. Entonces, pero, cuando regresamos, este es el otro caso, el diciembre no voté, el diciembre no voté, el diciembre no voté, el diciembre no voté, el diciembre no voté, el diciembre no voté, el diciembre no voté, pero lo que expusimos no es porque ellos no votaron, lo que expusimos fue a él la sensación de él, que como un todo,
+40:26 Speaker 2: se le muera un mal.
+40:30 Speaker 1: Esto que está acá, el ASIS es esto. La pregunta de la lectura es incorrecta, pero señales de madurez, ¿cómo sacas información a través del cliente? ¿Ustedes querían que eso ocurra aquí? Un CRM, un RP, ¿qué es que hay?
+40:50 Speaker 2: Un CRM, creo.
+40:52 Speaker 1: Ok, un CRM. Pero el CRM no termine, que el CRM no termine, termina una tarea y cierra. Termina una tarea y cierra. No. Que el CRM inicie, porque ese también fue el error, inicie desde una solicitud. Y muchas tareas.
+41:12 Speaker 2: ¿Ya? Listo. Quería
+41:16 Speaker 1: comentarles, porque eso es un error que cuando se tiene,
+41:20 Speaker 2: mutir.
+41:22 Speaker 1: Busquen, por favor, temas objetivos. Ahora que ya están más maduros, ya les puedo contar eso. Bueno, ya sabemos que es un CRM, eso no es un CRM. Eso ustedes lo saben, muy repetidamente lo saben. Manejo de órdenes, gestión de transporte, punto de venta, e-commerce, app móviles, loyalty,
+42:02 Speaker 2: property management, planning.
+42:17 Speaker 1: Bueno, ya hemos comentado acerca de que cada uno de estos tiene un dominio, ¿no? Este se ha hablado del cliente, esto determina ya sea el producto, generación de los vendidos, transporte, etc. Estos son, y aparte, ellos de aquí utilizan algunos sistemas consumidores que hemos condicionado. El OMS utiliza el ERP, O sea, la conexión entre sistemas. Hay que tener en cuenta eso. Que no solamente son sistemas aislados, sino sistemas que se interconectan. Hablando de ello, la verdad es hablar de...
+43:04 Speaker 2: Pero
+43:05 Speaker 1: yo sí lo que no necesito que ustedes sepan es esto. Y que me digan que eso es por eso. Y que me digan dónde buscamos. Y que me hagan comparación.
+43:18 Speaker 2: Que me traigan los precios.
+43:20 Speaker 1: Que me digan cuánto me va a costar. Esto es lo más importante de
+43:24 Speaker 2: toda esta pregunta.
+43:27 Speaker 1: Para mí como profesores ustedes también saben qué significa cada uno. Ahora, lo otro es empezar a averiguar, entonces, mi software, imaginemos que ya tienen ustedes un software, ¿no? Pero no hace todo eso. En el caso de mi software, era por tarea. Entonces, terminaron la tarea, terminaron la tarea. Entonces, si yo saco del sistema, yo saco que el promedio atiende 30 minutos en una semana, en cinco días. Nunca voy a encontrar el año. Entonces, la idea es que ustedes con el producto puedan saber si pueden navegar con esto o
+44:02 Speaker 2: no.
+44:03 Speaker 1: O hay que hacer un reemplazo. Entonces,
+44:06 Speaker 2: vean
+44:08 Speaker 1: si se puede conservar el producto y nada más es cambio de procedimiento. Vean si podemos modernizar, agregar algo adicional. Vean si yo puedo integrarlo con algún proceso. Vean si, caballero, hay un gap que habría que sustituir o completamente retirar. Este criterio es cuando ustedes le tienen el producto, ya saben qué hacer, ya saben cuál es la oferta, pero lo que hay que entender es a dónde nos vamos. Si yo ya tengo un proceso como esto, y ya les dije, es que se equivocaron y configuraron mal, yo ahora voy a configurarlo mejor, es conservarlo, nada más que ver cómo lo... dentro del mismo sistema. Pero también posiblemente podamos modernizarlo. ¿Qué significa modernizarlo? Que quizás yo tenga un sistema solo de atención inicial, pero no tengo un urbano puro para el resto. El IAK puede mandar correos electrónicos. Chao.
+45:19 Speaker 2: Creo que hay.
+45:35 Speaker 1: que tienes un workflow sacaba aquí y el resto es puro correo entonces, ¿qué es lo que necesitarías acá? o lo modernizas o haces un valor agregado a lo que
+45:46 Speaker 2: ya tienes, como un workflow o
+45:48 Speaker 1: lo integras a otro workflow o lo sustituyes porque
+45:52 Speaker 2: no es malo
+45:55 Speaker 1: Pero va a depender del análisis que ustedes hagan. Por eso. Porque se supone que lo que han hecho es un análisis de estado del arte. Y el tercer análisis de estado del arte, ¿qué es lo que hacen luego?
+46:22 Speaker 2: Es una comparación.
+46:25 Speaker 1: Hay proyectos en tesis, o proyectos como es de ustedes, en estrategia, que lo que hacen es profe. Hemos encontrado en el mercado ABCD. Entonces, ¿qué es lo que tienen que hacer?
+46:36 Speaker 2: Costos.
+46:38 Speaker 1: Integración. Modernización. O sustitución. No lo sé. Porque lo que van a hacer es Inmigrar todo hacia el otro nuevo Y al retirarlo van a cambiar procesos ¿Qué más también? Ingeniería software ¿Cuál es un nuevo software? ¿Qué haces? ¿Qué es el cambio? Capacitación es esto. No es solo capacitarlo.
+47:20 Speaker 2: Concientización. Es hacer
+47:22 Speaker 1: todo un sustituto en el cambio. Es de meter al cliente al cliente. Meter al usuario desde el inicio, que formen parte de los design thinking, que formen parte de los documentos, que formen parte de él. ¿Qué
+47:34 Speaker 2: creen ustedes?
+47:40 Speaker 1: Lo menos que tienen que hacer es tener a una persona que finalmente cabe y no lo usamos.
+47:46 Speaker 2: Y eso va a ser, perdón, económico.
+47:55 Speaker 1: Bueno, el subí de aplicaciones, por ejemplo, del Twitter Retail, que hace un ratito mencionábamos, es justamente ver el cliente con todas las aplicaciones que hay, y cómo esas aplicaciones cuentan en un backbone de integración. Hay una capa de guía. ¿Cuántos usan ustedes si llaman? ¿Cuántos usan ustedes si llaman? ¿Cuántos usan ustedes si llaman?
+48:24 Speaker 2: ¿Cuántos usan ustedes si llaman? ¿Cuántos usan ustedes si llaman? ¿Cuántos usan ustedes si llaman? ¿Cuántos usan ustedes si llaman? A ver. ¿Esto qué es?
+48:49 Speaker 1: ¿Esto qué es? Ahora la pregunto. Ya. Y hay bebida. Resúmenes, búsquedas, generaciones, recomendaciones dentro de la aplicación. ¿Qué es esto?
+49:20 Speaker 2: ¿Quién quiere decir? ¿Quién quiere decir? Preguntas y respuestas.
+49:30 Speaker 1: Y esto es función de procedimientos. El hecho de hacer un resumen es un procedimiento que yo... ¿Cuál sería el procedimiento? Lenguaje natural, los pasos
+49:51 Speaker 2: a texto, y de texto, luego paso a un procedimiento.
+49:57 Speaker 1: Búsqueda, que es la misma cosa, previo a una búsqueda, generación de recomendaciones, al final son preguntas en esfuerzo de procedimientos. Cuando es una guía conectada, Y lo más importante son los datos. Y para tener datos, ¿qué
+50:17 Speaker 2: necesitas?
+50:19 Speaker 1: ¿El proceso cómo va a estar? Bueno, bueno, estructurado. Y bueno, son acciones. Regreso. Al inicio era... Venden hoy día porque es algo importante dentro de... O sea, no creo que hayan visto en otro
+51:08 Speaker 2: sistema.
+51:09 Speaker 1: Pero como estrategia, en otros cursos como estrategia. Por ejemplo, lo que estamos haciendo en la estrategia es pasar de escrito a una app. Y con esta app ya me puedo... Con esta app, ¿qué estoy teniendo? Es una app, es una idea tenida. La idea en mi vida, lo que podríamos hacer es, si alguien no sabe qué hacer, ¿qué hago en este campo? ¿Qué coloco? ¿Qué pasaría si es menor de edad? ¿Le hago la pregunta a él o le hago la pregunta al papá? ¿Debería estar...? Uy, estoy buscando ingeniero informático, pero dice ingeniero de sistemas. ¿Yo mismo? Sí, ya está. ¿Necesitas muchas cosas? No. Tendríamos que darle a la industria artificial todos sus procedimientos y con eso fluido. Ya lo instalé. Ya está la aplicación. Ya está funcionando. ¿Cómo haría una IA conectada? El proceso ya estaría estructurado, ¿cierto? Entonces, la aplicación usa los datos para personalizar y decidir. ¿Qué tipo de decisión podría ser para usar los datos? Si está el dato estructurado, ¿qué podría ser? ¿No? Citas. Esa es una acción. En función de lo que... Toma tu información. Como el proceso ya está estructurado, el dato ya está consistente, y que haces una cita médica oftalmológica. Una cita médica al cardeólogo. ¿Qué haría? ¿Mandaría por WhatsApp? ¿WhatsApp preguntaría? ¿Tú darías la respuesta? ¿Tengo libreta de fecha? No, no tengo. ¿Para qué pase la siguiente cita? Porque está mal. Es una acción. Pero gracias al dato, porque el proceso está estructurado, el dato está consistido. Y queríamos una guía conectada. La aplicación usa datos de otro dominio para personalizar y decidir. en Inversidad Conectada, en este proceso estructurado, como información y
+53:31 Speaker 2: puedo decir,
+53:35 Speaker 1: puedo hacer preguntas de
+53:38 Speaker 2: la
+53:42 Speaker 1: información ingresada. No tomo una decisión. Acá no tomo una decisión. Acá tomo una decisión. Acá, ¿qué cosa te hago? Acá era el Q&A de procedimientos. Aquí, el ya de mi data. Quiero saber cuántos no han sido aptos. Quiero saber cuál es el porcentaje de ventas del día de hoy. Quiero saber cuántos no pudimos ganar cita. Quiero saber quiénes viven fuera del país. Quiero saber... ¿Qué nuevos clientes están viniendo? Quiero saber cuál es el rubro. Dame un porcentaje, un pay del rubro. ¿Y quién está creciendo? Con esa información, creo una nueva cita en un centro mega-gradechip, en Trujillo, me contacto a Agatoesmina, me contacto a un minero, contrato a un vendedor que sea del rubro, y puedo tomar una decisión en función del lab. La siguiente es... Acción. Y una acción podría ser, quiero generar una cita médica en caso necesite mayor evolución, no paso por psicología, darle una solución. Yo
+55:01 Speaker 2: me refería como que en base a la disponibilidad que tienen de los doctores, más o menos siguiendo lo que explica, según la disponibilidad de los doctores, ¿cuáles serían las próximas citas? ¿Ahí eso sería ya conectado o ya bajado?
+55:17 Speaker 1: No, ya se lo sabe, estaría conectado. Sí, es un agente.
+55:19 Speaker 2: A pesar que viene a hacer una pregunta a partir de los datos de disponibilidad.
+55:22 Speaker 1: Ah, ya, ok. ¿Pero tú para qué quieres ese dato?
+55:25 Speaker 2: Ah, que va a estar emitido dentro de la... Claro,
+55:28 Speaker 1: claro, claro. Tú no lo quieres para poder tomar información. Tú ya lo quieres para que estén en el sitio.
+55:39 Speaker 2: ahora en este momento porque creen que la idea en
+55:44 Speaker 1: Perú no
+55:46 Speaker 2: es
+55:48 Speaker 1: tan... o sea, sí está, sí se usa,
+55:53 Speaker 2: pero no
+55:55 Speaker 1: genera mayor rentabilidad, mayor acción.
+56:03 Speaker 2: Para funcionar necesita todo el proceso bien, hechos, datos bien preparados.
+56:08 Speaker 1: Datos consistentes, procesos. ¿Y para tener datos consistentes necesitas?
+56:13 Speaker 2: Procesos estructurados.
+56:26 Speaker 1: Entonces, la mayoría de empresas, claro, tienen sistemas satélites que no están integrados. Lo que se quiere, por todo tipo lo que le acaba de mandar al Sharky, se conecta ahora en su
+56:41 Speaker 2: estructura.
+56:45 Speaker 1: Entonces, hay acciones aisladas. No hay
+56:48 Speaker 2: medicistas, pero hay acciones aisladas como el
+56:51 Speaker 1: de IA de agentes. Ah, probablemente esto debe ser un proceso. No, pero podrías hacer algo pequeño, ¿no? Como, o sea, presentas médicas. Este, una IA que ha de darle
+57:01 Speaker 2: por WhatsApp.
+57:04 Speaker 1: ¿Qué hace? Se contacta el email. El email
+57:07 Speaker 2: está titulado.
+57:09 Speaker 1: Cloud. Cuando lo hacen agentes en cloud, haces
+57:12 Speaker 2: eso.
+57:15 Speaker 1: Pero lo más importante es tener en algún lugar
+57:17 Speaker 2: algo estructurado. Entonces,
+57:19 Speaker 1: lo que se necesita es primero una estructura para aplicar. Ahora, la isla también consume cosas.
+57:30 Speaker 2: Lo
+57:31 Speaker 1: deja solo y se asume
+57:34 Speaker 2: la sospecha. Y
+57:39 Speaker 1: eso es sí por consumo, ¿no? Como
+57:41 Speaker 2: un flaco. Ya. ¿Claro?
+57:54 Speaker 1: Entonces, de ahí ya me parece bien para mi proceso, pero lo más importante, al llegar a la acción, necesitamos que los procesos estén bien. Bueno, por ejemplo, ¿no? Aquí dan ejemplos acerca de CRM. Hay agentes que se conectan, que es lo que sacan citas. En un ERP hay más un asistente. Si ya tienes el ERP y tienes el asegurado, hay más acerca de datos. ¿Por qué dicen que los contadores van a dejar de...? Se está reduciendo el trabajo en los contadores. Claro, porque antes... Tú le pedí a dar un reporte de los estados financieros.
+58:51 Speaker 2: Los pobres
+58:53 Speaker 1: permanecen y así te lo tienen. Ah, ahora ponle una coma. Un regreso y ahora vamos. Si tú terminas un ERP, ahora tú ganas un poco para el lenguaje natural. Le puedes preguntar
+59:09 Speaker 2: y te puedes hacer el reporte.
+59:14 Speaker 1: Sin embargo, si no tienes estructurada la contabilidad, si el proceso no está estructurado,
+59:21 Speaker 2: ponga el sillaje, ponga,
+59:23 Speaker 1: no te va a aceptar la función. Si estás necesitando batallones de contadores, porque el contador va a tocar la puerta, Por ejemplo, a ver, un proyecto. Hay un proyecto, que tengo una venta, que tengo por internet,
+59:41 Speaker 2: un replay, tengo todo eso por ahí, ah, chévere, ya. Pero, ¿no? Tengo
+59:47 Speaker 1: tiendas, contratos, tengo, ¿eh? Tengo información de las ventas. Ahora, Oxxo, ya. Ahora Oxxo ya tiene todo eso, tiene información de las ventas de inventario. Pero, Opso descubrió que haciendo eventos en empresas pequeñas, por ejemplo, una empresa que capacite, ¿no? Entonces, escribe a Opso y Opso le entrega café, galletas, etc.
+01:00:14 Speaker 2: Uy, estoy descubriendo a este nuevo,
+01:00:16 Speaker 1: ya. Pero ese proceso no está en las tiendas, no existe, se maneja en Excel. Pobre contador, el contador tiene toda la información y ahora cuando le piden información corporativa, de este tipo de ventas no las tienen, y de tres o cuatro excels. Las tienen que juntar, las tienen que subir con esa información. Para eso, ¿necesitas un contador? No, un contador necesitamos para utilizarlo. Pero lo que necesitamos es hacer un proceso para tener esa información ahí y ya tenemos la información y el estado financiero es la pregunta.
+01:00:54 Speaker 2: Eso es lo que pasa
+01:00:57 Speaker 1: en el Mercosurón.
+01:00:58 Speaker 2: Y ese
+01:01:00 Speaker 1: es el tema. Luego, bueno, y ahí tiene para cada uno.
+01:01:06 Speaker 2: Este es
+01:01:08 Speaker 1: un visionario de entrenamiento en Cherry. Porque lo que quieres es un... Imagínense que las ventas por el fenómeno del niño van a bajar.
+01:01:19 Speaker 2: ¿Cuál es el?
+01:01:20 Speaker 1: Ahorita un gerente está pidiendo, dime
+01:01:23 Speaker 2: durante
+01:01:24 Speaker 1: todas las estaciones del próximo año, ¿cuánto va a bajar el fenómeno del
+01:01:29 Speaker 2: niño?
+01:01:31 Speaker 1: ¿Compro o no compro chompas? Obviamente no. Pero chompas en el invierno, pero... Pero va a haber invierno como para comprar, porque yo tengo camisas manga larga, no uso con esa manga larga, pero compraría para después en invierno, si claro, si hay productos que se compran,
+01:01:53 Speaker 2: y eso se corta.
+01:01:55 Speaker 1: Pero me gustaría, con menos, no sé, soy malo en los materiales, pero hay camisas que tiene. un estilo que no es tan grueso ese tipo no podía comprar y eso se importa escenarios, que pasaría si es que el
+01:02:16 Speaker 2: niño
+01:02:17 Speaker 1: se extiende hasta julio que pasaría si se extiende más cuál es la probabilidad eso es y el loyalty
+01:02:29 Speaker 2: obviamente ya sabemos el
+01:02:31 Speaker 1: tema de recomendaciones podríamos hacer que me den las recomendaciones
+01:02:37 Speaker 2: a cada cliente.
+01:02:46 Speaker 1: Pero eso no es generativa, esa recomendación no es generativa. Bueno, ya vimos cómo volvió la oferta, ya sabemos cuál es el propósito, ya sabemos el ASIS, ya sabemos cómo llegar al TUBI, y con eso vemos qué arquitectura sabe si quieren inteligencia artificial, cuál sería, y tomamos una decisión de si conservar, no avanzar, integrar, sostenerlo. Ok, y ahora vemos, vamos a ver, yo ya tengo el TUBI. Gracias por recibir la transmisión. Ahora lo que me toca es
+01:03:21 Speaker 2: el Englishcase.
+01:03:22 Speaker 1: ¿De acuerdo? Entonces, vamos a ver cómo hacemos un Englishcase. Hay algo en la How to write a great Englishcase.
+01:03:44 Speaker 2: Acá fue un leyendo. Recomiendo que todo lea.
+01:04:01 Speaker: Pero vamos a hacer práctico. Gracias por ver el video
+01:04:41 Speaker 1: Este es un ejemplo del cálculo del rol. ¿De acuerdo? Aquí tenemos... para este tipo de negocios. Vamos a cerrar más tarde. Bájense, o sea, bájenselo, leanlo, y conversamos. Tenemos 8 y media, 10 minutos, no, 15 minutos,
+01:05:12 Speaker 2: 15 minutos,
+01:05:15 Speaker 1: ya, sería 8 y 35,
+01:05:20 Speaker 2: para que lo vean,
+01:05:21 Speaker 1: y 8 y 40 empezamos. Sí, pero o sea, lo que quiero es, tómense ese tiempo y de ahí vuelven un rey.
+01:05:54 Speaker 2: Básicamente es un análisis de cómo funciona actualmente la atención a las clases respecto a
+01:06:01 Speaker 1: lo que podría hacer al implementar un learning, ¿no?
+01:06:04 Speaker 2: Bueno, no sé, por ahí entendí la idea, no
+01:06:07 Speaker 1: sé si era correcto. Gracias. ¿Cuántos días
+01:06:51 Speaker 2: se toma?
+01:06:54 Speaker 1: ¿Cuántas sesiones puede haber? ¿Cuál
+01:06:57 Speaker 2: es el porcentaje de viaje?
+01:07:00 Speaker 1: ¿Cuánto es el costo? ¿Cuál es el promedio de viajes que realiza? Luego, sobre estas consideraciones y menos costos. el costo de administrar recursos, no cuesta tanto,
+01:07:26 Speaker 2: el costo de pegar, en el caso de la administración,
+01:07:33 Speaker 1: el costo que me va a
+01:07:35 Speaker 2: tener por día, tanto el entrenador como el costo de administración,
+01:07:41 Speaker 1: el costo de materiales y la implementación. Las licencias, cuánto sería. En caso de que sea común y cultivo, hay otros temas
+01:07:59 Speaker 2: propios de la mejor historia. Y
+01:08:03 Speaker 1: para ello, entonces, el costo
+01:08:05 Speaker 2: anual de mantenimiento me cuesta
+01:08:08 Speaker 1: doble. Y el costo de implementación es...
+01:08:33 Speaker: el costo anual, si hago un bol, que es el baruto de costaria,
+01:08:55 Speaker 1: ¿no podría agarrar? si estimo todo esto, podría agarrar, porque los costos son mucho más alto. Me
+01:09:10 Speaker: pregunto, ¿cuál es el costo más alto de todo si me va hasta esto?
+01:09:53 Speaker: No solamente este costo de movilización. Luz, agua, personal... Me cuesta mucho más. Esto es en función de costos. ¿A quién le faltaría esto?
+01:10:55 Speaker: Si es capaz de reemplazarlo o dar más funcionalidad. ¿Cuál es la diferencia?
+01:11:09 Speaker 2: ¿Qué diferencia hay entre el e-learning y el e-learning? O sea, claro, si el e-learning es suficiente para sopesar o para, no sopesar, sino que para realizar clases según habla formalmente, o si es que es capaz de programar funcionalidades y lo que normalmente se tiene dentro de un aula como un programa. ¿Cuántos clientes vas a tener? ¿Cuántos clientes vas a tener? Pero eso es, me
+01:11:57 Speaker 1: vuelve el clásico y al final baja la tensión de los muros y
+01:12:03 Speaker 2: se van a pintar.
+01:12:07 Speaker 1: realizado una implementación de IE. Es una empresa que hace cursos
+01:12:14 Speaker 2: cortos de
+01:12:17 Speaker 1: todo el tema de belleza. ¿Ustedes quieren seguir learning? Claro, no, porque necesitan ver cómo estás
+01:12:38 Speaker 2: haciendo cortes, estás viendo
+01:12:41 Speaker 1: así, hasta ver tu técnica, y el profesor te ayudaría a hacer la técnica. Entonces, Ilemi sería un poco pesado. Sin embargo, esta empresa comenzaba a recibir... comunicaciones,
+01:13:00 Speaker 2: correo, teléfono, eso, de gente de
+01:13:05 Speaker 1: provincia, porque estaban en el mar, de provincia y de mis ángeles. Y quieren aprender.
+01:13:16 Speaker 2: Entonces,
+01:13:17 Speaker 1: podrías hacer una plataforma de learning.
+01:13:23 Speaker 2: pero
+01:13:23 Speaker 1: no es lo suficiente como para poder cerrarlo lo que hay que hacer es
+01:13:30 Speaker 2: hacer doble y
+01:13:34 Speaker 1: ver como funcionar podrías hacer que de 10 clases 12 a presencial pero no hay una presencial ya
+01:13:45 Speaker 2: bueno, como hacen en vivo TikTok o Instagram
+01:13:59 Speaker 1: En cortes, en todos ellos necesitas un modelo. Se siente, entonces podría tener a un profesor. O sea, tú te grabas y lo miras en
+01:14:12 Speaker 2: una
+01:14:16 Speaker 1: sesión. Comenzaron a explorar que no he estado en esos procesos. Pero era
+01:14:26 Speaker 2: una demanda.
+01:14:28 Speaker 1: No era poca.
+01:14:30 Speaker 2: Pero no era la experiencia. Era poca.
+01:14:36 Speaker 1: Entonces sí que alumnas de universidades
+01:14:40 Speaker 2: hicieron el estudio. Porque
+01:14:44 Speaker 1: de esa manera tenían su ingreso. Bien, parte de la demanda.
+01:15:08 Speaker 2: Si ustedes
+01:15:12 Speaker 1: me dicen que van a hacer esto para mejorar y se olvidan en clases, ¿cuál es la demanda? Usted me dice que van a complementar.
+01:15:25 Speaker 2: Suena bien. ¿Y en dónde? ¿Por
+01:15:30 Speaker 1: qué? Eso quiere ser ese ejercicio para ello. O sea, están bien los costos, están bien, pero falta
+01:15:41 Speaker 2: la demanda, uno,
+01:15:45 Speaker 1: para este ejercicio. Pero les ayuda muchísimo poder descubrir el detalle de los costos.
+01:16:30 Speaker: No sabe... Para que lo conozca,
+01:16:43 Speaker 2: para que lo conozca
+01:17:03 Speaker 1: todavía hicimos un chat de ideas
+01:17:05 Speaker 2: un chat con ideas y con prototipos tenemos algo dispensado pero todavía no se necesita la oportunidad bueno
+01:17:17 Speaker 1: chicos, preguntas acerca de sus proyectos sobre el business case o algún business case o ideas o dudas
+01:17:27 Speaker 2: Persona, la próxima semana hay laboratorio. ¿Nada?
+01:17:46 Speaker 1: ¡Claro!
+01:18:10 Speaker 2: Para calcular el roi necesitas la ganancia. Por eso
+01:18:16 Speaker 1: es el savings year.
+01:18:18 Speaker 2: Ellos lo han hecho en base.
+01:18:22 Speaker 1: Por eso les dije, mira, el costo de entrenamiento en Classroom son 3 millones de libras. New Yorkers son 3 millones de libras. Solo el costo. Y la implementación en total es 189.000 libras. Y la resta es...
+01:18:39 Speaker 2: ¿Pero eso no es como una evaluación económica? ¿Puedo decir? Ah, eso es lo que dice en Ingeco. Implanta. Implanta.
+01:19:09 Speaker 1: Claro, lo que yo necesito es de sus proyectos, ¿cuáles son billetes? ¿Cuáles son para los logros de reforma?
+01:19:29 Speaker 2: Profes, si a la empresa que estoy haciendo, no tengo conocimiento de nada, o sea, tengo forma de agarrar y sacar ahí
+01:19:35 Speaker 1: un poco. ¿Para qué la haces? Que cambie
+01:19:37 Speaker 2: el tema. Que cambie el tema. Seamos ambiciosos como el cheque.
+01:20:34 Speaker 1: Bueno, ya saben ustedes que es un plazo... o algo...
+01:20:38 Speaker 2: Si tú
+01:20:49 Speaker 1: tienes 200 mil,
+01:20:51 Speaker 2: ¿no?
+01:20:52 Speaker 1: ¿Cuánto recibiría en esa aproximada? Si ustedes hacen un proyecto con un valor de retorno de 10%,
+01:21:13 Speaker 2: entonces
+01:21:17 Speaker 1: ustedes tienen que hacer algo que
+01:21:19 Speaker 2: sea más que eso. 1 año 1 año
+01:21:37 Speaker 1: 1 año 1 año 1 año
+01:21:40 Speaker 2: 1 año
+01:21:40 Speaker 1: 1 año 1 año 1 año 1 año 1 año 1 año 1 año 1
+01:21:43 Speaker 2: año 1 año
+01:23:08 Speaker: 1 año 1 año 1 año Bueno, con un punto es que todos
+01:23:29 Speaker 2: nosotros, por ejemplo,
+01:23:31 Speaker 1: pongamos dinero y todo ese dinero vaya a un lado. Pero yo luego puedo salir, si la gente comienza a salirse, comienza a reducirse ese moto que vamos a colocar. Cada vez voy a ganar dinero.
+01:23:45 Speaker 2: La primera vez entre más dinero. Ya. Y...
+01:23:51 Speaker 1: a donde nosotros entramos, que en este caso, por ejemplo, el 15%, para ese crédito, el creditor va a colocar todo este
+01:23:59 Speaker 2: dinero en acciones, en dólares,
+01:24:01 Speaker 1: de un fondo de inversión. Entonces va a colocar, esto no es internacional, va a colocar acciones en dólares en empresas tipo
+01:24:12 Speaker 2: A o B. Si esas empresas tipo A o B...
+01:24:18 Speaker 1: tiene el mismo comportamiento, porque yo lo que le he dicho es, considera el histórico del comportamiento de hace un año, el histórico del comportamiento de hace un año es casi 91% para ese tipo de información. Entonces, si yo me hubiera colocado esto hace un año, hubiera dado más información. Pero nada me garantiza que en este año que siguen las mismas compañías paseas.
+01:24:45 Speaker 2: Entonces, ¿cuál es? Se lo voy a abrir.
+01:24:50 Speaker 1: Profe, pero es el capital de acciones,
+01:24:54 Speaker 2: de acciones es variable.
+01:24:59 Speaker 1: En cambio, si yo pongo acciones,
+01:25:02 Speaker 2: acciones, acciones, acciones, acciones. Mire,
+01:25:11 Speaker 1: en el tema de acciones de innovación,
+01:25:14 Speaker 2: entonces por ejemplo.
+01:25:56 Speaker 1: A la
+01:25:59 Speaker 2: mierda
+01:26:05 Speaker 1: Acá hay pierde. ¿Por qué ha servido pierde? Porque lo que
+01:26:07 Speaker 2: más ha servido es los riesgos. O sea,
+01:26:12 Speaker 1: si tú te vas a una acción, 209%, 209% es productor capital y interés. Acá debe haber un mix entre variable y... Pero acciones solo en la TAM.
+01:26:34 Speaker 2: Entonces, chicos,
+01:26:35 Speaker 1: ¿quién quiere decir eso? Que si el dinero va en un 10% aproximadamente, yo prefiero meterme a alguien que va en algún crédito. Por ejemplo, en un caso de negocio, se viene más, aproximadamente, más del 10%. Ya. En un caso de negocio, de inversión.
+01:26:55 Speaker 2: Para que no vean más o menos mal que el paciente está conservador.
+01:27:01 Speaker 1: Si está en más del 20%, es el cachete. Las empresas peruanas, estados, y temas de finanzas, banca, seguro,
+01:27:11 Speaker 2: pero también. Están teniendo una rentabilidad aproximadamente de 50%. Entonces,
+01:27:21 Speaker 1: ¿qué vuelvo en el caso de negocio? En el caso de negocio, que tú estás
+01:27:25 Speaker 2: muy tratando, es para poder
+01:27:26 Speaker 1: decirle a tu lector que lo que tú estás
+01:27:30 Speaker 2: haciendo para la responsabilidad
+01:27:33 Speaker 1: de la compañía que van a esperar. Lo
+01:27:47 Speaker: que quiero ver es que me retorna. ¿Listo? Es ahora.
+01:28:21 Speaker 2: ah, 7 ¿Dónde estás?
+01:29:38 Speaker 1: ¿Cuánto van a presentar? ¿Cuánto van a presentar? ¿Cuánto van a presentar? ¿Cuánto van a presentar?
+01:29:45 Speaker 2: ¿Cuánto van a presentar? ¿Cuánto van a presentar? ¿Cuánto van
+01:29:49 Speaker 1: a presentar? ¿Cuánto van a presentar? ¿Cuánto van a presentar?
+01:29:58 Speaker 2: ¿Cuánto van a presentar? ¿Cuánto van a presentar? ¿Qué día prefieres? ¿Miercoles o doce? ¿Semana ocho o semana nueve? Yo pues semana
+01:30:11 Speaker 1: ocho.
+01:30:17 Speaker 2: Sí, tengo exámenes seguidos. Igual si venimos. El nombre peritado.
+  
